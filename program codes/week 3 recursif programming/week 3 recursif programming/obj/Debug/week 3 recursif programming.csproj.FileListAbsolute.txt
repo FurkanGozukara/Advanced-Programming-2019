@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\bin\Debug\week 3 recursif programming.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\bin\Debug\week 3 recursif programming.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\bin\Debug\week 3 recursif programming.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\obj\Debug\week 3 recursif programming.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\obj\Debug\week 3 recursif programming.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\obj\Debug\week 3 recursif programming.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 3 recursif programming\week 3 recursif programming\obj\Debug\week 3 recursif programming.pdb
