@@ -1,0 +1,18 @@
+﻿<Window x:Class="week_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:week_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="btnReturValue" Content="return value" HorizontalAlignment="Left" Margin="224,76,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Click"/>
+        <Label Name="lblVal" Content="Label" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnReturValue_Copy" Content="return value 2" HorizontalAlignment="Left" Margin="352,75,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy_Click" />
+        <Button x:Name="btnReturValue_Copy1" Content="return value 3" HorizontalAlignment="Left" Margin="480,74,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy1_Click" />
+        <Button x:Name="btnReturValue_Copy2" Content="return value 4" HorizontalAlignment="Left" Margin="224,111,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy2_Click"  />
+        <Label x:Name="lblVal2" Content="Label" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
