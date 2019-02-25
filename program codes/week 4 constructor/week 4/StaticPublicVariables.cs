@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace week_4
 {
-    public class PublicValues
+    public static class StaticPublicVariables
     {
-        public int irStudentCount = 0;
+        public static int irStudentCount = 0;
 
-        private int _irStudentCount_v2 = 0;
+        private static int _irStudentCount_v2 = 0;
 
-        public int irStudentCount_v2
+        public static int irStudentCount_v2
         {
             get
             {
@@ -26,28 +26,28 @@ namespace week_4
         }
 
         //this is empty constrcuter deafult one called when the object of this class is initizaliated 
-        public PublicValues()//signature of this is empty
+        public static void PublicValues()//signature of this is empty
         {
             irStudentCount = 10;
         }
 
-        public PublicValues(int _irStudentCount)//signature of this is an int
+        public static void PublicValues(int _irStudentCount)//signature of this is an int
         {
             irStudentCount = _irStudentCount;
         }
 
-        public PublicValues(int _irStudentCount, int _irMultiplier)//signature of this is int+int
+        public static void PublicValues(int _irStudentCount, int _irMultiplier)//signature of this is int+int
         {
             irStudentCount = _irStudentCount * _irMultiplier;
         }
 
-        private void DoFix()
+        private static void DoFix()
         {
             if (irStudentCount < 100)
                 irStudentCount = 100;
         }
 
-        public int DivideStudentNumber(int irDivideNum)
+        public static int DivideStudentNumber(int irDivideNum)
         {
             DoFix();
             return irStudentCount / irDivideNum;
@@ -55,7 +55,7 @@ namespace week_4
 
         public class PerStudent
         {
-            public PerStudent(int _irStudentId,int _irStudentScore)
+            public PerStudent(int _irStudentId, int _irStudentScore)
             {
                 irStudentId = _irStudentId;
                 irStudentScore = _irStudentScore;

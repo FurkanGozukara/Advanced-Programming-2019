@@ -13,6 +13,22 @@
         <Button x:Name="btnReturValue_Copy1" Content="return value 3" HorizontalAlignment="Left" Margin="480,74,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy1_Click" />
         <Button x:Name="btnReturValue_Copy2" Content="return value 4" HorizontalAlignment="Left" Margin="224,111,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy2_Click"  />
         <Label x:Name="lblVal2" Content="Label" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnReturValue_Copy3" Content="return value 5" HorizontalAlignment="Left" Margin="352,110,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy3_Click"  />
+        <Button Name="btnGenerateRandomStudents" Content="generate random 100 students" HorizontalAlignment="Left" Margin="224,160,0,0" VerticalAlignment="Top" Width="195" Height="30" Click="btnGenerateRandomStudents_Click"/>
+        <ListBox Name="lstBoxStudents" HorizontalAlignment="Left" Height="135" Margin="125,255,0,0" VerticalAlignment="Top" Width="393"/>
+        <Button x:Name="btnReturValue_Copy4" Content="return value static" HorizontalAlignment="Left" Margin="544,171,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy4_Click" />
+        <Grid Margin="0,0,-0.4,0">
+            <Button x:Name="btnReturValue1" Content="return value" HorizontalAlignment="Left" Margin="224,76,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Click"/>
+            <Button x:Name="btnReturValue_Copy5" Content="return value 2 static" HorizontalAlignment="Left" Margin="544,206,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy5_Click"  />
+            <Button x:Name="btnReturValue_Copy6" Content="return value 3" HorizontalAlignment="Left" Margin="480,74,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy1_Click" />
+            <Button x:Name="btnReturValue_Copy7" Content="return value 4" HorizontalAlignment="Left" Margin="224,111,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy2_Click"  />
+            <Label x:Name="lblVal3" Content="Label" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnReturValue_Copy8" Content="return value 5" HorizontalAlignment="Left" Margin="352,110,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy3_Click"  />
+            <Button x:Name="btnGenerateRandomStudents1" Content="generate random 100 students" HorizontalAlignment="Left" Margin="224,160,0,0" VerticalAlignment="Top" Width="195" Height="30" Click="btnGenerateRandomStudents_Click"/>
+            <ListBox x:Name="lstBoxStudents1" HorizontalAlignment="Left" Height="135" Margin="125,255,0,0" VerticalAlignment="Top" Width="393"/>
+            <Button x:Name="btnReturValue_Copy9" Content="return value static" HorizontalAlignment="Left" Margin="544,171,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="btnReturValue_Copy4_Click" />
+
+        </Grid>
 
     </Grid>
 </Window>
