@@ -1,0 +1,18 @@
+﻿<Window x:Class="week_5_sql.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:week_5_sql"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="txtStudenName" HorizontalAlignment="Left" Height="23" Margin="42,33,0,0" TextWrapping="Wrap" Text="student name" VerticalAlignment="Top" Width="120" GotFocus="txtStudenName_GotFocus"/>
+        <TextBox x:Name="txtSurname" HorizontalAlignment="Left" Height="23" Margin="182,33,0,0" TextWrapping="Wrap" Text="student surname" VerticalAlignment="Top" Width="120" GotFocus="txtSurname_GotFocus"/>
+        <TextBox x:Name="txtStudenScore" HorizontalAlignment="Left" Height="23" Margin="325,33,0,0" TextWrapping="Wrap" Text="student avg score" VerticalAlignment="Top" Width="120" GotFocus="txtStudenScore_GotFocus"/>
+        <DatePicker Name="datePick" HorizontalAlignment="Left" Margin="466,33,0,0" VerticalAlignment="Top"/>
+        <Button Name="btnAddStuden" Content="add student" HorizontalAlignment="Left" Margin="594,28,0,0" VerticalAlignment="Top" Width="122" Height="34" Click="btnAddStuden_Click"/>
+        <ListBox Name="lstBoxStudents" HorizontalAlignment="Left" Height="207" Margin="42,130,0,0" VerticalAlignment="Top" Width="674"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\bin\Debug\week 5 sql.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\bin\Debug\week 5 sql.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\bin\Debug\week 5 sql.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week_5_sql.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 5 sql\week 5 sql\obj\Debug\week 5 sql.pdb
