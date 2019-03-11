@@ -96,12 +96,29 @@ namespace week_5_sql
             {
                 dtPickedTime = datePick.SelectedDate.Value;
             }
+
+            string srInsertQuery = @"insert into tblOgrenciler (Name,Surname,RegistrationDate,AvgScore) 
+                            values ('N{0}','N{1}','{2}',{3})";
+
+            srInsertQuery = string.Format(srInsertQuery,
+                 txtStudenName.Text.Replace("'", "''"),
+                    txtSurname.Text.Replace("'", "''"),
+                        dtPickedTime.ToShortDateString(),
+                            irStudentEnteredScore);
+
+            string srQueryResult = "";
+
+            dbConnection.update_database(srInsertQuery, out srQueryResult);
+
+            initStudentsGrid();
+
+            MessageBox.Show(srQueryResult);
         }
 
         private void initStudentsGrid()
         {
             string srQueryMsg = "";
-            DataSet dsStudents = dbConnection.return_data_set("select * from tblOgrenciler", out srQueryMsg);
+            DataSet dsStudents = dbConnection.return_data_set("select 'Delete','Update',* from tblOgrenciler", out srQueryMsg);
 
             if (srQueryMsg != "Success")
             {
@@ -112,6 +129,7 @@ namespace week_5_sql
             if (dsStudents.Tables.Count > 0)
             {
                 datagridStudents.ItemsSource = dsStudents.Tables[0].DefaultView;
+                datagridStudents.Columns[0].IsReadOnly = true;
             }
         }
     }
