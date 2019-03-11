@@ -10,9 +10,9 @@ namespace week_5_sql
 {
     public static class dbConnection
     {
-        public static string srConnectionString = "server=localhost;database=okul;Integrated Security=SSPI;";
+        private static string srConnectionString = "server=localhost;database=okul;Integrated Security=SSPI;";
 
-        public static DataSet return_data_table(string srQuery, out string Message)
+        public static DataSet return_data_set(string srQuery, out string Message)
         {
             DataSet dSet = new DataSet();
             Message = "Success";

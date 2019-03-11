@@ -12,7 +12,7 @@
         <TextBox x:Name="txtStudenScore" HorizontalAlignment="Left" Height="23" Margin="325,33,0,0" TextWrapping="Wrap" Text="student avg score" VerticalAlignment="Top" Width="120" GotFocus="txtStudenScore_GotFocus"/>
         <DatePicker Name="datePick" HorizontalAlignment="Left" Margin="466,33,0,0" VerticalAlignment="Top"/>
         <Button Name="btnAddStuden" Content="add student" HorizontalAlignment="Left" Margin="594,28,0,0" VerticalAlignment="Top" Width="122" Height="34" Click="btnAddStuden_Click"/>
-        <ListBox Name="lstBoxStudents" HorizontalAlignment="Left" Height="207" Margin="42,130,0,0" VerticalAlignment="Top" Width="674"/>
+        <DataGrid  Name="datagridStudents" HorizontalAlignment="Left" Height="228" Margin="42,108,0,0" VerticalAlignment="Top" Width="655"/>
 
     </Grid>
 </Window>

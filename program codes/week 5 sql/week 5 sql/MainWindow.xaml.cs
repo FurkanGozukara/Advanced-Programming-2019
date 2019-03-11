@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -46,6 +47,7 @@ namespace week_5_sql
             txtStudenName.Text = srStudentNameDescription;
             txtStudenScore.Text = srStudentScoreDescription;
             txtSurname.Text = srStudentSurnameDescription;
+            initStudentsGrid();
         }
 
         private void btnAddStuden_Click(object sender, RoutedEventArgs e)
@@ -93,6 +95,23 @@ namespace week_5_sql
             if (datePick.SelectedDate != null)
             {
                 dtPickedTime = datePick.SelectedDate.Value;
+            }
+        }
+
+        private void initStudentsGrid()
+        {
+            string srQueryMsg = "";
+            DataSet dsStudents = dbConnection.return_data_set("select * from tblOgrenciler", out srQueryMsg);
+
+            if (srQueryMsg != "Success")
+            {
+                MessageBox.Show(srQueryMsg);
+                return;
+            }
+
+            if (dsStudents.Tables.Count > 0)
+            {
+                datagridStudents.ItemsSource = dsStudents.Tables[0].DefaultView;
             }
         }
     }
