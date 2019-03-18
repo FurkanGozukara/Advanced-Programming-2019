@@ -9,9 +9,10 @@
     <Grid>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="60,66,0,0" Name="txtUsername" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <PasswordBox HorizontalAlignment="Left" Height="23" Margin="214,66,0,0" Name="txtPassword"   VerticalAlignment="Top" Width="120"/>
-        <Button Name="btnLogin" Content="login" HorizontalAlignment="Left" Margin="366,57,0,0" VerticalAlignment="Top" Width="105" Height="36" Click="btnLogin_Click"/>
+        <Button Name="btnLogin" Content="safe login" HorizontalAlignment="Left" Margin="366,18,0,0" VerticalAlignment="Top" Width="172" Height="59" Click="btnLogin_Click"/>
         <Label Content="password" HorizontalAlignment="Left" Margin="214,35,0,0" VerticalAlignment="Top"/>
         <Label Content="username" HorizontalAlignment="Left" Margin="60,35,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnUnsafeLogin" Content="un safe" HorizontalAlignment="Left" Margin="366,103,0,0" VerticalAlignment="Top" Width="172" Height="59" Click="btnUnsafeLogin_Click" />
 
     </Grid>
 </Window>

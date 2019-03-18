@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Data;
+using System.Data.SqlClient;
 
 namespace week_7_login
 {
@@ -28,11 +29,57 @@ namespace week_7_login
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
-            string srResult = "";
-            DataSet dsUser = dbConnection.return_data_set("select * from tblUsers where Username=N'vip1' and Password=N'vip1'", out srResult);
-            
+            safeLogin();
         }
 
+        private void safeLogin()
+        {
+            DataTable dtTable = new DataTable();
 
+            //parameterized queries are safe
+            string cmdStr = "select * from tblUsers where Username=@Username and Password=@Password";
+
+            using (SqlConnection connection = new SqlConnection(dbConnection.srConnectionString))
+            using (SqlCommand command = new SqlCommand(cmdStr, connection))
+            {
+                command.Parameters.AddWithValue("@Username", txtUsername.Text);
+                command.Parameters.AddWithValue("@Password", txtPassword.Password.ToString());
+                connection.Open();
+             
+                dtTable.Load(command.ExecuteReader());
+            }
+
+            if(dtTable.Rows.Count==0)
+            {
+                MessageBox.Show("incorrect username or password is entered");
+                return;
+            }
+
+            MessageBox.Show("successfull");
+        }
+
+        private void UnsafeLoginCode()
+        {
+            string srResult = "";
+            DataSet dsUser =
+                dbConnection.return_data_set($"select * from tblUsers where Username=N'{txtUsername.Text}' and Password=N'{txtPassword.Password.ToString()}'", out srResult);
+
+            if (dsUser.Tables.Count == 0)
+            {
+                MessageBox.Show("incorrect username or password is entered");
+                return;
+            }
+            if (dsUser.Tables[0].Rows.Count == 0)
+            {
+                MessageBox.Show("incorrect username or password is entered");
+                return;
+            }
+            MessageBox.Show("successfull");
+        }
+
+        private void btnUnsafeLogin_Click(object sender, RoutedEventArgs e)
+        {
+            UnsafeLoginCode();
+        }
     }
 }

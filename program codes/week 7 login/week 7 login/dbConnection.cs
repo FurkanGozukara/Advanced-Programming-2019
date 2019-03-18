@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 
 public static class dbConnection
 {
-    private static string srConnectionString = "server=localhost;database=okul;Integrated Security=SSPI;";
+    public static string srConnectionString = "server=localhost;database=okul;Integrated Security=SSPI;";
 
     public static DataSet return_data_set(string srQuery, out string Message)
     {
