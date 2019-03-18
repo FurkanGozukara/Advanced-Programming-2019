@@ -1,0 +1,17 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\bin\Debug\week 7 forms.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\bin\Debug\week 7 forms.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\bin\Debug\week 7 forms.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\Form2.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\Form2.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week_7_forms.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 forms\week 7 forms\obj\Debug\week 7 forms.pdb
