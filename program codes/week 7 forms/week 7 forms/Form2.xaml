@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:week_7_forms"
         mc:Ignorable="d"
-        Title="Window1" Height="450" Width="800">
+        Title="Multi Thread Example" Height="450" Width="800">
     <Grid>
         <Button Name="btnStartCounterSingle" Content="Start Counter Single Thread" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Width="213" Height="46" Click="btnStartCounterSingle_Click"/>
         <Label Name="lblCounter" Content="Label" HorizontalAlignment="Left" Margin="330,35,0,0" VerticalAlignment="Top"/>

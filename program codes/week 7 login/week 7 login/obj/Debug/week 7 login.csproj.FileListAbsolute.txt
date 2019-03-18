@@ -1,0 +1,21 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\bin\Debug\week 7 login.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\bin\Debug\week 7 login.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\bin\Debug\week 7 login.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Admin_Screen.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Regular_Member_Screen.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Vip_Member_Screen.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Admin_Screen.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Regular_Member_Screen.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\Vip_Member_Screen.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week_7_login.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 7 login\week 7 login\obj\Debug\week 7 login.pdb

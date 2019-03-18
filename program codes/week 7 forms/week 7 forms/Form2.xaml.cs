@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,7 +28,7 @@ namespace week_7_forms
         private void btnStartCounterSingle_Click(object sender, RoutedEventArgs e)
         {
             int irCounter = 0;
-            while(true)
+            while (true)
             {
                 irCounter++;
                 lblCounter.Content = irCounter.ToString("N0");
@@ -41,6 +42,22 @@ namespace week_7_forms
             {
                 CounterFunction();
             });
+
+            //Task t2 = Task.Factory.StartNew(() =>
+            //{
+            //    CounterFunction();
+            //});
+
+            Task t3 = Task.Factory.StartNew(() =>
+            {
+                while (true)
+                {
+                    Debug.WriteLine(DateTime.Now + " thread 1: " + t.Status);
+                    //Debug.WriteLine(DateTime.Now + " thread 2: " + t2.Status);
+
+                    System.Threading.Thread.Sleep(100);
+                }
+            });
         }
 
         private void CounterFunction()
@@ -49,11 +66,13 @@ namespace week_7_forms
             while (true)
             {
                 irCounter++;
-              
+
                 Dispatcher.BeginInvoke(System.Windows.Threading.DispatcherPriority.Normal, new Action(() =>
                 {
                     lblCounter.Content = irCounter.ToString("N0");
                 }));
+
+                Debug.WriteLine(irCounter);
 
                 System.Threading.Thread.Sleep(1);
             }
