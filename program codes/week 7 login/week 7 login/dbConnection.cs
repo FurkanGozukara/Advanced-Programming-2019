@@ -53,10 +53,58 @@ public static class dbConnection
         }
     }
 
-    //public static DataSet cmd_Select_DB(string srQuery)
-    //{
+    public class cmdParameterType  {
 
-    //}
+        public cmdParameterType( string _parameterName,object _objParam)
+        {
+            parameterName = _parameterName;
+            objParam = _objParam;
+        }
+
+        public cmdParameterType()
+        {
+
+        }
+
+        public string parameterName = "";
+        public object objParam;
+    }
+
+    public static DataTable cmd_Select_DB(string srQuery, List<cmdParameterType> lstParameters)
+    {
+        DataTable dtTable = new DataTable();
+
+        using (SqlConnection connection = new SqlConnection(dbConnection.srConnectionString))
+        using (SqlCommand command = new SqlCommand(srQuery, connection))
+        {
+            foreach (var vrPerParameter in lstParameters)
+            {
+                command.Parameters.AddWithValue(vrPerParameter.parameterName, vrPerParameter.objParam);
+            }
+
+            connection.Open();
+
+            dtTable.Load(command.ExecuteReader());
+        }
+
+        return dtTable;
+    }
+
+    public static int cmd_update_DB(string srQuery, List<cmdParameterType> lstParameters)
+    {
+        using (SqlConnection connection = new SqlConnection(dbConnection.srConnectionString))
+        using (SqlCommand command = new SqlCommand(srQuery, connection))
+        {
+            foreach (var vrPerParameter in lstParameters)
+            {
+                command.Parameters.AddWithValue(vrPerParameter.parameterName, vrPerParameter.objParam);
+            }
+
+            connection.Open();
+
+            return command.ExecuteNonQuery();
+        }
+    }
 
 }
 

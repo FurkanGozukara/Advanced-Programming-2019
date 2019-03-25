@@ -108,5 +108,48 @@ namespace week_7_login
 
             MessageBox.Show("successfully updated password");
         }
+
+        private void btnSafeLogParamterizedQuery_Click(object sender, RoutedEventArgs e)
+        {
+            DataTable dtTable = new DataTable();
+
+            //parameterized queries are safe
+            string cmdStr = "select * from tblUsers where Username=@Username and Password=@Password";
+
+            //bununla 
+            List<dbConnection.cmdParameterType> lstMyParams = new List<dbConnection.cmdParameterType>();
+
+            dbConnection.cmdParameterType temp = new dbConnection.cmdParameterType();
+           
+            temp.objParam = txtUsername.Text;
+            temp.parameterName = "@Username";
+            lstMyParams.Add(temp);
+            temp = new dbConnection.cmdParameterType();
+            temp.objParam = txtPassword.Password.ToString();
+            temp.parameterName = "@Password";
+            lstMyParams.Add(temp);
+            /////////
+
+            //bu aynı işlemi yapıyor
+            List<dbConnection.cmdParameterType> lstParamsQuickerWay = new List<dbConnection.cmdParameterType> {
+                new dbConnection.cmdParameterType("@Username", txtUsername.Text),
+                new dbConnection.cmdParameterType("@Password", txtPassword.Password.ToString()) };
+            /////
+
+            dtTable= dbConnection.cmd_Select_DB(cmdStr, lstMyParams);
+
+            if (dtTable.Rows.Count == 0)
+            {
+                MessageBox.Show("incorrect username or password is entered");
+                return;
+            }
+
+            MessageBox.Show("successfull");
+        }
+
+        private void btnsafeUpdateParameterizedQuery_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
