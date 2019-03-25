@@ -45,11 +45,11 @@ namespace week_7_login
                 command.Parameters.AddWithValue("@Username", txtUsername.Text);
                 command.Parameters.AddWithValue("@Password", txtPassword.Password.ToString());
                 connection.Open();
-             
+
                 dtTable.Load(command.ExecuteReader());
             }
 
-            if(dtTable.Rows.Count==0)
+            if (dtTable.Rows.Count == 0)
             {
                 MessageBox.Show("incorrect username or password is entered");
                 return;
@@ -80,6 +80,33 @@ namespace week_7_login
         private void btnUnsafeLogin_Click(object sender, RoutedEventArgs e)
         {
             UnsafeLoginCode();
+        }
+
+        private void btnSafeUpdatePassword_Click(object sender, RoutedEventArgs e)
+        {
+            //parameterized queries are safe
+            string cmdStr = "update tblUsers set Password=@NewPassword where Username=@Username and Password=@Password";
+
+            int irUpdatedRowCount = 0;
+
+            using (SqlConnection connection = new SqlConnection(dbConnection.srConnectionString))
+            using (SqlCommand command = new SqlCommand(cmdStr, connection))
+            {
+                command.Parameters.AddWithValue("@Username", txtUsername.Text);
+                command.Parameters.AddWithValue("@Password", txtPassword.Password.ToString());
+                command.Parameters.AddWithValue("@NewPassword", txtNewPassword.Password.ToString());
+                connection.Open();
+
+                irUpdatedRowCount = command.ExecuteNonQuery();
+            }
+
+            if (irUpdatedRowCount == 0)
+            {
+                MessageBox.Show("incorrect username or password is entered");
+                return;
+            }
+
+            MessageBox.Show("successfully updated password");
         }
     }
 }

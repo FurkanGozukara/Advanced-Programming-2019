@@ -13,6 +13,9 @@
         <Label Content="password" HorizontalAlignment="Left" Margin="214,35,0,0" VerticalAlignment="Top"/>
         <Label Content="username" HorizontalAlignment="Left" Margin="60,35,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btnUnsafeLogin" Content="un safe" HorizontalAlignment="Left" Margin="366,103,0,0" VerticalAlignment="Top" Width="172" Height="59" Click="btnUnsafeLogin_Click" />
+        <Button Name="btnSafeUpdatePassword" Content="safe update password" HorizontalAlignment="Left" Margin="572,20,0,0" VerticalAlignment="Top" Width="158" Height="69" Click="btnSafeUpdatePassword_Click"/>
+        <PasswordBox Name="txtNewPassword" HorizontalAlignment="Left" Height="23" Margin="214,133,0,0"   VerticalAlignment="Top" Width="120"/>
+        <Label Content="new password" HorizontalAlignment="Left" Margin="214,102,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
