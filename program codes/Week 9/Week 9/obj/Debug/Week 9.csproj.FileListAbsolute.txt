@@ -1,0 +1,15 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\bin\Debug\Week 9.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\bin\Debug\Week 9.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\bin\Debug\Week 9.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week_9.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\Week 9\Week 9\obj\Debug\Week 9.pdb

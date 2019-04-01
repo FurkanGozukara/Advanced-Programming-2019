@@ -14,6 +14,7 @@
         <Button Name="btnAddRecord" Content="add record" HorizontalAlignment="Left" Margin="416,46,0,0" VerticalAlignment="Top" Width="105" Click="btnAddRecord_Click"/>
         <ListBox Name="lstRecords" HorizontalAlignment="Left" Height="195" Margin="37,91,0,0" VerticalAlignment="Top" Width="349"/>
         <Button Name="refreshListBox" Content="refresh listbox" HorizontalAlignment="Left" Margin="416,91,0,0" VerticalAlignment="Top" Width="95" Height="33" Click="refreshListBox_Click"/>
+        <Button Name="btnUpdateRecord" Content="update record" HorizontalAlignment="Left" Margin="416,150,0,0" VerticalAlignment="Top" Width="95" Height="30" Click="btnUpdateRecord_Click"/>
 
     </Grid>
 </Window>

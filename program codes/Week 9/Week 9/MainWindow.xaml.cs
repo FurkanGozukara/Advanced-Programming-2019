@@ -28,6 +28,11 @@ namespace Week_9
 
         private void refreshListBox_Click(object sender, RoutedEventArgs e)
         {
+            refreshList();
+        }
+
+        private void refreshList()
+        {
             string srResult = "";
             lstRecords.Items.Clear();
             foreach (DataRow drw in dbConnection.return_data_set("select * from tblLessonStudents order by LessonId asc , StudentName asc",
@@ -57,7 +62,56 @@ namespace Week_9
                 return;
             }
 
-            dbConnection.cmd_update_DB
+            string srQuery = "insert into tblLessonStudents (LessonId,StudentName) values (@LessonId,@StudentName)";
+
+            List<dbConnection.cmdParameterType> lstMyValues = new List<dbConnection.cmdParameterType> {
+                new dbConnection.cmdParameterType("@LessonId",irLessonId),
+                new dbConnection.cmdParameterType("@StudentName",txtStudentName.Text)
+            };
+
+            dbConnection.cmd_update_DB(srQuery, lstMyValues);
+
+            lstRecords.Items.Insert(0, "Lesson ID: " + irLessonId + "\t\t" + txtStudentName.Text);
+        }
+
+        private void btnUpdateRecord_Click(object sender, RoutedEventArgs e)
+        {
+            if(lstRecords.SelectedIndex<0)
+            {
+                MessageBox.Show("no item is selected to be updated");
+                return;
+            }
+
+            string srSelectedItem = lstRecords.SelectedItem.ToString();
+
+            string srStudentName = srSelectedItem.Split('\t').Last();
+            string srSelectedLessonId = srSelectedItem.Split('\t').First().Replace("Lesson ID: ","");
+
+          
+
+            int irLessonId = 0;
+
+            Int32.TryParse(txtStudentId.Text, out irLessonId);
+
+            if (irLessonId < 1)
+            {
+                MessageBox.Show("incorrect lesson id");
+                return;
+            }
+
+            string srQuery = @"update tblLessonStudents set LessonId=@LessonId, StudentName=@StudentName 
+                            where LessonId = @OldLessonId and StudentName = @OldStudentName";
+
+            List<dbConnection.cmdParameterType> lstMyValues = new List<dbConnection.cmdParameterType> {
+                new dbConnection.cmdParameterType("@LessonId",irLessonId),
+                new dbConnection.cmdParameterType("@StudentName",txtStudentName.Text),
+                    new dbConnection.cmdParameterType("@OldLessonId",srSelectedLessonId),
+                new dbConnection.cmdParameterType("@OldStudentName",srStudentName),
+            };
+
+            dbConnection.cmd_update_DB(srQuery, lstMyValues);
+
+            refreshList();
         }
     }
 }
