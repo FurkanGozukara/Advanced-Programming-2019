@@ -11,4 +11,11 @@ namespace week_7_login
         public static int irLogged_User_Rank = 0;
         public static int irLogged_User_UserId = 0;
     }
+
+    public enum enMembers
+    {
+        Admin = 1,
+        VIP_Member = 2,
+        Member = 3
+    }
 }

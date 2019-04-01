@@ -120,7 +120,7 @@ namespace week_7_login
             List<dbConnection.cmdParameterType> lstMyParams = new List<dbConnection.cmdParameterType>();
 
             dbConnection.cmdParameterType temp = new dbConnection.cmdParameterType();
-           
+
             temp.objParam = txtUsername.Text;
             temp.parameterName = "@Username";
             lstMyParams.Add(temp);
@@ -136,13 +136,33 @@ namespace week_7_login
                 new dbConnection.cmdParameterType("@Password", txtPassword.Password.ToString()) };
             /////
 
-            dtTable= dbConnection.cmd_Select_DB(cmdStr, lstMyParams);
+            dtTable = dbConnection.cmd_Select_DB(cmdStr, lstMyParams);
 
             if (dtTable.Rows.Count == 0)
             {
                 MessageBox.Show("incorrect username or password is entered");
                 return;
             }
+
+            //  if (dtTable.Rows[0][3].ToString()) not suggested
+
+            Global_Variables.irLogged_User_Rank = Convert.ToInt32(dtTable.Rows[0]["Rank"].ToString());
+            Global_Variables.irLogged_User_UserId= Convert.ToInt32(dtTable.Rows[0]["UserId"].ToString());
+
+            if (Global_Variables.irLogged_User_Rank == (int)enMembers.VIP_Member)
+            {
+                Vip_Member_Screen Window = new Vip_Member_Screen();
+                Window.ShowDialog();
+               // Window.Show();
+               
+            }
+            if (Global_Variables.irLogged_User_Rank == (int)enMembers.Member)
+            {
+                Regular_Member_Screen Window = new Regular_Member_Screen();
+                Window.Show();
+            }
+
+         
 
             MessageBox.Show("successfull");
         }

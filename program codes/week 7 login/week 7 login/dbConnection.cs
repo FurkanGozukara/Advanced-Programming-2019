@@ -10,6 +10,7 @@ using System.Data.SqlClient;
 public static class dbConnection
 {
     public static string srConnectionString = "server=localhost;database=okul;Integrated Security=SSPI;";
+    //public static string srConnectionString = "server=DESKTOP-ULH4M26;database=okul;Integrated Security=SSPI;";
 
     public static DataSet return_data_set(string srQuery, out string Message)
     {

@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Regular_Member_Screen" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="regular member screen" HorizontalAlignment="Left" Margin="44,50,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Vip_Member_Screen" Height="450" Width="800">
     <Grid>
-        
+        <Label  Content="vip member screen" HorizontalAlignment="Left" Margin="34,42,0,0" VerticalAlignment="Top"/>
+        <Label Name="logged_userid" Content="Label" HorizontalAlignment="Left" Margin="34,73,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

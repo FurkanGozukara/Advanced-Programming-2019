@@ -22,6 +22,7 @@ namespace week_7_login
         public Vip_Member_Screen()
         {
             InitializeComponent();
+            logged_userid.Content = "Logged User ID: " + Global_Variables.irLogged_User_UserId + "\t\tLogged User Rank: " + Global_Variables.irLogged_User_Rank;
         }
     }
 }
