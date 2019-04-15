@@ -1,0 +1,15 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\Debug\week 11 web crawler.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\Debug\week 11 web crawler.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\Debug\week 11 web crawler.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week_11_web_crawler.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\Debug\week 11 web crawler.pdb
