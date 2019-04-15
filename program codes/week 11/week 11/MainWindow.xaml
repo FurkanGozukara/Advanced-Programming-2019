@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Name="btnSHA" Content="calcualte sha 256" HorizontalAlignment="Left" Margin="53,31,0,0" VerticalAlignment="Top" Width="125" Height="65" Click="btnSHA_Click"/>
-        <Button Name="btnSelectfile" Content="select file" HorizontalAlignment="Left" Margin="218,31,0,0" VerticalAlignment="Top" Width="89" Height="65" Click="btnSelectfile_Click"/>
+        <Button Name="btnSelectfile" Content="select file" HorizontalAlignment="Left" Margin="214,31,0,0" VerticalAlignment="Top" Width="89" Height="65" Click="btnSelectfile_Click"/>
         <TextBox Name="txtFilePath" HorizontalAlignment="Left" Height="50" Margin="326,31,0,0" TextWrapping="Wrap" Text="select file path" VerticalAlignment="Top" Width="446"/>
         <ListBox Name="lstLogs" HorizontalAlignment="Left" Height="197" Margin="53,129,0,0" VerticalAlignment="Top" Width="719"/>
 
