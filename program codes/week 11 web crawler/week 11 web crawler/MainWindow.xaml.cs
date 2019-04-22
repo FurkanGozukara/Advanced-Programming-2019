@@ -23,6 +23,13 @@ namespace week_11_web_crawler
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private static string srLinksDiscoveredPath = "discovered_links.txt";
+        private static string srCrawledLinksPath = "crawled_links.txt";
+
+        private static HashSet<string> hsDiscoveredLinks = new HashSet<string>();
+        private static HashSet<string> hsCrawledLinks = new HashSet<string>();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -51,6 +58,8 @@ namespace week_11_web_crawler
 
                 if (myDownloadResult.httpStatusResult == System.Net.HttpStatusCode.OK)
                 {
+                    hsCrawledLinks.Add(srBaseUrl);
+                    File.AppendAllText(srCrawledLinksPath, srBaseUrl + "\r\n");//we add to our crawled url database the new successfully crawled url
                     File.WriteAllText(srDownloadedFileSaveName, myDownloadResult.srCrawledPageSource);
                 }
             }
@@ -60,15 +69,25 @@ namespace week_11_web_crawler
 
             var links = hdDoc.DocumentNode.SelectNodes("//a");
 
+            List<string> lstDiscoveredLinks = new List<string>();
+
             foreach (var vrNode in links)
             {
                 if (vrNode.Attributes["href"] != null)
                 {
                     string srNewAbsLink = vrNode.Attributes["href"].Value.ToString();
                     srNewAbsLink = HTTPDownloader.ReturnAbsUrl(srBaseUrl, srNewAbsLink);
+                    if (srNewAbsLink == null)
+                        continue;
+                    lstDiscoveredLinks.Add(srNewAbsLink);
+                    hsDiscoveredLinks.Add(srNewAbsLink);
                     Debug.WriteLine(srNewAbsLink);
                 }
             }
+
+            lstDiscoveredLinks = lstDiscoveredLinks.Distinct().ToList();
+            File.AppendAllLines(srLinksDiscoveredPath, lstDiscoveredLinks);
+          
         }
 
 

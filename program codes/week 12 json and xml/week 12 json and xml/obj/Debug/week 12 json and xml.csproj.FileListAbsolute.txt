@@ -1,0 +1,18 @@
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\bin\Debug\week 12 json and xml.exe.config
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\bin\Debug\week 12 json and xml.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\bin\Debug\week 12 json and xml.pdb
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.g.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week_12_json_and_xml.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.exe
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 12 json and xml\week 12 json and xml\obj\Debug\week 12 json and xml.pdb

@@ -4,7 +4,7 @@
 <title>TOROS ÜNİVERSİTESİ</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-<meta name="csrf-token" content="ZD4zskZUb8J75y6VKnntHWlERml1CCjc8fYRcCG7" />
+<meta name="csrf-token" content="OlSuy0A2zPW2jwZfEKrPVH0EinYIEZ3os1FV2J39" />
 <meta name="author" content="MESUT AKSAK , GİZEN MUTLU TOROS YAZILIM BİRİMİ ">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="/admin/bootstrap/css/bootstrap.min.css">
@@ -24,8 +24,8 @@
         }
     </style>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="3162d0892b1b575b6e9913da-text/javascript"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="cf7aaf1b321a50b2c177ea9d-text/javascript"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
@@ -34,7 +34,7 @@
         gtag('config', 'AW-795426294');
     </script>
 
-<script type="3162d0892b1b575b6e9913da-text/javascript">
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript">
         function gtag_report_conversion(url) {
             var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
             gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
@@ -73,7 +73,7 @@
 <div class="grid-row clear-fix">
 <address>
 <a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
-<a href="/cdn-cgi/l/email-protection#026b6c646d42766d706d712c6766772c7670" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="4920272f26093d263b263a672c2d3c673d3b">[email protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#ee87808881ae9a819c819dc08b8a9bc09a9c" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="e881868e87a89c879a879bc68d8c9dc69c9a">[email protected]</span></a>
 </address>
 <div class="header-top-panel">
 <a href="http://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
@@ -164,9 +164,9 @@
 </li>
 
 <li class="animated infinite pulse" style="background-color: #d9534f;">
-<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-3162d0892b1b575b6e9913da-="">ADAY ÖĞRENCİLER</a>
+<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-cf7aaf1b321a50b2c177ea9d-="">ADAY ÖĞRENCİLER</a>
 <li>
-<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-3162d0892b1b575b6e9913da-="">İLETİŞİM</a>
+<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-cf7aaf1b321a50b2c177ea9d-="">İLETİŞİM</a>
 </li>
 
 </ul>
@@ -179,7 +179,7 @@
 <div id="main-carousel" class="carousel slide" data-ride="carousel">
 
 <div class="carousel-inner" role="listbox">
-<div class="item">
+ <div class="item">
 <img src="/dosya/615/resim/2018-07-12-1440-515-Banner-Yukseklisans3.jpg" data-lazyload="" data-bgposition="left 20%" alt>
 </div>
 <div class="item">
@@ -312,7 +312,7 @@
 </div>
 </div>
 </a>
- </div>
+</div>
 <div class="col-md-3">
 <a href="/kategori-sayfa/4">
 <div class="portfolio-item">
@@ -386,24 +386,24 @@
 <a class="icon " style="background:#0b137e" href="/icerik/kalite-koordinatorlugu">
 <i class="fa fa-users"></i><p>Kalite Güvence Sistemi</p></a>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/moment.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/fullcalendar.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/lang-all.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src='/front/js/jquery.validate.min.js'></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.form.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/slick.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/TweenMax.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/main.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/owl.carousel.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery-ui.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.tweet.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
-<script type="3162d0892b1b575b6e9913da-text/javascript">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/moment.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/fullcalendar.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/lang-all.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src='/front/js/jquery.validate.min.js'></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.form.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/slick.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/TweenMax.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/main.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/owl.carousel.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery-ui.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.tweet.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript">
     $(document).ready(function() {
         $('#main-carousel').find('.item').first().addClass('active');
         $('.carousel').carousel({
@@ -435,7 +435,7 @@
         }
     }
 </script>
-<script type="3162d0892b1b575b6e9913da-text/javascript">
+<script type="cf7aaf1b321a50b2c177ea9d-text/javascript">
         $(document).ready(function(){
 
             $("#owl-demo").owlCarousel({
@@ -476,5 +476,5 @@
         });
 
     </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="3162d0892b1b575b6e9913da-|49" defer=""></script></body>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="cf7aaf1b321a50b2c177ea9d-|49" defer=""></script></body>
 </html>

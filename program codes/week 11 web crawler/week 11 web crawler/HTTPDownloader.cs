@@ -54,7 +54,14 @@ namespace week_11_web_crawler
             Uri.TryCreate(urlbase, relativeUrl, out newAbsUrl);
 
             if (newAbsUrl == null)
-                return "null";
+                return null;
+
+            Uri uriResult;
+            bool result = Uri.TryCreate(newAbsUrl.ToString(), UriKind.Absolute, out uriResult)
+                && (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps);
+
+            if (result == false)
+                return null;
 
             return newAbsUrl.ToString();
         }
