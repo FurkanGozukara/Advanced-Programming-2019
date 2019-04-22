@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
+using HtmlAgilityPack;
+using System.Diagnostics;
 
 namespace week_11_web_crawler
 {
@@ -35,15 +37,40 @@ namespace week_11_web_crawler
             string srUrlHash = Cryptology.ComputeSha256HashFromString(txtRootUrl.Text);
             string srDownloadedFileSaveName = sourceFilesDirectory + "/" + srUrlHash + ".txt";
 
+            string srBaseUrl = txtRootUrl.Text;
+
+            HTTPDownloader.WebPageDownloadResult myDownloadResult = new HTTPDownloader.WebPageDownloadResult();
+
             if (File.Exists(srDownloadedFileSaveName))
-                return;
-
-            HTTPDownloader.WebPageDownloadResult myDownloadResult = HTTPDownloader.FuncCrawlGivenURL(txtRootUrl.Text);
-
-            if (myDownloadResult.httpStatusResult == System.Net.HttpStatusCode.OK)
             {
-                File.WriteAllText(srDownloadedFileSaveName, myDownloadResult.srCrawledPageSource);
+                myDownloadResult.srCrawledPageSource = File.ReadAllText(srDownloadedFileSaveName);
+            }
+            else
+            {
+                myDownloadResult = HTTPDownloader.FuncCrawlGivenURL(srBaseUrl);
+
+                if (myDownloadResult.httpStatusResult == System.Net.HttpStatusCode.OK)
+                {
+                    File.WriteAllText(srDownloadedFileSaveName, myDownloadResult.srCrawledPageSource);
+                }
+            }
+
+            HtmlDocument hdDoc = new HtmlDocument();
+            hdDoc.LoadHtml(myDownloadResult.srCrawledPageSource);
+
+            var links = hdDoc.DocumentNode.SelectNodes("//a");
+
+            foreach (var vrNode in links)
+            {
+                if (vrNode.Attributes["href"] != null)
+                {
+                    string srNewAbsLink = vrNode.Attributes["href"].Value.ToString();
+                    srNewAbsLink = HTTPDownloader.ReturnAbsUrl(srBaseUrl, srNewAbsLink);
+                    Debug.WriteLine(srNewAbsLink);
+                }
             }
         }
+
+
     }
 }

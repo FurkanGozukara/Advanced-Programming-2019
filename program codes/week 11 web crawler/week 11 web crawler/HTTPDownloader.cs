@@ -5,6 +5,8 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
+using System.Web.UI;
 
 namespace week_11_web_crawler
 {
@@ -32,6 +34,7 @@ namespace week_11_web_crawler
                     using (StreamReader reader = new StreamReader(response.GetResponseStream()))
                     {
                         tempResult.srCrawledPageSource = reader.ReadToEnd();
+                        tempResult.srCrawledPageSource = WebUtility.HtmlDecode(tempResult.srCrawledPageSource);
                     }
                 }
             }
@@ -41,6 +44,19 @@ namespace week_11_web_crawler
             }
 
             return tempResult;
+        }
+
+        public static string ReturnAbsUrl(string srBaseUrl, string relativeUrl)
+        {
+            Uri newAbsUrl = null;
+            Uri urlbase = new Uri(srBaseUrl);
+           
+            Uri.TryCreate(urlbase, relativeUrl, out newAbsUrl);
+
+            if (newAbsUrl == null)
+                return "null";
+
+            return newAbsUrl.ToString();
         }
     }
 }

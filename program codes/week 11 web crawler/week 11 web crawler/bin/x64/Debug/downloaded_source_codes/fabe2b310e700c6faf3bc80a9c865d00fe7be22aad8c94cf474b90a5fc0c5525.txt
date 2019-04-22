@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>TOROS &Uuml;NİVERSİTESİ</title>
+<title>TOROS ÜNİVERSİTESİ</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-<meta name="csrf-token" content="vbmInK7hGouffLweQtZaZumHbgJoST4W8a4cXiGa" />
+<meta name="csrf-token" content="ZD4zskZUb8J75y6VKnntHWlERml1CCjc8fYRcCG7" />
 <meta name="author" content="MESUT AKSAK , GİZEN MUTLU TOROS YAZILIM BİRİMİ ">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="/admin/bootstrap/css/bootstrap.min.css">
@@ -24,8 +24,8 @@
         }
     </style>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="119e674d90e17986046f47a1-text/javascript"></script>
-<script type="119e674d90e17986046f47a1-text/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="3162d0892b1b575b6e9913da-text/javascript"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
@@ -34,7 +34,7 @@
         gtag('config', 'AW-795426294');
     </script>
 
-<script type="119e674d90e17986046f47a1-text/javascript">
+<script type="3162d0892b1b575b6e9913da-text/javascript">
         function gtag_report_conversion(url) {
             var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
             gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
@@ -73,7 +73,7 @@
 <div class="grid-row clear-fix">
 <address>
 <a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
-<a href="/cdn-cgi/l/email-protection#472e29212807332835283469222332693335" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="0b62656d644b7f64796478256e6f7e257f79">[email&#160;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#026b6c646d42766d706d712c6766772c7670" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="4920272f26093d263b263a672c2d3c673d3b">[email protected]</span></a>
 </address>
 <div class="header-top-panel">
 <a href="http://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
@@ -89,7 +89,7 @@
 
 <a href="/" class="logo">
 <img src="/front/img/logo.png">
-<h1>TOROS &Uuml;NİVERSİTESİ</h1>
+<h1>TOROS ÜNİVERSİTESİ</h1>
 </a>
 
 <nav class="main-nav">
@@ -98,17 +98,17 @@
 <li class="megamenu">
 <a>AKADEMİK</a>
 <ul class="clear-fix">
-<li><div class="header-megamenu">FAK&Uuml;LTELER</div>
+<li><div class="header-megamenu">FAKÜLTELER</div>
 <ul>
 <li><a href="/anasayfa/guzel-sanatlar-fakultesi">GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</a></li><li><a href="/anasayfa/iktisadi-idari-ve-sosyal-bilimler-fakultesi">İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</a></li><li><a href="/anasayfa/muhendislik-fakultesi">MÜHENDİSLİK FAKÜLTESİ</a></li>
 </ul>
 </li>
-<li><div class="header-megamenu">Y&Uuml;KSEKOKULLAR</div>
+<li><div class="header-megamenu">YÜKSEKOKULLAR</div>
 <ul>
 <li><a href="/anasayfa/meslek-yuksekokulu">MESLEK YÜKSEKOKULU</a></li><li><a href="/anasayfa/saglik-bilimleri-yuksekokulu">SAĞLIK BİLİMLERİ YÜKSEKOKULU</a></li><li><a href="/anasayfa/yabanci-diller-yuksekokulu">YABANCI DİLLER YÜKSEKOKULU</a></li>
 </ul>
 </li>
-<li><div class="header-megamenu">ENSTİT&Uuml;LER</div>
+<li><div class="header-megamenu">ENSTİTÜLER</div>
 <ul>
 <li><a href="/anasayfa/fen-bilimleri-enstitusu">FEN BİLİMLERİ ENSTİTÜSÜ</a></li><li><a href="/anasayfa/sosyal-bilimler-enstitusu">SOSYAL BİLİMLER ENSTİTÜSÜ</a></li>
 </ul>
@@ -148,7 +148,7 @@
 </li> <li><a href="/icerik/bilimsel-arastirma-projeleri-birimi-komisyonu/"> BİLİMSEL ARAŞTIRMA PROJELERİ BİRİMi</a></li>
 </ul>
 </li>
-<li><a>&Ouml;ĞRENCİ</a>
+<li><a>ÖĞRENCİ</a>
 <ul>
 <li><a href="/icerik/ogrenci-ucretler">ÜCRETLER</a></li>
 <li><a href="/icerik/ogrenci-burslar">BURSLAR</a></li>
@@ -164,9 +164,9 @@
 </li>
 
 <li class="animated infinite pulse" style="background-color: #d9534f;">
-<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-119e674d90e17986046f47a1-="">ADAY ÖĞRENCİLER</a>
+<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-3162d0892b1b575b6e9913da-="">ADAY ÖĞRENCİLER</a>
 <li>
-<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-119e674d90e17986046f47a1-="">İLETİŞİM</a>
+<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-3162d0892b1b575b6e9913da-="">İLETİŞİM</a>
 </li>
 
 </ul>
@@ -205,42 +205,56 @@
 <section class="container-fluid">
 <div class="col-md-6 ">
 <aside class="widget-event">
-<div><h1>Duyuru |<span class="text-muted" style="font-size: 18px"><a href="/duyuru-listesi"> T&uuml;m Duyurular</a></span></h1></div>
+<div><h1>Duyuru |<span class="text-muted" style="font-size: 18px"><a href="/duyuru-listesi"> Tüm Duyurular</a></span></h1></div>
 <hr>
+<a href="/duyuru-oku/1645">
+<article class="clear-fix">
+<div class="date"><div class="day">18</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>[ARBİS]2242 - Üniversite Öğrencileri Araştırma Proje Yarışmaları Başvuruları Devam Ediyor</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1644">
+<article class="clear-fix">
+<div class="date"><div class="day">17</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>23 NİSAN ÇOCUKLARINA EĞLENCELİ CUPCAKE ATÖLYESİ (TORSEM)</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
 <a href="/duyuru-oku/1637">
 <article class="clear-fix">
-<div class="date"><div class="day">11</div><div class="month">Nisan</div></div>
-<div class="event-description"><p><b>&Ouml;ĞRETİM G&Ouml;REVLİSİ İLANI (11 Nisan 2019 Tarihli ve 30742 Sayılı Resm&icirc; Gazete&#039;de yayınlamıştır.)</b></p></div>
+ <div class="date"><div class="day">11</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>ÖĞRETİM GÖREVLİSİ İLANI (11 Nisan 2019 Tarihli ve 30742 Sayılı Resmî Gazete'de yayınlamıştır.)</b></p></div>
 <div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
 </article>
 </a>
 <a href="/duyuru-oku/1636">
 <article class="clear-fix">
 <div class="date"><div class="day">09</div><div class="month">Nisan</div></div>
-<div class="event-description"><p><b>T&Uuml;BİTAK &ndash; NRF (G&uuml;ney Kore) İkili İşbirliği &Ccedil;ağrısı A&ccedil;ıldı</b></p></div>
-<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE M&Uuml;D&Uuml;RL&Uuml;Ğ&Uuml;</p></div>
+<div class="event-description"><p><b>TÜBİTAK – NRF (Güney Kore) İkili İşbirliği Çağrısı Açıldı</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
 </article>
 </a>
 <a href="/duyuru-oku/1630">
- <article class="clear-fix">
+<article class="clear-fix">
 <div class="date"><div class="day">26</div><div class="month">Mart</div></div>
-<div class="event-description"><p><b>Kalite Koordinat&ouml;rl&uuml;ğ&uuml; &quot;Karikat&uuml;r ve Slogan Yarışması&quot; Sonu&ccedil;lanmıştır</b></p></div>
-<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS &Uuml;NİVERSİTESİ</p></div>
+<div class="event-description"><p><b>Kalite Koordinatörlüğü "Karikatür ve Slogan Yarışması" Sonuçlanmıştır</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
 </article>
 </a>
 <a href="/duyuru-oku/1628">
 <article class="clear-fix">
 <div class="date"><div class="day">21</div><div class="month">Mart</div></div>
-<div class="event-description"><p><b>Kalite Koordinat&ouml;rl&uuml;ğ&uuml;&#039;nden Duyuru</b></p></div>
-<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS &Uuml;NİVERSİTESİ</p></div>
+<div class="event-description"><p><b>Kalite Koordinatörlüğü'nden Duyuru</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
 </article>
 </a>
 <a href="/duyuru-oku/1575">
 <article class="clear-fix">
 <div class="date"><div class="day">19</div><div class="month">Şubat</div></div>
-<div class="event-description"><p><b>7143 Sayılı Kanunun Uygulama İlkeleri &Ccedil;ift Anadal</b></p></div>
-<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS &Uuml;NİVERSİTESİ</p></div>
-</article>
+<div class="event-description"><p><b>7143 Sayılı Kanunun Uygulama İlkeleri Çift Anadal</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+ </article>
 </a>
 </aside>
 
@@ -248,24 +262,24 @@
 </div>
 <div class="col-md-6" style="margin-bottom: 20px">
 <div><h1>Haberler |<span class="text-muted" style="font-size: 18px">
-<a href="/haber-listesi"> T&uuml;m Haberler</a></span></h1></div>
+<a href="/haber-listesi"> Tüm Haberler</a></span></h1></div>
 <br>
 <div id="owl-demo" class="owl-carousel">
+<a href="/haber-oku/537"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-17-isbirligi-Protokolu-Haber.jpg"></div></a>
+<a href="/haber-oku/536"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-17-ilk-yardim.jpg"></div></a>
+<a href="/haber-oku/535"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-17-Fotograf-tarihi-degistirir-mi-konferansi.jpg"></div></a>
+<a href="/haber-oku/534"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-17-Bilisim-ve-Genclik-zirvesi.jpg"></div></a>
 <a href="/haber-oku/533"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-12-isg-gezi-haber.jpg"></div></a>
-<a href="/haber-oku/532"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-12-Kendini-kesfet-konferansi.jpg"></div></a>
+ <a href="/haber-oku/532"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-12-Kendini-kesfet-konferansi.jpg"></div></a>
 <a href="/haber-oku/531"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-11-56624533_2256155657757184_4908142489606553600_n.jpg"></div></a>
 <a href="/haber-oku/530"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-11-Gastronomi-senlik-haber.jpg"></div></a>
 <a href="/haber-oku/528"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-10-Bora-Duran.jpg"></div></a>
-<a href="/haber-oku/527"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-08-canbolat.jpg"></div></a>
-<a href="/haber-oku/525"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-04-yasam-boyu-ogrenme.jpg"></div></a>
-<a href="/haber-oku/524"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-03-kucuk-yazarlar.jpg"></div></a>
-<a href="/haber-oku/523"> <div class="item"><img class="img-responsive" src="/dosya/437/resim/2019-04-03-is-ve-kariyer-fuari.jpg"></div></a>
 </div>
 
-<iframe width="100%" allowfullscreen="allowfullscreen" height="400px" src="https://www.youtube.com/embed/04Ngy5AziqE?autoplay=0&loop=1&cc_load_policy=1rel=0&amp;showinfo=0&playlist=04Ngy5AziqE"></iframe>
+<iframe width="100%" allowfullscreen="allowfullscreen" height="400px" src="https://www.youtube.com/embed/04Ngy5AziqE?autoplay=0&loop=1&cc_load_policy=1rel=0&showinfo=0&playlist=04Ngy5AziqE"></iframe>
 </div>
 <div class="row clearfix">
-<h1 style="text-align: center;padding-bottom: 10px;font-weight: bolder">TOROS&#039;TA EĞİTİM</h1>
+<h1 style="text-align: center;padding-bottom: 10px;font-weight: bolder">TOROS'TA EĞİTİM</h1>
 <div class="col-md-3">
 <a href="/kategori-sayfa/1">
 <div class="portfolio-item">
@@ -283,7 +297,7 @@
 <div class="picture">
 <div class="hover-effect"></div>
 <img src="/front/pic/570x420-img-2.jpg">
-<h3 class="index-hover">&Ouml;N LİSANS PROGRAMLARI<i class="fa fa-chevron-right"></i></h3>
+<h3 class="index-hover">ÖN LİSANS PROGRAMLARI<i class="fa fa-chevron-right"></i></h3>
 </div>
 </div>
 </a>
@@ -294,13 +308,13 @@
 <div class="picture">
 <div class="hover-effect"></div>
 <img src="/front/pic/270x200-img-8.jpg">
-<h3 class="index-hover">Y&Uuml;KSEK LİSANS PROGRAMLARI<i class="fa fa-chevron-right"></i></h3>
+<h3 class="index-hover">YÜKSEK LİSANS PROGRAMLARI<i class="fa fa-chevron-right"></i></h3>
 </div>
 </div>
 </a>
-</div>
+ </div>
 <div class="col-md-3">
- <a href="/kategori-sayfa/4">
+<a href="/kategori-sayfa/4">
 <div class="portfolio-item">
 <div class="picture">
 <div class="hover-effect"></div>
@@ -343,7 +357,7 @@
 <div class="col-md-3 col-md-push-3 text-center">
 <a href="https://www.cimer.gov.tr/"> <img src="https://dosyahastane.saglik.gov.tr/Resim/10909,cimerpng.png?0" height="44" width="44" class=" social-icon img-responsive"></a>
 </div>
-<div class="col-md-2 col-md-push-2 text-center"> &nbsp;</div>
+<div class="col-md-2 col-md-push-2 text-center">  </div>
 <a href="/dilek-sikayet-formu" class="social-icon fa fa-user"> </a>
 <a href="https://www.facebook.com/TorosUniversity/" class="social-icon fa fa-facebook"></a>
 <a href="https://www.linkedin.com/in/toros-universitesi-31b80153" class="social-icon fa fa-linkedin"></a>
@@ -353,7 +367,7 @@
 </div>
 <div class="footer-bottom">
 <div class="grid-row clear-fix">
-<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros &Uuml;niversitesi<span></span> 2009 - 2019 T&uuml;m Hakları Saklıdır</p>
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
 </div>
 </div>
 </footer> <div class="icon-menu" id="iconn">
@@ -372,24 +386,24 @@
 <a class="icon " style="background:#0b137e" href="/icerik/kalite-koordinatorlugu">
 <i class="fa fa-users"></i><p>Kalite Güvence Sistemi</p></a>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/moment.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/fullcalendar.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/lang-all.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src='/front/js/jquery.validate.min.js'></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.form.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/slick.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/TweenMax.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/main.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/owl.carousel.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery-ui.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.tweet.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
-<script type="119e674d90e17986046f47a1-text/javascript">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/moment.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/fullcalendar.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/lang-all.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src='/front/js/jquery.validate.min.js'></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.form.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/slick.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/TweenMax.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/main.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/owl.carousel.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery-ui.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.tweet.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
+<script type="3162d0892b1b575b6e9913da-text/javascript">
     $(document).ready(function() {
         $('#main-carousel').find('.item').first().addClass('active');
         $('.carousel').carousel({
@@ -421,7 +435,7 @@
         }
     }
 </script>
-<script type="119e674d90e17986046f47a1-text/javascript">
+<script type="3162d0892b1b575b6e9913da-text/javascript">
         $(document).ready(function(){
 
             $("#owl-demo").owlCarousel({
@@ -462,5 +476,5 @@
         });
 
     </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="119e674d90e17986046f47a1-|49" defer=""></script></body>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="3162d0892b1b575b6e9913da-|49" defer=""></script></body>
 </html>
