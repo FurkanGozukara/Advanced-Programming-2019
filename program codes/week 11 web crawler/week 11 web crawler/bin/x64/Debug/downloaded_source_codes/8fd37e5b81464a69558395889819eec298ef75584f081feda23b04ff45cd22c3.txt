@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+
+
+
+
+
+
+
+
+
+
+
+<HTML>
+
+<HEAD>
+<link rel='stylesheet' class='user' type='text/css' href='/BysWEB/theme/stylesheetLogin.css;jsessionid=58EBD079110E91B8E1733890A4311CBF' /><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META http-equiv="Content-Style-Type" content="text/css">
+</HEAD>
+
+<BODY
+	class="window"
+	bottommargin="0"
+	leftmargin="0"
+	rightmargin="0"
+	topmargin="0">
+
+	
+	
+	<form id="formMain" name="formMain" method="post" action="/BysWEB/faces/login/frameLogin.jsp;jsessionid=58EBD079110E91B8E1733890A4311CBF" enctype="application/x-www-form-urlencoded" class="form">
+		<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+		<tr> <td align="center" valign="middle">
+		<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+		  <tr>
+		    <td align="left" class="LeftBorderCorn"></td>
+		    <td class="TopBorder"></td>
+		    <td align="right" class="RightBorderCorn"></td>
+		  </tr>
+		  <tr>
+		    <td rowspan="3" class="LeftBorder"></td>
+		    <td valign="top" >
+		        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		          <tr>
+		            <td align="center" class="Header">Kullanıcı Bağlantısı</td>
+		          </tr>
+		        </table>
+		    </td>
+		    <td rowspan="3" align="right" class="RightBorder"></td>
+		  </tr>
+		  <tr  height="50px">
+		    <td align="center" valign="top">
+			</td>
+		  </tr>
+		  <tr>
+		    <td valign="top" class="portlet_content" >
+		      <p align="center">
+		        	<span style="color: red;" class="text"></span>
+		      </p>
+		      <p align="center"> Kullanıcı kodunu ve şifresini girdikten sonra <b>Bağlan</b> düğmesine basınız. </p>
+		      <table width="100%" align="center">
+		          <tr>
+		            <td>
+		                <table width="100%" border="0" cellpadding="0" cellspacing="5">
+		                  <tr>
+		                    <td align="right" nowrap><b>Kullanıcı : </b></td>
+		                    <td>
+			                    <input id="formMain:inpuTextKullanici" name="formMain:inpuTextKullanici" type="text" value="" style="width: 200px; autocomplete: off" class="text" />
+							</td>
+		                  </tr>
+		                  
+		                  <tr>
+		                    <td align="right" nowrap><b> Şifre :  </b></td>
+		                    <td>
+		                    	<input type="password" id="formMain:inputSecretSifre" name="formMain:inputSecretSifre" style="width: 200px; autocomplete: off" class="password" />
+							</td>
+		                  </tr>
+						  
+						  <tr valign="middle">
+		                    <td align="right" nowrap> </td>
+		                    <td>
+		                        <script type="text/javascript"><!--
+
+
+	function oamSetHiddenInput(formname, name, value)
+	{
+		var form = document.forms[formname];
+		if(typeof form.elements[name]=='undefined')
+		{
+			var newInput = document.createElement('input');
+			newInput.setAttribute('type','hidden');
+			newInput.setAttribute('name',name);
+			newInput.setAttribute('value',value);
+			form.appendChild(newInput);
+		}
+		else
+		{
+			form.elements[name].value=value;
+		}
+		
+	}
+	
+	
+	function oamClearHiddenInput(formname, name, value)
+	{
+		var form = document.forms[formname];
+		if(typeof form.elements[name]!='undefined')
+		{
+			form.elements[name].value=null;
+		}
+		
+	}
+	
+	function oamSubmitForm(formName, linkId, target, params)
+	{
+		
+		var clearFn = 'clearFormHiddenParams_'+formName.replace(/-/g, '\$:').replace(/:/g,'_');
+		if(typeof eval('window.'+clearFn)!='undefined')
+		{
+			eval('window.'+clearFn+'(formName)');
+		}
+		
+		if(typeof window.getScrolling!='undefined')
+		{
+			oamSetHiddenInput(formName,'autoScroll',getScrolling());
+		}
+		
+		var oldTarget = '';
+		if((typeof target!='undefined') && target != null)
+		{
+			oldTarget=document.forms[formName].target;
+			document.forms[formName].target=target;
+		}
+		if((typeof params!='undefined') && params != null)
+		{
+			for(var i=0; i<params.length; i++)
+			{
+				oamSetHiddenInput(formName,params[i][0], params[i][1]);
+			}
+			
+		}
+		
+		oamSetHiddenInput(formName,formName +':'+'_idcl',linkId);
+		
+		if(document.forms[formName].onsubmit)
+		{
+			var result=document.forms[formName].onsubmit();
+			if((typeof result=='undefined')||result)
+			{
+				document.forms[formName].submit();
+			}
+			
+		}
+		else 
+		{
+			document.forms[formName].submit();
+		}
+		if(oldTarget==null) oldTarget='';
+		document.forms[formName].target=oldTarget;
+		if((typeof params!='undefined') && params != null)
+		{
+			for(var i=0; i<params.length; i++)
+			{
+				oamClearHiddenInput(formName,params[i][0], params[i][1]);
+			}
+			
+		}
+		
+		oamClearHiddenInput(formName,formName +':'+'_idcl',linkId);return false;
+	}
+	
+
+//--></script><input id="formMain:commandButtonBaglan" name="formMain:commandButtonBaglan" type="submit" value="Bağlan" onclick="if(typeof window.clearFormHiddenParams_formMain!='undefined'){clearFormHiddenParams_formMain('formMain');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput('formMain','autoScroll',getScrolling());}" style="background-repeat: repeat-x;
+										   background-image: url('/theme/image/login/button.gif'); height:32px; cursor:pointer;" />
+<input type="hidden" name="autoScroll" />
+
+			                </td>
+		                  </tr>
+		                  <tr>
+		                    <td colspan="2" align="center">                  </td>
+		                  </tr>
+		                </table>
+		            </td>
+		          </tr>			  
+			  </table></td>
+		  </tr>
+		  <tr>
+		    <td class="LeftBorderCornBottom"></td>
+		    <td class="BottomBorder"></td>
+		    <td align="right" class="RightBorderCornBottom"></td>
+		  </tr>
+		</table>
+		 </td></tr>
+		</table>
+	<input type="hidden" name="formMain_SUBMIT" value="1" /><input type="hidden" name="formMain:_idcl" /><input type="hidden" name="formMain:_link_hidden_" /><script type="text/javascript"><!--
+
+	function clear_formMain()
+	{
+		clearFormHiddenParams_formMain('formMain');
+	}
+	
+	function clearFormHiddenParams_formMain(currFormName)
+	{
+		var f = document.forms['formMain'];
+		f.elements['formMain:_idcl'].value='';
+		f.elements['formMain:_link_hidden_'].value='';
+		f.target='';
+	}
+	
+	clearFormHiddenParams_formMain();
+//--></script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="rO0ABXVyABNbTGphdmEubGFuZy5PYmplY3Q7kM5YnxBzKWwCAAB4cAAAAAN0AAhfaWQzMDI1NXB0ABUvbG9naW4vZnJhbWVMb2dpbi5qc3A=" /></form>
+
+
+		<SCRIPT type="text/javascript">
+			document.getElementById('formMain:inpuTextKullanici').focus();
+	    </SCRIPT>	
+<!-- MYFACES JAVASCRIPT -->
+
+<script type="text/javascript"><!--
+
+	function getScrolling()
+	{
+		var x = 0; var y = 0;if (self.pageXOffset || self.pageYOffset)
+		{
+			x = self.pageXOffset;
+			y = self.pageYOffset;
+		}
+		 else if ((document.documentElement && document.documentElement.scrollLeft)||(document.documentElement && document.documentElement.scrollTop))
+		{
+			x = document.documentElement.scrollLeft;
+			y = document.documentElement.scrollTop;
+		}
+		 else if (document.body) 
+		{
+			x = document.body.scrollLeft;
+			y = document.body.scrollTop;
+		}
+		return x + "," + y;
+	}
+	
+//--></script>
+
+</BODY>
+</HTML>

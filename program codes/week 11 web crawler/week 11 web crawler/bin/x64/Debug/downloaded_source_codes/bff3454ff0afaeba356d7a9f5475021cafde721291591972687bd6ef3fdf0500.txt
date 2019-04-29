@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Ali ÖZVEREN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="MESUT AKSAK">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Profil" />
+<link rel="shortcut icon" href="">
+<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link rel="stylesheet" href="/personal/css/bootstrap.css">
+<link rel="stylesheet" href="/personal/css/font-awesome.min.css">
+<link rel="stylesheet" href="/personal/css/perfect-scrollbar-0.4.5.min.css">
+<link rel="stylesheet" href="/personal/css/magnific-popup.css">
+<link rel="stylesheet" href="/personal/css/style.css">
+<link id="theme-style" rel="stylesheet" href="/personal/css/styles/1.css">
+
+
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery-1.10.2.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/TweenMax.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery.touchSwipe.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/modernizr.custom.63321.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery.dropdownit.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery.stellar.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/ScrollToPlugin.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/bootstrap.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/jquery.mixitup.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/masonry.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/magnific-popup.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+<a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+<div id="sidebar">
+<div id="main-nav">
+<div id="nav-container">
+<div id="profile" class="clearfix">
+<img class="portrate hidden-xs" src="/dosyalar/1/images/mutevelli%20heyeti%20baskani%20ali%20o%CC%88zveren.JPG">
+<div class="title">
+<h2>Ali ÖZVEREN</h2>
+</div>
+</div>
+<ul id="navigation">
+<li>
+<a href="#biography">
+<div class="icon icon-user"></div>
+<div class="text">Özgeçmiş</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+
+<div id="biography" class="page home" data-pos="home">
+<div class="pageheader">
+<div class="headercontent">
+<div class="section-container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h3 class="title">Özgeçmiş</h3>
+<p>Toros Üniversitesi Mütevelli Heyetindeki görevine 21.06.2009 tarihinde başlayan Ali Özveren 1971 yılında İstanbul Üniversitesi Edebiyat Fakültesi Sosyoloji bölümünü  tamamladı. Özel İçel Lisesi Müdür Yardımcısı ve sosyoloji öğretmenliği, Toros Koleji felsefe öğretmenliği, Toros Koleji müdürlüğü, Toros Okulları Genel Müdürlüğü yaptı. Mersin Eğitim Vakfı kurucusu ve yönetim kurulu başkanıdır. </p>
+<p>TEMA Vakfı, MEB Özel Öğretim Kurumları, İçel Valiliği, İçel ME Müdürlüğü, Çağdaş Yaşamı Destekleme Derneği, Mersin Lions Kulübü ve Mersin Rotary Kulübü’nde ödül aldı. </p>
+<p>Türkiye Öğretmenler Derneği (TÜBDER), Mersin Lions Kulübü, Hacı Bektaş Veli Kültür Derneği, Mersin Temiz Toplum Derneği, Avrupa Birliği Derneği, Atatürkçü Düşünce Derneği, Çağdaş Yaşamı Destekleme Derneği, TEMA Vakfı, Eğitim Gönüllüleri Derneği üyesidir.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay"></div>
+</div>
+</div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="034bc745796a08c7611d4eca-|49" defer=""></script></body>
+<script type="034bc745796a08c7611d4eca-text/javascript" src="/personal/js/custom.js"></script>
+</html>

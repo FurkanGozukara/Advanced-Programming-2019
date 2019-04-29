@@ -1,0 +1,347 @@
+<!DOCTYPE HTML>
+<html lang="tr">
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="8nEnw4tP2D3QcHIV2t0qSwFDL11Csalv2G85oAzl" />
+<meta name="author" content="MESUT AKSAK, GİZEN MUTLU,  TOROS YAZILIM BİRİMİ ">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" href="/admin/plugins/select2/select2.min.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+        .dataTables_filter > div, label, input, select, textarea, button{
+            display: inline;
+        }
+        .dataTables_filter label> input {
+            border: 1px solid !important;
+        }
+        .detay-tablo td { text-align: center;}
+        .detay-link { cursor: pointer; text-decoration: underline; color: blue; }
+        .detay-link:hover { background-color: green; color: whitesmoke; }
+
+
+        .yil-link { cursor: pointer; text-decoration: underline; color: blue;}
+        .yil-link:hover { background-color: lightblue; color: black; }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="33922a55c9c4059f561aab6c-text/javascript"></script>
+<script type="33922a55c9c4059f561aab6c-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="33922a55c9c4059f561aab6c-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+<a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#c5acaba3aa85b1aab7aab6eba0a1b0ebb1b7" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="b1d8dfd7def1c5dec3dec29fd4d5c49fc5c3">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="https://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="https://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class=" clear-fix">
+<div class="col-md-8 col-md-offset-2">
+<div class="row">
+<div class="box-header with-border">
+<h3 class="box-title">Akademik Yayın Ekle</h3>
+</div>
+
+
+<form role="form" method="post" action="/abis/yayin-bildir">
+<input type="hidden" name="_token" value="">
+<div class="box-body">
+<div class="form-group">
+<label>Ünvan</label>
+<select id="unvan" name="unvan" class="form-control">
+<option value="Arş. Gör."> Arş. Gör. </option>
+<option value="Doç. Dr."> Doç. Dr. </option>
+<option value="Doç. Dr. "> Doç. Dr. </option>
+<option value="Dr. Öğr. Üyesi"> Dr. Öğr. Üyesi </option>
+<option value="Öğr. Gör."> Öğr. Gör. </option>
+<option value="Öğr. Gör. Ü."> Öğr. Gör. Ü. </option>
+<option value="Prof. Dr."> Prof. Dr. </option>
+</select>
+</div>
+<div class="form-group">
+<label>Personel</label>
+<select id="personel" name="personel" class="form-control">
+<option value="Arş. Gör. DUYGU MERVE BULUT (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Arş. Gör. DUYGU MERVE BULUT (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Arş. Gör. EBRU PEKDAŞ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Arş. Gör. EBRU PEKDAŞ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Arş. Gör. FATMA DÜLGER (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. FATMA DÜLGER (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. GÖKÇE MANAVKAT (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ)"> Arş. Gör. GÖKÇE MANAVKAT (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ) </option>
+<option value="Arş. Gör. GÜLÇİN ÜNLÜ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Arş. Gör. GÜLÇİN ÜNLÜ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Arş. Gör. HATİCE MERVE ÇETİN (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. HATİCE MERVE ÇETİN (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. HÜSAMETTİN YAZAR (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Arş. Gör. HÜSAMETTİN YAZAR (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. ÖMÜR SALTIK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Arş. Gör. ÖMÜR SALTIK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Arş. Gör. ÖZLEM BULUT (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ)"> Arş. Gör. ÖZLEM BULUT (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ) </option>
+<option value="Arş. Gör. PELİN ŞEVKAN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Arş. Gör. PELİN ŞEVKAN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Arş. Gör. RIDVAN SÖYÜ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. RIDVAN SÖYÜ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. SAADET YILDIRIMCAN (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. SAADET YILDIRIMCAN (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. SELİN ÇORUH (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Arş. Gör. SELİN ÇORUH (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Arş. Gör. SELİN SARAÇ (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. SELİN SARAÇ (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. SERCAN URTEKİN (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. SERCAN URTEKİN (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. TUĞÇE SENA AVŞAR (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Arş. Gör. TUĞÇE SENA AVŞAR (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. YAĞMUR AYDIN (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Arş. Gör. YAĞMUR AYDIN (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Arş. Gör. ZAHİDE SALAN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Arş. Gör. ZAHİDE SALAN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Doç. Dr.  Yuriy Mishchenko (MÜHENDİSLİK fAKÜLTESİ BİLGİSAYAR VE YAZILIMI MÜHENDİSLİĞİ)"> Doç. Dr. Yuriy Mishchenko (MÜHENDİSLİK fAKÜLTESİ BİLGİSAYAR VE YAZILIMI MÜHENDİSLİĞİ) </option>
+<option value="Doç. Dr. ABDULLAH ÇALIŞKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ)"> Doç. Dr. ABDULLAH ÇALIŞKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ) </option>
+<option value="Doç. Dr. BİRKAN TAHA ÖZKAN (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ)"> Doç. Dr. BİRKAN TAHA ÖZKAN (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Doç. Dr. GÜLDEN AYALP (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK)"> Doç. Dr. GÜLDEN AYALP (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK) </option>
+<option value="Doç. Dr. HİROKİ VAKAMATSU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ )"> Doç. Dr. HİROKİ VAKAMATSU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ) </option>
+<option value="Doç. Dr. KÖKSAL HAZIR (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ)"> Doç. Dr. KÖKSAL HAZIR (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ) </option>
+<option value="Doç. Dr. MERT AKTAŞ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Doç. Dr. MERT AKTAŞ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Doç. Dr. MUSTAFA BEKMEZCİ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Doç. Dr. MUSTAFA BEKMEZCİ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Doç. Dr. NERİME CİMCOZ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Doç. Dr. NERİME CİMCOZ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Doç. Dr. TUNAY KÖKSAL (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ)"> Doç. Dr. TUNAY KÖKSAL (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ) </option>
+<option value="Doç. Dr. Yuriy Mishchenko (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ)"> Doç. Dr. Yuriy Mishchenko (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ) </option>
+<option value="Dr. Öğr. Üyesi ALİ KEMAL HAVARE (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi ALİ KEMAL HAVARE (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi ASLIHAN YAVUZALP MARANGOZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ)"> Dr. Öğr. Üyesi ASLIHAN YAVUZALP MARANGOZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi AYHAN DEMİRCİ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ)"> Dr. Öğr. Üyesi AYHAN DEMİRCİ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi AYŞEN CEVRİYE BENLİ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Dr. Öğr. Üyesi AYŞEN CEVRİYE BENLİ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi BAHADIR İLDOKUZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ)"> Dr. Öğr. Üyesi BAHADIR İLDOKUZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi BEHİRE SANÇAR (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ)"> Dr. Öğr. Üyesi BEHİRE SANÇAR (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi BESİME AHU KAYNAK (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ)"> Dr. Öğr. Üyesi BESİME AHU KAYNAK (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi BETÜL GÜLŞEN ATALAY (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ)"> Dr. Öğr. Üyesi BETÜL GÜLŞEN ATALAY (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi Bilal AK (SAĞLIK BİLİMLERİ YÜKSEKOKULU Sağlık Yönetimi)"> Dr. Öğr. Üyesi Bilal AK (SAĞLIK BİLİMLERİ YÜKSEKOKULU Sağlık Yönetimi) </option>
+<option value="Dr. Öğr. Üyesi BURÇİN KUTSAL (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Dr. Öğr. Üyesi BURÇİN KUTSAL (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi CENGİZ TUNÇ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS)"> Dr. Öğr. Üyesi CENGİZ TUNÇ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS) </option>
+<option value="Dr. Öğr. Üyesi CEVHER AK (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi CEVHER AK (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi ÇAĞDAŞ ALLAHVERDİ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi ÇAĞDAŞ ALLAHVERDİ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi DEMET AKTAŞ (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ)"> Dr. Öğr. Üyesi DEMET AKTAŞ (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi EDA PARLAK (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ)"> Dr. Öğr. Üyesi EDA PARLAK (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi EMİNE ÖZLEM KÖROĞLU (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ)"> Dr. Öğr. Üyesi EMİNE ÖZLEM KÖROĞLU (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi FATMA SEMA GÜRKAN (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Dr. Öğr. Üyesi FATMA SEMA GÜRKAN (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi FEYRUZ USLUOĞLU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Dr. Öğr. Üyesi FEYRUZ USLUOĞLU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi FİKRİ EGE (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi FİKRİ EGE (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi FURKAN GÖZÜKARA (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi FURKAN GÖZÜKARA (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi HALİL FİKRET OKUTUCU (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Dr. Öğr. Üyesi HALİL FİKRET OKUTUCU (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi İBRAHİM BOZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ)"> Dr. Öğr. Üyesi İBRAHİM BOZ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI FİNANS BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi MARYAM ESKANDARI (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi MARYAM ESKANDARI (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi MEHMET ALİ AKTAŞ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi MEHMET ALİ AKTAŞ (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi METİN OCAK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Dr. Öğr. Üyesi METİN OCAK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi MURAT KÖYLÜ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ)"> Dr. Öğr. Üyesi MURAT KÖYLÜ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi MÜNİR YALÇIN ORTAKALE (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ)"> Dr. Öğr. Üyesi MÜNİR YALÇIN ORTAKALE (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi NAZİFE AKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ)"> Dr. Öğr. Üyesi NAZİFE AKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi NAZMİYE ÜLKÜ PEKKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ)"> Dr. Öğr. Üyesi NAZMİYE ÜLKÜ PEKKAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi OMID SHARIFI (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi OMID SHARIFI (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi SERKAN TAŞ (SAĞLIK BİLİMLERİ YÜKSEKOKULU FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ)"> Dr. Öğr. Üyesi SERKAN TAŞ (SAĞLIK BİLİMLERİ YÜKSEKOKULU FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi TÜRKER ERTEM (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi TÜRKER ERTEM (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi ZAINA MUSTAFA MAHMOUD HAMAD (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi ZAINA MUSTAFA MAHMOUD HAMAD (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Dr. Öğr. Üyesi ZİYA GÖKALP ALTUN (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Dr. Öğr. Üyesi ZİYA GÖKALP ALTUN (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. ALPER KALYONCU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. ALPER KALYONCU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. AYNUR ÇELİK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. AYNUR ÇELİK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. AYŞE GÜNGÖR (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ)"> Öğr. Gör. AYŞE GÜNGÖR (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ) </option>
+<option value="Öğr. Gör. AYŞE İNCE (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Öğr. Gör. AYŞE İNCE (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. BARIŞ TÜRKAY (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. BARIŞ TÜRKAY (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. BAŞAK YÜNCÜ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ)"> Öğr. Gör. BAŞAK YÜNCÜ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ İÇ MİMARLIK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. BİRSEN KESİK ZEYREK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. BİRSEN KESİK ZEYREK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. CANSU KALKAN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. CANSU KALKAN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. CEM YALAZA (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. CEM YALAZA (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. CEMİLE GÖKÇE TEZCAN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. CEMİLE GÖKÇE TEZCAN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. CEYLAN EKERER (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ)"> Öğr. Gör. CEYLAN EKERER (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ) </option>
+<option value="Öğr. Gör. DENİZ ALKAN AYDIN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. DENİZ ALKAN AYDIN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. DENİZ YALÇINKAYA (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. DENİZ YALÇINKAYA (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. DİDEM DEMİR (MESLEK YÜKSEKOKULU OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. DİDEM DEMİR (MESLEK YÜKSEKOKULU OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. DİDEM POLAT KÜLCÜ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. DİDEM POLAT KÜLCÜ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. DİLEK BATUR SEÇER (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. DİLEK BATUR SEÇER (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+ <option value="Öğr. Gör. DİLER YAMAN (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ)"> Öğr. Gör. DİLER YAMAN (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ) </option>
+<option value="Öğr. Gör. EMRE ÜNAL (MESLEK YÜKSEKOKULU MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ)"> Öğr. Gör. EMRE ÜNAL (MESLEK YÜKSEKOKULU MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. ERKAN TUNÇ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. ERKAN TUNÇ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. ERTAN CEM GÜL (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ)"> Öğr. Gör. ERTAN CEM GÜL (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. FARUK ÇAKIR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. FARUK ÇAKIR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. FATMA BETÜL ÖZ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. FATMA BETÜL ÖZ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. GALİP KIRICI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. GALİP KIRICI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. GÖZDE ÇETİNKAYA (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ)"> Öğr. Gör. GÖZDE ÇETİNKAYA (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ) </option>
+<option value="Öğr. Gör. GÜZİN AYAN (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. GÜZİN AYAN (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. HARİKA TOPAL ÖNAL (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. HARİKA TOPAL ÖNAL (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. HASAN AŞKIN (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. HASAN AŞKIN (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. HAVİN ÖNER GÖREN (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ)"> Öğr. Gör. HAVİN ÖNER GÖREN (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. HÜLYA GÜNDOĞDU (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ)"> Öğr. Gör. HÜLYA GÜNDOĞDU (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ) </option>
+<option value="Öğr. Gör. HÜSEYİN TURGAY ATINÇ (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ)"> Öğr. Gör. HÜSEYİN TURGAY ATINÇ (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ) </option>
+<option value="Öğr. Gör. İSA EROĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. İSA EROĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. İSMAİL TEKİN (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ)"> Öğr. Gör. İSMAİL TEKİN (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ) </option>
+<option value="Öğr. Gör. KAMURAN ÖZTOP (MESLEK YÜKSEKOKULU OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. KAMURAN ÖZTOP (MESLEK YÜKSEKOKULU OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. KEREM BEREKETOĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. KEREM BEREKETOĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+ <option value="Öğr. Gör. MEHMET BURAK TAŞERİMEZ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Öğr. Gör. MEHMET BURAK TAŞERİMEZ (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MEHMET NAS (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ)"> Öğr. Gör. MEHMET NAS (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MELTEM AKYÜREK (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Öğr. Gör. MELTEM AKYÜREK (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MELTEM GÜNGÖR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. MELTEM GÜNGÖR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MEMET CUNUDİ DAĞLI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. MEMET CUNUDİ DAĞLI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MERVE KOYUNCU (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. MERVE KOYUNCU (MESLEK YÜKSEKOKULU ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MUSTAFA OZAN GÜLDOĞAN (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. MUSTAFA OZAN GÜLDOĞAN (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. MUSTAFA UÇAN (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. MUSTAFA UÇAN (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. ORHAN KARAKAPLAN (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ)"> Öğr. Gör. ORHAN KARAKAPLAN (MESLEK YÜKSEKOKULU TASARIM BÖLÜMÜ) </option>
+<option value="Öğr. Gör. ÖZGÜR BERİVAN SANDAL (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. ÖZGÜR BERİVAN SANDAL (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. PEDEA OLIVIER NIAMBLY (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. PEDEA OLIVIER NIAMBLY (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. PINAR KAYA (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. PINAR KAYA (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. SABRİ KALKAN (MESLEK YÜKSEKOKULU MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ)"> Öğr. Gör. SABRİ KALKAN (MESLEK YÜKSEKOKULU MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. SEÇİL BİBER (REKTÖRLÜK )"> Öğr. Gör. SEÇİL BİBER (REKTÖRLÜK ) </option>
+<option value="Öğr. Gör. SEDA TURNACIGİL (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ)"> Öğr. Gör. SEDA TURNACIGİL (MESLEK YÜKSEKOKULU YÖNETİM VE ORGANİZASYON BÖLÜMÜ) </option>
+<option value="Öğr. Gör. SEDAT TÜTÜNCÜ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. SEDAT TÜTÜNCÜ (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. SENA TEKELİ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. SENA TEKELİ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. Sevin  AYAZ (MESLEK YÜKSEKOKULU TIBBİ GÖRÜNTÜLEME)"> Öğr. Gör. Sevin AYAZ (MESLEK YÜKSEKOKULU TIBBİ GÖRÜNTÜLEME) </option>
+ <option value="Öğr. Gör. SEYDA ASLAN TUNÇ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. SEYDA ASLAN TUNÇ (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. SİBEL BOZKAYA (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ)"> Öğr. Gör. SİBEL BOZKAYA (MESLEK YÜKSEKOKULU HUKUK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. SİMAY AVSEVEN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. SİMAY AVSEVEN (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. SİMAY ÖZER YEŞİL (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. SİMAY ÖZER YEŞİL (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. SUAT ERDEM TORĞUTALP (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ)"> Öğr. Gör. SUAT ERDEM TORĞUTALP (MESLEK YÜKSEKOKULU DİŞÇİLİK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. SUNA KIZILYILDIRIM (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. SUNA KIZILYILDIRIM (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. TİİNÇE AKSAK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. TİİNÇE AKSAK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. TUĞÇE KEMER (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ)"> Öğr. Gör. TUĞÇE KEMER (MESLEK YÜKSEKOKULU İNŞAAT BÖLÜMÜ) </option>
+<option value="Öğr. Gör. UĞUR HARBELİOĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ )"> Öğr. Gör. UĞUR HARBELİOĞLU (REKTÖRLÜK / HAZIRLIK OKULU MÜDÜRLÜĞÜ ) </option>
+<option value="Öğr. Gör. Ü. Mesut Abc Aksak deedede (MÜHENDİSLİK FAKÜLTESİ Bilgisayar Mühendislik)"> Öğr. Gör. Ü. Mesut Abc Aksak deedede (MÜHENDİSLİK FAKÜLTESİ Bilgisayar Mühendislik) </option>
+<option value="Öğr. Gör. ÜMİT YAŞAR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. ÜMİT YAŞAR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. VOLKAN KADİR GÜNGÖR (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ)"> Öğr. Gör. VOLKAN KADİR GÜNGÖR (MÜHENDİSLİK FAKÜLTESİ BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Öğr. Gör. YASEMİN TEZCAN (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ)"> Öğr. Gör. YASEMİN TEZCAN (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ) </option>
+<option value="Öğr. Gör. YELİZ ÇERMİKLİ BULUKLU (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Öğr. Gör. YELİZ ÇERMİKLİ BULUKLU (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Öğr. Gör. YILMAZ GÜLER (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Öğr. Gör. YILMAZ GÜLER (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Öğr. Gör. YUSUF GÜL (REKTÖRLÜK )"> Öğr. Gör. YUSUF GÜL (REKTÖRLÜK ) </option>
+<option value="Öğr. Gör. ZEHRA GÜL KOÇAKLI (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ)"> Öğr. Gör. ZEHRA GÜL KOÇAKLI (MESLEK YÜKSEKOKULU TERAPİ VE REHABİLİTASYON BÖLÜMÜ) </option>
+<option value="Prof. Dr. ADNAN MAZMANOĞLU (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ)"> Prof. Dr. ADNAN MAZMANOĞLU (SAĞLIK BİLİMLERİ YÜKSEKOKULU SAĞLIK YÖNETİMİ BÖLÜMÜ) </option>
+ <option value="Prof. Dr. AHMET ÖZER (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ Şehir ve Bölge Planlama)"> Prof. Dr. AHMET ÖZER (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ Şehir ve Bölge Planlama) </option>
+<option value="Prof. Dr. AZİZ ERTUNÇ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. AZİZ ERTUNÇ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. BANU İNANÇ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Prof. Dr. BANU İNANÇ (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. CEMİL CENGİZ ARCASOY (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. CEMİL CENGİZ ARCASOY (MÜHENDİSLİK FAKÜLTESİ ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. ERKİN ERTEN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Prof. Dr. ERKİN ERTEN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Prof. Dr. FATMA REZAN HATUNGİL (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ)"> Prof. Dr. FATMA REZAN HATUNGİL (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. FÜGEN ÖZCANARSLAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ)"> Prof. Dr. FÜGEN ÖZCANARSLAN (SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. FÜSUN BOZKIRLI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Prof. Dr. FÜSUN BOZKIRLI (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Prof. Dr. HALUK KORKMAZYÜREK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Prof. Dr. HALUK KORKMAZYÜREK (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Prof. Dr. KAMURAN ELBEYOĞLU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ)"> Prof. Dr. KAMURAN ELBEYOĞLU (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ PSİKOLOJİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. KAZIM TÜLÜCÜ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. KAZIM TÜLÜCÜ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. MEHMET ÇAKIROĞLU (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. MEHMET ÇAKIROĞLU (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. MEHMET SALİH KIRKGÖZ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. MEHMET SALİH KIRKGÖZ (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. NECATİ ŞEN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ)"> Prof. Dr. NECATİ ŞEN (GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ MİMARLIK BÖLÜMÜ) </option>
+<option value="Prof. Dr. NUREDDİN ÇOLAK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Prof. Dr. NUREDDİN ÇOLAK (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Prof. Dr. Orhan  Aksoğan (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. Orhan Aksoğan (MÜHENDİSLİK FAKÜLTESİ İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. SERVET ÖZGÜR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ)"> Prof. Dr. SERVET ÖZGÜR (MESLEK YÜKSEKOKULU TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ) </option>
+<option value="Prof. Dr. SÜLEYMAN TÜRKEL (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ)"> Prof. Dr. SÜLEYMAN TÜRKEL (İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ İŞLETME BÖLÜMÜ) </option>
+<option value="Prof. Dr. YUSUF ZEREN (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ)"> Prof. Dr. YUSUF ZEREN (MÜHENDİSLİK FAKÜLTESİ ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ) </option>
+<option value="Prof. Dr. YÜKSEL ÖZDEMİR (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ)"> Prof. Dr. YÜKSEL ÖZDEMİR (SAĞLIK BİLİMLERİ YÜKSEKOKULU BESLENME VE DİYETETİK BÖLÜMÜ) </option>
+</select>
+</div>
+<div class="form-group">
+<label>Eser Türü</label>
+<select name="eserTuru" class="form-control">
+<option value="ISI Dergilerinde Makale"> ISI Dergilerinde Makale </option>
+<option value="Uluslararası Dergilerde Makale"> Uluslararası Dergilerde Makale </option>
+<option value="Uluslararası Bildiri"> Uluslararası Bildiri </option>
+<option value="Kitap veya Kitapta Bölüm"> Kitap veya Kitapta Bölüm </option>
+<option value="Ulusal Makale"> Ulusal Makale </option>
+<option value="Ulusal Bildiri"> Ulusal Bildiri </option>
+<option value="Diğer Yayınlar"> Diğer Yayınlar </option>
+</select>
+</div>
+<div class="form-group">
+<label>Yazarlar</label>
+<input name="yazarlar" type="text" class="form-control">
+</div>
+<div class="form-group">
+<label>Yıl</label>
+<input name="yil" type="text" class="form-control">
+</div>
+<div class="form-group">
+<label>Yayın Adı (Makale Adı, Sayı, Cilt Sayfa Numarası veya Bildirinin, Kongre / Sempozyum Adı, Yeri ve Bildiri Kitabındaki Sayfa No)</label>
+<input name="yayinAdi" type="text" class="form-control">
+</div>
+<div class="form-group">
+<label>Link (Yayın Adresi http://www.google.com formatında url adresi)</label>
+<input name="link" type="text" class="form-control">
+</div>
+</div>
+
+<div class="box-footer">
+<button name="btn-submit" id="btn-submit" type="submit" class="btn btn-primary" data-submit="...Gönderiliyor">GÖNDER</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/admin/plugins/jQuery/jQuery-2.1.4.min.js" type="33922a55c9c4059f561aab6c-text/javascript"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" type="33922a55c9c4059f561aab6c-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous" type="33922a55c9c4059f561aab6c-text/javascript"></script>
+<script src="/admin/plugins/select2/select2.full.min.js" type="33922a55c9c4059f561aab6c-text/javascript"></script>
+<script type="33922a55c9c4059f561aab6c-text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="33922a55c9c4059f561aab6c-text/javascript">
+
+
+    $(function () {
+
+
+        $('#personel').select2();
+        $('#unvan').select2();
+    });
+
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="33922a55c9c4059f561aab6c-|49" defer=""></script></body>
+</html>

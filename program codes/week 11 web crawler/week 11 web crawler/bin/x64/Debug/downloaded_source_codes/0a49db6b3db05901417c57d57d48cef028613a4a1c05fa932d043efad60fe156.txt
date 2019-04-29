@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Toros Üniversitesi Mezunlar Derneği</title>
+<link rel="shortcut icon" href="/img/favicon.png" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="/arena/css/swiper.min.css">
+<link rel="stylesheet" href="/arena/css/ion.tabs.css">
+<link rel="stylesheet" href="/arena/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="/arena/css/font-awesome.min.css">
+<link rel="stylesheet" href="/arena/css/elegant-icons.css">
+<link rel="stylesheet" href="/arena/css/stroke-gap-icons.css">
+
+<link rel="stylesheet" href="/arena/style-B.css">
+<script type="d0d73d370bd461e99af4da30-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-101011072-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+
+<div class="page-preloader-wrapper">
+<div class="page-preloader"><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span></div>
+</div>
+
+
+<header class="page-header">
+
+<div class="logo page-header__logo"><a class="logo__link" href="/"><img src="/img/logo.png" style="height: 75px;width: auto"></a></div>
+
+
+<nav class="page-header__navigation">
+
+<ul class="list-top-menu">
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/">Tanıtım</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/yonetim">Yönetim Kurulu</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/tuzuk">Tüzük</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/register">Yeni Üye</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/iletisim">İletişim</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/login">Üye Girişi</a></li>
+</ul>
+
+
+<ul class="list-side-nav">
+<li class="list-side-nav__item"><a class="list-side-nav__burger" id="js-mobile-menu-button" href="#"></a></li>
+</ul>
+
+</nav>
+
+</header>
+
+
+<section class="page-section page-section_intro-inner _background-image-1 _overlay-black js-jarallax_type_1">
+</section>
+
+
+<section class="page-section page-section_contacts">
+<div class="page-section__content">
+<div class="container">
+<div class="row">
+
+<div class="col-sm-4 col-sm-offset-4">
+<div class="contact page-section_contacts__contact"><i class="contact__icon pe-7s-mail"></i>
+<div class="contact__wrapper-content">
+<ul class="list-address">
+<li class="list-address_item"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="582c372a353d3c182c372a372b763d3c2d762c2a">[email protected]</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="google-map-wrapper">
+<div class="google-map-wrapper__form">
+<div class="container">
+</div>
+</div>
+<div id="js-google-map" class="google-map-wrapper__map js-google-map"></div>
+</div>
+</div>
+</section>
+
+
+<footer class="page-footer">
+<a class="button-to-top" id="js-button-to-top" href="#"></a>
+
+
+<div class="page-footer__content">
+
+</div>
+
+
+<div class="page-footer__copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><small class="copyright-text">©2019 Toros Üniversitesi Mezunlar Derneği<span></span> Tüm Hakları Saklıdır</small></div>
+</div>
+</div>
+</div>
+
+</footer>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/arena/js/modernizr.custom.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/imagesloaded.pkgd.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.waypoints.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.counterup.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.easing.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.easeScroll.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/swiper.jquery.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/masonry.pkgd.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/isotope.pkgd.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jarallax.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/jquery.equalheights.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/ion.tabs.min.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/maplace.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3gFKhVywUkygSxQEBdGVrI5-ZRrdjueA" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src="/arena/js/common.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+
+<script src="/arena/js/scripts-B.js" type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js' type="d0d73d370bd461e99af4da30-text/javascript"></script>
+<script type="d0d73d370bd461e99af4da30-text/javascript">
+        google.maps.event.addDomListener(window, 'load', init);
+        var map;
+        function init() {
+            var mapOptions = {
+                center: new google.maps.LatLng(36.793398,34.593813),
+                zoom: 14,
+                zoomControl: true,
+                zoomControlOptions: {
+                    style: google.maps.ZoomControlStyle.DEFAULT,
+                },
+                disableDoubleClickZoom: true,
+                mapTypeControl: true,
+                mapTypeControlOptions: {
+                    style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+                },
+                scaleControl: true,
+                scrollwheel: true,
+                panControl: true,
+                streetViewControl: true,
+                draggable : true,
+                overviewMapControl: true,
+                overviewMapControlOptions: {
+                    opened: false
+                },
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            var mapElement = document.getElementById('js-google-map');
+            var map = new google.maps.Map(mapElement, mapOptions);
+            var locations = [
+                ['TOROS ÜNİVERSİTESİ BAHÇELİEVLER KAMPÜSÜ', 'undefined', 'undefined', 'undefined', 'undefined', 36.795148,  34.591547, 'https://mapbuildr.com/assets/img/markers/solid-pin-orange.png']
+            ];
+            for (i = 0; i < locations.length; i++) {
+                if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
+                if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
+                if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
+                if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
+                if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
+                marker = new google.maps.Marker({
+                    icon: markericon,
+                    position: new google.maps.LatLng(locations[i][5], locations[i][6]),
+                    map: map,
+                    title: locations[i][0],
+                    desc: description,
+                    tel: telephone,
+                    email: email,
+                    web: web
+                });
+                link = '';     }
+
+        }
+    </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="d0d73d370bd461e99af4da30-|49" defer=""></script></body>
+</html>

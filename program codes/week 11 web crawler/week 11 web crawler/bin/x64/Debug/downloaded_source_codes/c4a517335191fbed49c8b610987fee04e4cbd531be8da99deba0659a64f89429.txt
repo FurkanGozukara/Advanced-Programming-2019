@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Prof. Dr. Esat YILGÖR</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="MESUT AKSAK">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Profil" />
+<link rel="shortcut icon" href="">
+<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link rel="stylesheet" href="/personal/css/bootstrap.css">
+<link rel="stylesheet" href="/personal/css/font-awesome.min.css">
+<link rel="stylesheet" href="/personal/css/perfect-scrollbar-0.4.5.min.css">
+<link rel="stylesheet" href="/personal/css/magnific-popup.css">
+<link rel="stylesheet" href="/personal/css/style.css">
+<link id="theme-style" rel="stylesheet" href="/personal/css/styles/1.css">
+
+
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery-1.10.2.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/TweenMax.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery.touchSwipe.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/modernizr.custom.63321.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery.dropdownit.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery.stellar.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/ScrollToPlugin.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/bootstrap.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/jquery.mixitup.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/masonry.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/magnific-popup.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+<a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+<div id="sidebar">
+<div id="main-nav">
+<div id="nav-container">
+<div id="profile" class="clearfix">
+<img class="portrate hidden-xs" src="/dosya/25/resim/2017-07-26-fotograf-esat-yilgor.jpg">
+<div class="title">
+<h2>Prof. Dr. Esat YILGÖR</h2>
+</div>
+</div>
+<ul id="navigation">
+<li>
+<a href="#biography">
+<div class="icon icon-user"></div>
+<div class="text">Özgeçmiş</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+
+<div id="biography" class="page home" data-pos="home">
+<div class="pageheader">
+<div class="headercontent">
+<div class="section-container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h3 class="title">Özgeçmiş</h3>
+<p>Toros Üniversitesi Mütevelli Heyetindeki görevine 21/06/2017 tarihinde başlayan Prof. Dr. Esat YILGÖR 1953 Mersin doğumludur. İlk, orta ve lise öğrenimini sırasıyla Mersin Toros Koleji, Ankara Fen Lisesi’nde tamamlamıştır. Hacettepe Üniversitesi Tıp Fakültesi 1976 mezunu olan Dr. Yılgör 1976 da Hacettepe Tıp Fakültesi Çocuk Sağlığı ve Hastalıkları AD Uzmanı olmuştur. 1990 da Doçent, 2000 de Profesör unvanını alan Dr. Yılgör; Hacettepe Üniversitesi, Uludağ Üniversitesi ve Mersin Üniversitesi Tıp Fakültelerinde görev yapmış ve emekliliğinin Mersin Üniversitesi Tıp Fakültesi’nden almıştır. Halen Mersin Sistem Cerrahi Tıp Merkezi'nde yöneticilik ve aktif olarak hekimlik yapmaktadır. Tıp Fakültesi ve Çocuk Hastalıkları uzmanlık eğitimi ile ilgili beş adet kitabın editörlüğünü yürütmüş olup "Çocuğuma neyi ne zaman yediririm" ve "Anne ve Bebeğinin Beslenmesi" adlı iki kitabı vardır. Evli ve iki çocuk babasıdır.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay"></div>
+</div>
+</div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="218079ff56967991f8bbc8bc-|49" defer=""></script></body>
+<script type="218079ff56967991f8bbc8bc-text/javascript" src="/personal/js/custom.js"></script>
+</html>

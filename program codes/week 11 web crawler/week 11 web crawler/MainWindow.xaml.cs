@@ -30,7 +30,7 @@ namespace week_11_web_crawler
         private static HashSet<string> hsDiscoveredLinks = new HashSet<string>();
         private static HashSet<string> hsCrawledLinks = new HashSet<string>();
 
-        private static Dictionary<string, HTTPDownloader.csUrlFails> dicFailedUrls = 
+        private static Dictionary<string, HTTPDownloader.csUrlFails> dicFailedUrls =
             new Dictionary<string, HTTPDownloader.csUrlFails>();
 
 
@@ -79,7 +79,7 @@ namespace week_11_web_crawler
                     {
                         if (dicFailedUrls[item.func_GenerateURLHash()].irFailCount >= 3)
                         {
-                            if (dicFailedUrls[item.func_GenerateURLHash()].dtPause.AddHours(24) < DateTime.Now)
+                            if (dicFailedUrls[item.func_GenerateURLHash()].dtPause.AddHours(24) > DateTime.Now)
                             {
                                 continue;
                             }
@@ -132,7 +132,7 @@ namespace week_11_web_crawler
                 {
                     File.AppendAllText("errors.txt", srBaseUrl + "\r\n" + myDownloadResult.occuredException.StackTrace + "\r\n\r\n\r\n");
 
-                    if(dicFailedUrls.ContainsKey(srBaseUrl.func_GenerateURLHash()))
+                    if (dicFailedUrls.ContainsKey(srBaseUrl.func_GenerateURLHash()))
                     {
                         dicFailedUrls[srBaseUrl.func_GenerateURLHash()].irFailCount++;
                         dicFailedUrls[srBaseUrl.func_GenerateURLHash()].dtPause = DateTime.Now;
@@ -169,6 +169,24 @@ namespace week_11_web_crawler
                         srNewAbsLink = HTTPDownloader.ReturnAbsUrl(srBaseUrl, srNewAbsLink, "toros.edu.tr");
                         if (srNewAbsLink == null)
                             continue;
+
+                        bool blByPass = false;
+
+                        foreach (var item in HTTPDownloader.lstIgnore)
+                        {
+                            if (srNewAbsLink.ToLowerInvariant().EndsWith(item))
+                            {
+                                blByPass = true;
+                                break;
+                            }
+                        }
+                        //equals to above foreach
+                        if (HTTPDownloader.lstIgnore.Where(pr => srNewAbsLink.EndsWith(pr) == true).ToList().Count > 0)
+                            continue;
+
+                        if (blByPass == true)
+                            continue;
+                        
                         lstDiscoveredLinks.Add(srNewAbsLink);
                         hsDiscoveredLinks.Add(srNewAbsLink);
                         Debug.WriteLine(srNewAbsLink);

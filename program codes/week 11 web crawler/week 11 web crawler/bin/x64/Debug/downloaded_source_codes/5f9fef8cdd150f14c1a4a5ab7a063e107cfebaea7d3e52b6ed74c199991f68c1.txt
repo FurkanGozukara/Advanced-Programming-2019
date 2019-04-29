@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Web Panel</title>
+<meta name="keywords" content="Toros Üniversitesi Web Yönetim Paneli" />
+<meta name="description" content="Toros Üniversitesi Web Yönetim Paneli">
+<meta name="author" content="Toros Üniversitesi">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/admin/bootstrap/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+<link rel="stylesheet" href="/admin/dist/css/AdminLTE.min.css">
+</head>
+<body>
+<div class="login-box">
+<div class="login-logo">
+<a href="/"><b>TOROS</b> WEB PANEL</a>
+</div>
+<div class="login-box-body">
+<form method="post" action="/oturum-ac">
+<input type="hidden" name="_token" value="IN35aQb07uQMwF0HvDyxQ3n72PjmqffG93kwjr3k">
+<div class="form-group has-feedback">
+<input type="email" name="email" id="email" placeholder="Email" class="form-control" required>
+<span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+</div>
+<div class="form-group has-feedback">
+<input type="password" name="password" id="password" placeholder="Password" class="form-control" required>
+<span class="glyphicon glyphicon-lock form-control-feedback"></span>
+</div>
+<div class="form-group">
+<div>
+<button id="login" class="btn btn-primary btn-block" type="submit">Giriş</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="4337802924b1ae0b251be35a-text/javascript"></script>
+
+<script src="/admin/bootstrap/js/bootstrap.min.js" type="4337802924b1ae0b251be35a-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="4337802924b1ae0b251be35a-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,398 @@
+<!DOCTYPE HTML>
+<html lang="tr">
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="8nEnw4tP2D3QcHIV2t0qSwFDL11Csalv2G85oAzl" />
+<meta name="author" content="MESUT AKSAK , GİZEN MUTLU, TOROS YAZILIM BİRİMİ ">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+        .dataTables_filter > div, label, input, select, textarea, button{
+            display: inline;
+        }
+        .dataTables_filter label> input {
+            border: 1px solid !important;
+        }
+        .detay-tablo td { text-align: center;}
+        .detay-link { cursor: pointer; text-decoration: underline; color: blue; }
+        .detay-link:hover { background-color: green; color: whitesmoke; }
+
+
+        .yil-link { cursor: pointer; text-decoration: underline; color: blue;}
+        .yil-link:hover { background-color: lightblue; color: black; }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="33b9efe4f9fce9f82a5a68e5-text/javascript"></script>
+<script type="33b9efe4f9fce9f82a5a68e5-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="33b9efe4f9fce9f82a5a68e5-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+<a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#c4adaaa2ab84b0abb6abb7eaa1a0b1eab0b6" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="90f9fef6ffd0e4ffe2ffe3bef5f4e5bee4e2">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="https://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="https://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class=" clear-fix">
+<div class="col-md-8 col-md-offset-2">
+<div class="row">
+<div class="col-md-6">
+<div class="table-responsive">
+<table class="table table-bordered">
+<thead>
+<tr class="info">
+<th scope="col" style="font-weight: bold">Ünvan</th>
+<th scope="col" style="font-weight: bold">Adet</th>
+<th scope="col" style="font-weight: bold">Oran</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arş. Gör.</td>
+<td>7</td>
+<td>11 %</td>
+</tr>
+<tr>
+<td>Doç. Dr.</td>
+<td>6</td>
+<td>10 %</td>
+</tr>
+<tr>
+<td>Dr. Öğr. Üyesi</td>
+<td>21</td>
+<td>34 %</td>
+</tr>
+<tr>
+<td>Öğr. Gör.</td>
+<td>15</td>
+<td>24 %</td>
+</tr>
+<tr>
+<td>Prof. Dr.</td>
+<td>13</td>
+<td>21 %</td>
+</tr>
+<tr>
+<td class="active" style="font-weight: bold">TOPLAM</td>
+<td class="active" style="font-weight: bold">62</td>
+<td class="active" style="font-weight: bold">100%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div id="chart_div">
+</div>
+
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="table-responsive">
+<table class="table table-bordered">
+<thead>
+<tr class="info">
+<th scope="col" style="font-weight: bold">Fakütle / MYO</th>
+<th scope="col" style="font-weight: bold">Adet</th>
+<th scope="col" style="font-weight: bold">Oran</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ</td>
+<td>23</td>
+<td>8 %</td>
+</tr>
+<tr>
+<td>İKTİSADİ İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</td>
+<td>93</td>
+<td>33 %</td>
+</tr>
+<tr>
+<td>MESLEK YÜKSEKOKULU</td>
+<td>38</td>
+<td>13 %</td>
+</tr>
+<tr>
+<td>MÜHENDİSLİK FAKÜLTESİ</td>
+<td>59</td>
+<td>21 %</td>
+</tr>
+<tr>
+<td>SAĞLIK BİLİMLERİ YÜKSEKOKULU</td>
+<td>72</td>
+<td>25 %</td>
+</tr>
+<tr>
+<td class="active" style="font-weight: bold">TOPLAM</td>
+<td class="active" style="font-weight: bold">285</td>
+<td class="active" style="font-weight: bold">100%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div id="chart_fak">
+</div>
+
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="table-responsive">
+<table class="table table-bordered detay-tablo">
+<thead>
+<tr class="success">
+<th scope="col" style="font-weight: bold">Yıl</th>
+<th scope="col" style="font-weight: bold">ISI Dergilerinde Makale</th>
+<th scope="col" style="font-weight: bold">Uluslararası Dergilerde Makale</th>
+<th scope="col" style="font-weight: bold">Uluslararası Bildiri</th>
+<th scope="col" style="font-weight: bold">Kitap veya Kitapta Bölüm</th>
+<th scope="col" style="font-weight: bold">Ulusal Makale</th>
+<th scope="col" style="font-weight: bold">Ulusal Bildiri</th>
+<th scope="col" style="font-weight: bold">Diğer Yayınlar	</th>
+<th scope="col" style="font-weight: bold">TOPLAM	</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="yil-link" onclick="if (!window.__cfRLUnblockHandlers) return false; yilGoster(2015)" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2015</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('1','2015')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('6','2015')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td class="yil-link" onclick="if (!window.__cfRLUnblockHandlers) return false; yilGoster(2016)" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2016</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('1','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">20</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('2','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">4</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('3','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">5</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('4','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">3</td>
+
+<style>
+                                            .td:hover{ background-color: green; color: whitesmoke; }
+                                        </style>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('5','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">5</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('6','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('7','2016')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">7</td>
+<td>46</td>
+</tr>
+<tr>
+<td class="yil-link" onclick="if (!window.__cfRLUnblockHandlers) return false; yilGoster(2017)" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2017</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('1','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">24</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('2','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">6</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('3','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">7</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('4','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">5</td>
+<style>
+                                            .td:hover{ background-color: green; color: whitesmoke; }
+                                        </style>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('5','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">9</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('6','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">4</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('7','2017')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">8</td>
+<td>63</td>
+</tr>
+<tr>
+<td class="yil-link" onclick="if (!window.__cfRLUnblockHandlers) return false; yilGoster(2018)" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2018</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('1','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">21</td>
+
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('2','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">6</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('3','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">30</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('4','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">32</td>
+<style>
+                                            .td:hover{ background-color: green; color: whitesmoke; }
+                                        </style>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('5','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">25</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('6','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">22</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('7','2018')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">7</td>
+<td>143</td>
+</tr>
+<tr>
+ <td class="yil-link" onclick="if (!window.__cfRLUnblockHandlers) return false; yilGoster(2019)" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">2019</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('1','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">1</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('2','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">17</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('3','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">7</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('4','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">1</td>
+<td>0</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('6','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">3</td>
+<td class="detay-link" onclick="if (!window.__cfRLUnblockHandlers) return false; detayGoster('7','2019')" data-cf-modified-33b9efe4f9fce9f82a5a68e5-="">1</td>
+<td>30</td>
+</tr>
+<tr>
+ <td class="active" style="font-weight: bold">TOPLAM</td>
+<td class="active" style="font-weight: bold">67</td>
+<td class="active" style="font-weight: bold">33</td>
+<td class="active" style="font-weight: bold">49</td>
+<td class="active" style="font-weight: bold">41</td>
+<td class="active" style="font-weight: bold">39</td>
+<td class="active" style="font-weight: bold">33</td>
+<td class="active" style="font-weight: bold">23</td>
+<td class="active" style="font-weight: bold">285</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="alert alert-danger">
+<strong>
+<p> <a style="text-underline: blue" href="/abis/yayin-bildir"> Yayın Eklemek İsteyen Hocalarımız, Burayı Tıklayıp Formu Doldurarak Yayınlarını Ekleyebilirler. Form Onaylandıktan Sonra
+Sayfamızda Yayınlanacaktır.</a>
+</p>
+</strong>
+</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="33b9efe4f9fce9f82a5a68e5-text/javascript" src="/front/js/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous" type="33b9efe4f9fce9f82a5a68e5-text/javascript"></script>
+<script type="33b9efe4f9fce9f82a5a68e5-text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="33b9efe4f9fce9f82a5a68e5-text/javascript">
+
+    var chart_hocalar = [["Ar\u015f. G\u00f6r.",7],["Do\u00e7. Dr.",6],["Dr. \u00d6\u011fr. \u00dcyesi",21],["\u00d6\u011fr. G\u00f6r.",15],["Prof. Dr.",13]];
+
+    // Load the Visualization API and the corechart package.
+    google.charts.load('current', {'packages':['corechart']});
+
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(drawChart);
+    google.charts.setOnLoadCallback(drawChartFak);
+
+    function detayGoster(top, yil) {
+        var url = '/abis/detay/' + top + '/' + yil;
+        window.location = url;
+    }
+
+    function yilGoster(yil) {
+        var url = '/abis/yil/' + yil;
+        window.location = url;
+    }
+
+    // Callback that creates and populates a data table,
+    // instantiates the pie chart, passes in the data and
+    // draws it.
+    function drawChart() {
+
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows(chart_hocalar);
+
+        // Set chart options
+        var options = {'title':'Öğretim Elemanı Dağılımı',
+            is3D: true,
+            'width':500,
+            'height':400};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+    }    // Callback that creates and populates a data table,
+    // instantiates the pie chart, passes in the data and
+    // draws it.
+    function drawChartFak() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows([
+            ['GSF', 8],['İİBF', 33],['MYO', 13],['MUH.FAK.', 21],['SBMYO', 25],        ]);
+
+        // Set chart options
+        var options = {'title':'Yayınların Fakülte Dağılımı',
+            is3D: true,
+            'width':500,
+            'height':400};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_fak'));
+        chart.draw(data, options);
+    }
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="33b9efe4f9fce9f82a5a68e5-|49" defer=""></script></body>
+</html>

@@ -98,5 +98,7 @@ namespace week_11_web_crawler
         {
             return Cryptology.ComputeSha256HashFromString(srUrl);
         }
+
+        public static List<string> lstIgnore = new List<string> { ".png", ".jpg", ".jpeg", ".pdf", ".doc", ".docx" };
     }
 }

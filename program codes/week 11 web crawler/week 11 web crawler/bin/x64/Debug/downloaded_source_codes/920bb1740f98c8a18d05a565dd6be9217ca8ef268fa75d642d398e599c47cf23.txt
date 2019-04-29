@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Toros Üniversitesi Mezunlar Derneği</title>
+<link rel="shortcut icon" href="/img/favicon.png" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="/arena/css/swiper.min.css">
+<link rel="stylesheet" href="/arena/css/ion.tabs.css">
+<link rel="stylesheet" href="/arena/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="/arena/css/font-awesome.min.css">
+<link rel="stylesheet" href="/arena/css/elegant-icons.css">
+<link rel="stylesheet" href="/arena/css/stroke-gap-icons.css">
+
+<link rel="stylesheet" href="/arena/style-B.css">
+<script type="acefbd1203462d3b8971448c-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-101011072-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+
+<div class="page-preloader-wrapper">
+<div class="page-preloader"><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span></div>
+</div>
+
+
+<header class="page-header">
+
+<div class="logo page-header__logo"><a class="logo__link" href="/"><img src="/img/logo.png" style="height: 75px;width: auto"></a></div>
+
+
+<nav class="page-header__navigation">
+
+<ul class="list-top-menu">
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/">Tanıtım</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/yonetim">Yönetim Kurulu</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/tuzuk">Tüzük</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/register">Yeni Üye</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/iletisim">İletişim</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/login">Üye Girişi</a></li>
+</ul>
+
+
+<ul class="list-side-nav">
+<li class="list-side-nav__item"><a class="list-side-nav__burger" id="js-mobile-menu-button" href="#"></a></li>
+</ul>
+
+</nav>
+
+</header>
+
+
+<section class="page-section page-section_intro-inner _background-image-1 _overlay-black js-jarallax_type_1">
+</section>
+
+
+<section class="page-section page-section_team _background-color-light">
+<header class="page-section__header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="page-section__heading">Yönetim Kurulu</h2>
+</div>
+</div>
+</div>
+</header>
+<div class="page-section__content">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1">
+<div class="table-responsive">
+<table class="table table-hover" style="font-size: large">
+<tr>
+<td>Orhan KARAKAPLAN</td>
+<td>BAŞKAN</td>
+</tr>
+<tr>
+<td>İbrahim Özgür KUTLAY</td>
+<td>BAŞKAN YARDIMCISI</td>
+</tr>
+<tr>
+<td>Ergin ÇABUK</td>
+<td>SAYMAN</td>
+</tr>
+<tr>
+<td>Hayri Can BARÇIN</td>
+<td>SEKRETER</td>
+</tr>
+<tr>
+<td>Ozan KAPLAN</td>
+<td>ÜYE</td>
+</tr>
+<tr>
+<td>Berkcan GÜCER</td>
+<td>ÜYE</td>
+</tr>
+<tr>
+<td>Kemal AKGÜL</td>
+ <td>ÜYE</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+<footer class="page-footer">
+<a class="button-to-top" id="js-button-to-top" href="#"></a>
+
+
+<div class="page-footer__content">
+
+</div>
+
+
+<div class="page-footer__copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><small class="copyright-text">©2019 Toros Üniversitesi Mezunlar Derneği<span></span> Tüm Hakları Saklıdır</small></div>
+</div>
+</div>
+</div>
+
+</footer>
+
+
+<script src="/arena/js/modernizr.custom.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/imagesloaded.pkgd.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.waypoints.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.counterup.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.easing.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.easeScroll.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/swiper.jquery.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/masonry.pkgd.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/isotope.pkgd.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jarallax.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/jquery.equalheights.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/ion.tabs.min.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/maplace.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3gFKhVywUkygSxQEBdGVrI5-ZRrdjueA" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="/arena/js/common.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+
+<script src="/arena/js/scripts-B.js" type="acefbd1203462d3b8971448c-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="acefbd1203462d3b8971448c-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Nil AŞKIN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="MESUT AKSAK">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Profil" />
+<link rel="shortcut icon" href="">
+<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link rel="stylesheet" href="/personal/css/bootstrap.css">
+<link rel="stylesheet" href="/personal/css/font-awesome.min.css">
+<link rel="stylesheet" href="/personal/css/perfect-scrollbar-0.4.5.min.css">
+<link rel="stylesheet" href="/personal/css/magnific-popup.css">
+<link rel="stylesheet" href="/personal/css/style.css">
+<link id="theme-style" rel="stylesheet" href="/personal/css/styles/1.css">
+
+
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery-1.10.2.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/TweenMax.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery.touchSwipe.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/modernizr.custom.63321.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery.dropdownit.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery.stellar.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/ScrollToPlugin.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/bootstrap.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/jquery.mixitup.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/masonry.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/magnific-popup.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+<a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+<div id="sidebar">
+<div id="main-nav">
+<div id="nav-container">
+<div id="profile" class="clearfix">
+<img class="portrate hidden-xs" src="/dosyalar/1/images/je-0OPHg.jpeg">
+<div class="title">
+<h2>Nil AŞKIN</h2>
+</div>
+</div>
+<ul id="navigation">
+<li>
+<a href="#biography">
+<div class="icon icon-user"></div>
+<div class="text">Özgeçmiş</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+
+<div id="biography" class="page home" data-pos="home">
+<div class="pageheader">
+<div class="headercontent">
+<div class="section-container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h3 class="title">Özgeçmiş</h3>
+<p>Toros Üniversitesi Mütevelli Heyetindeki görevine 12.08.2010 tarihinde başlayan Nil Aşkın; 1974 Mersin doğumludur. İlk, orta ve lise öğrenimini Toros Koleji’nde tamamladıktan sonra Atatürk Üniversitesi Kazım Karabekir E.F. İngilizce Öğretmenliği bölümünden 1997 yılında mezun olmuştur. Özel Toros Okulları bünyesinde çeşitli kademelerde yöneticilik yapmıştır. 2006 yılından Tarsus Toros Okulları Müdürlüğü görevini yürütmüştür. Halen Toros Okulları Genel Müdürü olarak görev yapmaktadır. Milli Eğitim Bakanlığı’ndan Teşekkür ve Takdir belgesi sahibidir. Westminster Üniversitesi’nden Teacher Training sertifikası bulunmaktadır. Tarsus Ticaret Odası üyesidir. İyi derecede İngilizce ve orta derecede Almanca bilmektedir. İşletme Ekonomisi alanında Yüksek Lisans derecesine sahiptir. İşletme ana bilim dalında Doktora programına devam etmektedir Evli ve iki çocuk annesidir.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay"></div>
+</div>
+</div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="1f4d8d33532fd9f8415bb083-|49" defer=""></script></body>
+<script type="1f4d8d33532fd9f8415bb083-text/javascript" src="/personal/js/custom.js"></script>
+</html>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<title>Toros Mezun Bilgi Sistemi</title>
+<meta content="Hayri Can BARÇIN" name="author" />
+<meta content="Toros Üniversitesi Mezun Bilgi Sistemi" name="description" />
+<meta content="Toros Üniversitesi , MBS , Mezun Bilgi Sistemi" name="keywords" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="csrf-token" content="I4HZ3x1HRBsgoHepHHaMbPhcVhHwIZAf4oE1CltE" />
+<link rel="stylesheet" href="/futurico/assets/css/master.css" />
+<link rel="icon" type="image/x-icon" href="/futurico/logo.png" />
+<script type="a9677c315726bf7000718170-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-101009668-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+<style>
+        header .b-logo a{
+            font-size: xx-large;
+        }
+        .b-logo {
+            text-align: center;
+        }
+        .b-myservices{
+            margin-top: 100px;
+        }
+        .heading-text{
+            font-weight: 400;
+        }
+
+        .buton{
+            background-color: #337ab7;
+            color: #ffffff;
+            border-color: #2e6da4;
+        }
+    </style>
+</head>
+<body>
+<div class="b-page-wrap">
+
+<div id="page-preloader"><div class="loader-wrap"><span class="loader02"></span></div></div>
+
+<header class="header-transparent wow slideInDown">
+<div class="container">
+<div class="row">
+<div class="b-logo">
+<a href="/" style="margin-right: 80px; margin-left: 5px;">
+<span class="logo-title" style="margin-left: 250px;">Toros Üniversitesi Mezun Bilgi Sistemi</span>
+</a>
+<button class="animated infinite pulse btn btn-primary" style="background-color: #ff9701;width: 320px; text-align: center" id="button">
+<a style="color: white;" href="/register" rel="external"> MEZUN YENİ KAYIT</a>
+</button>
+</div>
+</div>
+</div>
+</header>
+<div class="b-page-content with-layer-bg">
+
+
+
+<div class="b-layer">
+<div class="layer-bg">
+<div class="layer-content">
+<div class="container wow slideInUp">
+<div class="row">
+<div class="col-xs-12 col-sm-12">
+<div class="heading-text" style="color: #333">
+<p>Üniversitemiz ve Mezunlarımız arasındaki ilişkiyi koparmadan , Toros Üniversitesi bünyesindeki etkinlik ve projeleri mezunlarımıza ulaştırmak ve geri dönüşüm mekanizmaları geliştirmek amacı ile kurulan <strong>Toros Üniversitesi Mezun Bilgi Sistemi</strong>, etkileşimli bir elektronik veritabanı olmasının yanında, <strong>Toros Üniversitesi Mezunlar Derneği (TORMED)</strong> sistemi ile <u>ortak çalışan</u> ve <strong>Toros Üniversitesi Sanayi-Sektör İşbirliği Merkezi</strong> <strong>(TORSİM)</strong> ile <u>paralel olarak</u> çalışacak bir sistemdir.
+</p>
+<br>
+<p> Toros Üniversitesi Mezunları ile ilgili güncel ve sağlıklı bilgilerin alınması,  işlenmesi ve bu bilgilerin sınıflandırılması sonucunda elde edilen  bilgiler ile çok çeşitli arama ve sorgulama düzenleri içerisinde dinamik  sayfalar oluşturulacaktır. Mezunlarımızın bu hizmetlerden yararlanabilmesi için kişisel bilgilerini  güncellemeleri ve sistem yöneticisi tarafından kişisel bilgilerinin  onaylanması gerekmektedir. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="b-layer-main">
+<div class="page-arrow">
+<i class="fa fa-angle-down" aria-hidden="true"></i>
+</div>
+<div class="b-about">
+
+<div class="b-myservices wow fadeInUp">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12">
+
+<div class="b-pager-slideshow-holder-mod">
+<ul class="pager-slideshow bxslider-pager">
+<li>
+<div class="pager-item">
+<div class="pager-item-title">
+Kayıt Ol
+</div>
+<div class="pager-item-description">
+Mezun Bilgi Sistemine E-mail adresinizle kolay bir şekilde kayıt olun
+<br>
+Giriş bilgileriniz kayıt işlemi ardından otomatik olarak bilgilerinizi gireceğiniz
+<br>
+alana yönlendirileceksiniz
+<br>
+Giriş bilgileriniz mail adresinize gönderilecektir.
+</div>
+<a href="/register" class="btn btn-primary buton">Kayıt</a>
+</div>
+</li>
+<li>
+<div class="pager-item">
+<div class="pager-item-title">
+Mezun Bilgileri
+</div>
+<div class="pager-item-description">
+Bu alanda istenilen Temel Bilgilerinizi doğru ve eksiksiz olarak giriniz.
+<br>
+Bilgilerinizi olabildiğince güncel tutmaya çalışınız.
+</div>
+<a href="/login" class="btn btn-primary buton">Giriş</a>
+</div>
+</li>
+<li>
+<div class="pager-item">
+<div class="pager-item-title">
+TORMED
+</div>
+<div class="pager-item-description">
+Mezun Bilgileri bölümünde isterseniz Toros Üniversitesi Mezunlar Sistemi'ne
+<br>
+direkt olarak bilgilerinizle başvuru yapabilirsiniz.
+<br>
+TORMED ile ilgili bilgilendirmeleri aşağıdaki adresten takip edebilirsiniz.
+<br>
+</div>
+<a href="https://tormed.toros.edu.tr" class="btn btn-primary buton" target="_blank">TORMED</a>
+</div>
+</li>
+</ul>
+<div class="custom-slideshow-controls hidden-sm">
+<span id="pager-slideshow-prev"></span>
+<span id="pager-slideshow-next"></span>
+</div>
+</div>
+
+<div class="bx-pager custom-pager-mod">
+<a data-slide-index="0" href="#">
+<span class="pager-icon">
+<i class="fa fa-envelope "></i>
+</span>
+<span class="circle">
+<span class="inner-circle"></span>
+</span>
+<span class="pager-title">
+Kayıt
+</span>
+</a>
+<a data-slide-index="1" href="#">
+<span class="pager-icon">
+<i class="fa fa-floppy-o"></i>
+</span>
+<span class="circle">
+<span class="inner-circle"></span>
+</span>
+<span class="pager-title">
+Mezun Bilgileri
+</span>
+</a>
+<a data-slide-index="2" href="#">
+<span class="pager-icon">
+<i class="fa fa-graduation-cap"></i>
+</span>
+<span class="circle">
+<span class="inner-circle"></span>
+</span>
+<span class="pager-title">
+TORMED
+</span>
+</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="b-footer-content">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-4 col-md-offset-4">
+<p class="copy text-center">
+© 2017 Toros Üniversitesi Mezun Bilgi Sistemi
+</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="/futurico/assets/libs/jquery-1.12.4.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/libs/jquery-migrate-1.2.1.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/libs/bootstrap/bootstrap.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/slabText/js/jquery.slabtext.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+
+<script src="/futurico/assets/plugins/owl-carousel/owl.carousel.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/slick/slick.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/slyslider/sly.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/bxslider/vendor/jquery.easing.1.3.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/plugins/bxslider/vendor/jquery.fitvids.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/plugins/bxslider/jquery.bxslider.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/magnific-popup/jquery.magnific-popup.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/headers/slidebar.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/plugins/headers/header.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/isotope/isotope.pkgd.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/plugins/isotope/imagesLoaded.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="/futurico/assets/plugins/rendro-easy-pie-chart/waypoints.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/wow.min.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/plugins/pickmeup/pickmeup.js" type="a9677c315726bf7000718170-text/javascript"></script>
+
+<script src="/futurico/assets/js/custom.js" type="a9677c315726bf7000718170-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="a9677c315726bf7000718170-|49" defer=""></script></body>
+</html>

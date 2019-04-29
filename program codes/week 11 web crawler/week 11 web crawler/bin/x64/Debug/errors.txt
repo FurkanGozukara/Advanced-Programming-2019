@@ -1,0 +1,400 @@
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/copyright-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_copyright_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/copyright-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_copyright_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/copyright-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_copyright_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/cookie-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_cookie_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/cookie-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_cookie_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/cookie-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_cookie_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/privacy-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_privacy_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/privacy-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_privacy_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/privacy-policy?trk=d_checkpoint_lg_consumerLogin_oauth_ft_privacy_policy
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/user-agreement?trk=d_checkpoint_lg_consumerLogin_oauth_ft_user_agreement
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/user-agreement?trk=d_checkpoint_lg_consumerLogin_oauth_ft_user_agreement
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/legal/user-agreement?trk=d_checkpoint_lg_consumerLogin_oauth_ft_user_agreement
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/start/join?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D&source=oauth
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/start/join?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D&source=oauth
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/start/join?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D&source=oauth
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/checkpoint/rp/request-password-reset?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/checkpoint/rp/request-password-reset?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/checkpoint/rp/request-password-reset?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D36680576%26auth_type%3DAC%26flow%3D%257B%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522externalBindingKey%2522%253Anull%252C%2522loginHint%2522%253Anull%252C%2522codeChallenge%2522%253Anull%252C%2522codeChallengeMethod%2522%253Anull%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftorsim.toros.edu.tr%252Flogin%252Flinkedin%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522flowHint%2522%253Anull%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522appId%2522%253A36680576%252C%2522creationTime%2522%253A1556539587008%252C%2522state%2522%253A%2522k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP%2522%252C%2522scope%2522%253A%2522r_basicprofile%2Br_emailaddress%2522%257D
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/oauth/v2/login-cancel?app_id=36680576&auth_type=AC&flow={"authorizationType":"OAUTH2_AUTHORIZATION_CODE"%2C"externalBindingKey":null%2C"loginHint":null%2C"codeChallenge":null%2C"codeChallengeMethod":null%2C"redirectUri":"https:%2F%2Ftorsim.toros.edu.tr%2Flogin%2Flinkedin%2Fcallback"%2C"currentStage":"LOGIN_SUCCESS"%2C"currentSubStage":0%2C"flowHint":null%2C"authFlowName":"generic-permission-list"%2C"appId":36680576%2C"creationTime":1556539587008%2C"state":"k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP"%2C"scope":"r_basicprofile+r_emailaddress"}
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/oauth/v2/login-cancel?app_id=36680576&auth_type=AC&flow={"authorizationType":"OAUTH2_AUTHORIZATION_CODE"%2C"externalBindingKey":null%2C"loginHint":null%2C"codeChallenge":null%2C"codeChallengeMethod":null%2C"redirectUri":"https:%2F%2Ftorsim.toros.edu.tr%2Flogin%2Flinkedin%2Fcallback"%2C"currentStage":"LOGIN_SUCCESS"%2C"currentSubStage":0%2C"flowHint":null%2C"authFlowName":"generic-permission-list"%2C"appId":36680576%2C"creationTime":1556539587008%2C"state":"k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP"%2C"scope":"r_basicprofile+r_emailaddress"}
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://torsim.toros.edu.tr/oauth/v2/login-cancel?app_id=36680576&auth_type=AC&flow={"authorizationType":"OAUTH2_AUTHORIZATION_CODE"%2C"externalBindingKey":null%2C"loginHint":null%2C"codeChallenge":null%2C"codeChallengeMethod":null%2C"redirectUri":"https:%2F%2Ftorsim.toros.edu.tr%2Flogin%2Flinkedin%2Fcallback"%2C"currentStage":"LOGIN_SUCCESS"%2C"currentSubStage":0%2C"flowHint":null%2C"authFlowName":"generic-permission-list"%2C"appId":36680576%2C"creationTime":1556539587008%2C"state":"k5MZFRqXyJGv5pXekBbfuK1Y8WOs7h6c2UuepQhP"%2C"scope":"r_basicprofile+r_emailaddress"}
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/HGSAr5h6tgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/HGSAr5h6tgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+https://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/HGSAr5h6tgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://erasmus.toros.edu.tr/
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/sta9SLJXZ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/DaUbhS11XoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/fDs0pUupeAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypeFiYjmiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/dZybWqhOdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/haber-oku/<iframe width="560" height="315" src="https://www.youtube.com/embed/cLD68mso6OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/ru3PXS1lKNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdGBPgZkVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/2w6-dRejKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+
+http://www.toros.edu.tr/icerik/<iframe width="560" height="315" src="https://www.youtube.com/embed/HGSAr5h6tgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   at System.Net.HttpWebRequest.GetResponse()
+   at week_11_web_crawler.HTTPDownloader.FuncCrawlGivenURL(String srCrawlURL) in C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\HTTPDownloader.cs:line 30
+
+

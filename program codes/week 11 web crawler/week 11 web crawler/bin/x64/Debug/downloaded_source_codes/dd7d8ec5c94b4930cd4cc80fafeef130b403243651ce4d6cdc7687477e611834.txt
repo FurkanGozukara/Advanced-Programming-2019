@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<html lang="tr">
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="8nEnw4tP2D3QcHIV2t0qSwFDL11Csalv2G85oAzl" />
+<meta name="author" content="GİZEN MUTLU">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+        .dataTables_filter > div, label, input, select, textarea, button{
+            display: inline;
+        }
+        .dataTables_filter label> input {
+            border: 1px solid !important;
+        }
+        .detay-tablo td { text-align: center;}
+        .detay-link { cursor: pointer; text-decoration: underline; color: blue; }
+        .detay-link:hover { background-color: green; color: whitesmoke; }
+
+
+        .yil-link { cursor: pointer; text-decoration: underline; color: blue;}
+        .yil-link:hover { background-color: lightblue; color: black; }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="3bc212fa50addfd9466777c6-text/javascript"></script>
+<script type="3bc212fa50addfd9466777c6-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="3bc212fa50addfd9466777c6-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+<a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#dbb2b5bdb49bafb4a9b4a8f5bebfaef5afa9" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="51383f373e11253e233e227f3435247f2523">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="https://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="https://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class=" clear-fix">
+<div class="col-md-10 col-md-offset-1">
+<div class="row">
+<div id="dilek-sikayet-container" class="col-md-12">
+<form class="form-horizontal" role="form" id="dilek-sikayet-form" method="post" action="/dilek-sikayet-formu">
+<input type="hidden" name="_token" value="">
+TOROS ÜNİVERSİTESİ DİLEK VE ŞİKAYET FORMU
+<hr />
+<p>
+<strong>(*) Zorunlu alanlar.</strong>
+</p>
+<div class="form-group">
+<label for="secim1" class="col-md-4 control-label">* Tür</label>
+<div class="col-sm-8">
+<select id="secim1" name="secim1" class="form-control selectpicker" required>
+<option value="" label="Seçiniz">Seçiniz</option>
+<option value="dilekoneri"> Dilek ve Öneri </option>
+<option value="sikayet">Şikayet</option>
+</select>
+</div>
+</div>
+<div class="form-group">
+<label for="ad" class="col-sm-4 control-label">Ad</label>
+<div class="col-sm-8">
+<input type="text" class="form-control" id="ad" name="ad" />
+</div>
+</div>
+<div class="form-group">
+<label for="soyad" class="col-sm-4 control-label">Soyad</label>
+<div class="col-sm-8">
+<input type="text" class="form-control" id="soyad" name="soyad" />
+</div>
+</div>
+<div class="form-group">
+<label for="" class="col-sm-4 control-label">Telefon Numarası</label>
+<div class="col-sm-8">
+<div class="input-group">
+<div class="input-group-addon"> + </div>
+<input type="text" class="form-control phone" id="tel" name="tel" placeholder="">
+</div>
+</div>
+</div>
+<div class="form-group">
+<label for="email" class="col-sm-4 control-label">E-Mail</label>
+<div class="col-sm-8">
+<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+</div>
+</div>
+<div class="form-group">
+<label for="mesaj" class="col-sm-4 control-label">* Mesaj</label>
+<div class="col-sm-8">
+<textarea class="form-control" id="mesaj" name="mesaj" placeholder="Mesaj" required="required"></textarea>
+</div>
+</div>
+<div class="form-group">
+<div class=" col-sm-5">
+<button id="btn-gonder" type="submit" class="btn btn-default" data-submit="...Gönderiliyor">GÖNDER</button>
+</div>
+</div>
+<div id="output"></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="3bc212fa50addfd9466777c6-text/javascript" src="/front/js/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous" type="3bc212fa50addfd9466777c6-text/javascript"></script>
+<script type="3bc212fa50addfd9466777c6-text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="3bc212fa50addfd9466777c6-text/javascript">
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function() {
+        'use strict';
+        window.addEventListener('load', function() {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function(form) {
+                form.addEventListener('submit', function(event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="3bc212fa50addfd9466777c6-|49" defer=""></script></body>
+</html>

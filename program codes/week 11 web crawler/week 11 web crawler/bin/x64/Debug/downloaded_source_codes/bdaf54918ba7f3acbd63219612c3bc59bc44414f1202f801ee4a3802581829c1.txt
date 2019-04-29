@@ -1,0 +1,312 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="YWJ1hXkmXkE58oBfKHx0RqmLYxgFICdOEWbi0xRi" />
+<meta name="author" content="MESUT AKSAK , GİZEN MUTLU TOROS YAZILIM BİRİMİ ">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/admin/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/admin/bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="/admin/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="bcc8ccb971a1b34f874adc39-text/javascript"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="bcc8ccb971a1b34f874adc39-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+<style>
+        .ickutu img{
+            width: 100%!important;
+
+        }
+    </style>
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+<a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#670e09010827130815081449020312491315" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="caa3a4aca58abea5b8a5b9e4afaebfe4beb8">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="http://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="http://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+<ul class="clear-fix">
+<li><a>TOROS HAKKINDA</a><ul> <li><a href="/icerik/toros-hakkinda-yonetim">YÖNETİM</a></li><li><a href="/icerik/toros-hakkinda-kurucu-vakif">KURUCU VAKIF</a></li><li><a href="/icerik/toros-hakkinda-mutevelli-heyeti">MÜTEVELLİ HEYETİ</a></li><li><a href="/icerik/rektorluk">REKTÖRLÜK</a></li><li><a href="/icerik/toros-hakkinda-misyon-vizyon-ve-temel-degerler">MİSYON, VİZYON VE TEMEL DEĞERLER</a></li><li><a href="/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">TOROS OKULLARI VE TOROS TOPLULUĞU</a></li></ul></li>
+<li class="megamenu">
+<a>AKADEMİK</a>
+<ul class="clear-fix">
+<li><div class="header-megamenu">FAKÜLTELER</div>
+<ul>
+<li><a href="/anasayfa/guzel-sanatlar-fakultesi">GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</a></li><li><a href="/anasayfa/iktisadi-idari-ve-sosyal-bilimler-fakultesi">İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</a></li><li><a href="/anasayfa/muhendislik-fakultesi">MÜHENDİSLİK FAKÜLTESİ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">YÜKSEKOKULLAR</div>
+<ul>
+<li><a href="/anasayfa/meslek-yuksekokulu">MESLEK YÜKSEKOKULU</a></li><li><a href="/anasayfa/saglik-bilimleri-yuksekokulu">SAĞLIK BİLİMLERİ YÜKSEKOKULU</a></li><li><a href="/anasayfa/yabanci-diller-yuksekokulu">YABANCI DİLLER YÜKSEKOKULU</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">ENSTİTÜLER</div>
+<ul>
+<li><a href="/anasayfa/fen-bilimleri-enstitusu">FEN BİLİMLERİ ENSTİTÜSÜ</a></li><li><a href="/anasayfa/sosyal-bilimler-enstitusu">SOSYAL BİLİMLER ENSTİTÜSÜ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">ARAŞTIRMA MERKEZLERİ</div>
+<ul>
+<li><a href="/icerik/alevilik-bektasilik-uygulama-ve-arastirma-merkezi">ALEVİLİK - BEKTAŞİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/kentlesme-ve-yerel-yonetimler-uygulama-ve-arastima-merkezi">KENTLEŞME VE YEREL YÖNETİMLER UYGULAMA VE ARAŞTIMA MERKEZİ </a></li><li><a href="/icerik/surekli-egitim-uygulama-ve-arastirma-merkezi">SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/yenilenebilir-enerji-teknolojileri-egitimi-uygulama-ve-arastirma-merkezi">YENİLENEBİLİR ENERJİ TEKNOLOJİLERİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a>İDARİ BİRİMLER</a>
+<ul>
+<li>
+<a href="/icerik/genel-sekreterlik">GENEL SEKRETERLİK</a>
+</li>
+<li>
+<a href="/icerik/bilgi-islem-daire-baskanligi">BİLGİ İŞLEM DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/idari-ve-mali-isler-daire-baskanligi">İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/insan-kaynaklari-daire-baskanligi">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/kurumsal-iletisim-ve-tanitim-mudurlugu">KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</a>
+</li>
+<li>
+<a href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/ogrenci-isleri-daire-baskanligi">ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</a></li>
+<li>
+<a href="/icerik/saglik-kultur-ve-spor-daire-baskanligi">SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI</a>
+</li> <li><a href="/icerik/bilimsel-arastirma-projeleri-birimi-komisyonu/"> BİLİMSEL ARAŞTIRMA PROJELERİ BİRİMi</a></li>
+</ul>
+</li>
+<li><a>ÖĞRENCİ</a>
+<ul>
+<li><a href="/icerik/ogrenci-ucretler">ÜCRETLER</a></li>
+<li><a href="/icerik/ogrenci-burslar">BURSLAR</a></li>
+<li><a href="/icerik/ogrenci-lisans-on-lisans-akademik-takvim">LİSANS-ÖN LİSANS AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-hazirlik-okulu-akademik-takvim">HAZIRLIK OKULU AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-lisansustu-akademik-takvim">LİSANSÜSTÜ AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a></li>
+<li><a href="/icerik/ogrenci-yonetmelikler">YÖNETMELİKLER</a></li>
+<li><a href="/anasayfa/ogrenci-topluluklari">ÖĞRENCİ TOPLULUKLARI</a></li>
+</ul>
+</li> <li>
+<a href="/khk" rel="external">667 KHK ÖĞRENCİLER</a>
+</li>
+
+<li class="animated infinite pulse" style="background-color: #d9534f;">
+<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-bcc8ccb971a1b34f874adc39-="">ADAY ÖĞRENCİLER</a>
+<li>
+<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-bcc8ccb971a1b34f874adc39-="">İLETİŞİM</a>
+</li>
+
+</ul>
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class="container clear-fix">
+<div class="col-md-offset-1 col-md-10">
+
+<main>
+
+<div class="blog-post">
+<article>
+<h1>TOROS’TA NAZIM HİKMET’TEN ESİNTİLER</h1>
+<div class="ickutu">
+<p><br></p><p>Toros Üniversitesi 4. Bilimsel Kültürel ve Sportif Etkinlikler haftası kapsamında Toros Üniversite Atatürkçü Düşünce Topluluğu tarafından <strong>“Nazım Hikmet'ten Esintiler”</strong> adlı şiir dinletisi düzenlendi.</p><p>25 Nisan 2019 Perşembe günü Toros Üniversitesi 45 Evler Kampüsü Konferans Salonu’nda gerçekleşen şiir dinletisine Rektör Yardımcısı Prof. Dr. Adnan Mazmanoğlu ve KEYAM Müdürü Prof. Dr. Ahmet Özer’in yanı sıra akademisyenler, daire başkanları, idari personel ve öğrenciler katıldı.</p><p>Eğitimci ve şiir aşığı Ali Diyaroğlu'nun Nazım Hikmet şiirlerini seslendirdiği dinletide Diyaroğlu'na bağlamada Serdar Epözdemir eşlik etti. Tahir ile Zühre, mavi gözlü dev, Kerem Gibi, Bu Memleket Bizim gibi şiirlerin seslendirildiği şiir dinletisi izleyenlerden tam not aldı.</p><p>Şiir dinletisinin sonunda Diyaroğlu , Epözdemir ve topluluğun danışman hocası Dilara Tarhan’a Rektör Yardımcısı Prof. Dr. Adnan Mazmanoğlu tarafından ağaç sertifikası takdim edildi.</p><p><img src="https://scontent.fada1-8.fna.fbcdn.net/v/t1.0-9/58377914_2278094182229998_7981975043468951552_o.jpg?_nc_cat=105&_nc_eui2=AeEcAPEZlgMOzYjepFptpTYVY_MK3YlQH7LvHgpBUzAchRE8AEo9wzOfx4xqndbqf6J9MvwN4ipXnlxYcTcPHEvQ9iDqSV8dX5IuPrvvtIyU6w&_nc_ht=scontent.fada1-8.fna&oh=3df8c0c5a13c246d8d5d21f08b734f81&oe=5D3493C4" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 15 kiÅi, oturan insanlar, takÄ±m elbise ve iÃ§ mekan"></p><p><img src="https://scontent.fada1-8.fna.fbcdn.net/v/t1.0-9/58379005_2278094162230000_5415097416791621632_o.jpg?_nc_cat=105&_nc_eui2=AeFoGFhfINB_71Le6IZxKSN72T8A21abn2f5eDPLIStKVoLzplYM4kkic--dm1RBcJ3KEPkvEFr2BPmNZNB76_NPFCvJSPzxBUjkE3KO30m9uw&_nc_ht=scontent.fada1-8.fna&oh=354462febcec1e4477ceccdcf73253f6&oe=5D2C94EE" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 6 kiÅi, oturan insanlar"></p><p><img src="https://scontent.fada1-8.fna.fbcdn.net/v/t1.0-9/58600094_2278094148896668_5324671209701376000_o.jpg?_nc_cat=105&_nc_eui2=AeGg_qeEtN9Z_v8HF6GdtsfKYcu5b54irKo7LfmsV0Qincw9iI1g9F7tcjYvNT3_Z-tfr_41-lefT5KBRLD3t2ibUqSpWKfK-XVwxr6RTZRAqA&_nc_ht=scontent.fada1-8.fna&oh=21c45979991dc8ed2e5503e2846b7e73&oe=5D39D89A" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 1 kiÅi, oturuyor"></p><p><img src="https://scontent.fada1-5.fna.fbcdn.net/v/t1.0-9/58574793_2278094275563322_8438932084562591744_o.jpg?_nc_cat=109&_nc_eui2=AeH8xYhUKNHn8eyydQGE1dkb8kQhBQJvrM9MW0Z6FDS4y5gbvfOMjR66Qsir6LSiMsLoBjIemeuREptOzF-nKYyqE0TLDCtDSj_WHlKezyGQWg&_nc_ht=scontent.fada1-5.fna&oh=5748aa6275e5d583149d0a713789f0a1&oe=5D340DFB" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 2 kiÅi, mÃ¼zik enstrÃ¼manÄ± Ã§alan insanlar, oturan insanlar, ayakta duran insanlar, gitar ve takÄ±m elbise"></p><p><img src="https://scontent.fada1-7.fna.fbcdn.net/v/t1.0-9/58755156_2278094265563323_4984751649466613760_o.jpg?_nc_cat=102&_nc_eui2=AeGD-67iaRQAPVGvV4VAuo7qKecgRTN5mYsxFEjM9L5jf4jO3dbsguVeSNvIAsLlvQCHfzt9QkKg0mv653S0xKc3xIH5lBU9BZ19_KS40SHfiQ&_nc_ht=scontent.fada1-7.fna&oh=76569a3e553e2ccbdff7c0d454046d2b&oe=5D6A06EB" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 2 kiÅi, ayakta duran insanlar"></p><p><img src="https://scontent.fada1-2.fna.fbcdn.net/v/t1.0-9/58444773_2278094302229986_4420180131142696960_o.jpg?_nc_cat=106&_nc_eui2=AeF9R3cMhTrlUPlFm7Yx6cW7RIg7V6ji3Cy4kGrTCQw7e2IOmd5w8B92PEU8ZQm8leuwVcNQO1IFkXdzkYn1ZpJuymitUc3AcsH574ZTuqqbdA&_nc_ht=scontent.fada1-2.fna&oh=7186e629743cc7792ccfd11fb6ff5194&oe=5D37A41E" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 11 kiÅi, oturan insanlar ve takÄ±m elbise"></p><p><img src="https://scontent.fada1-6.fna.fbcdn.net/v/t1.0-9/58377792_2278094478896635_8058723450463715328_o.jpg?_nc_cat=111&_nc_eui2=AeGXOWKcO9wwjvjivTh_nMcw7pJTFCzcwn0Dz6-N96XUQbO6X77OGpsQ5sO306DaeVuRV0cNqVdCBhso6Q3y0U0fYQqQUzIvyeWd6630vAzd5g&_nc_ht=scontent.fada1-6.fna&oh=7d5c73f9d67ac05a0972f600beafa7ce&oe=5D34EC4C" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 8 kiÅi, oturan insanlar, sakal ve iÃ§ mekan"></p><p><img src="https://scontent.fada1-1.fna.fbcdn.net/v/t1.0-9/58870301_2278094538896629_2412944602924318720_o.jpg?_nc_cat=100&_nc_eui2=AeGEX5-yOTg3MLFPXLKQFg4R1_os_8O00Ki8gJmtUEjV2Q0aVLFpL9mzk0whASGCd428lWUeliK9LmfR7pUAFGwVfUuQabemgzWuyufFINDoDw&_nc_ht=scontent.fada1-1.fna&oh=c4191bcaf7a4a8f513dbb79c25935e38&oe=5D716FD1" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: bir veya daha fazla kiÅi, oturan insanlar, mÃ¼zik enstrÃ¼manÄ± Ã§alan insanlar, gitar ve iÃ§ mekan"></p><p><img src="https://scontent.fada1-7.fna.fbcdn.net/v/t1.0-9/58986694_2278094548896628_3237165049118195712_o.jpg?_nc_cat=102&_nc_eui2=AeH49xM_d7B-KOgFL73jpxz0PKkoWbJ13FcvJSDmvyRXJlqlh5Q-iooid5xGrTgd9qIHyxJyUf8Qi0ayQu6mV9dUy-685RuZ3G_hUMkgoXXJMA&_nc_ht=scontent.fada1-7.fna&oh=35cc0f32e35c08ca255e7795c614ec78&oe=5D2D4011" alt="GÃ¶rÃ¼ntÃ¼nÃ¼n olasÄ± iÃ§eriÄi: 11 kiÅi, oturan insanlar ve iÃ§ mekan"></p><p><br></p>
+</div>
+</article>
+</div>
+<a class="cws-button bt-color-4 border-radius btn-block" href="/haber-listesi/"><i class="fa fa-angle-double-left"></i> Haberlere Geri Git</a>
+
+</main>
+
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="grid-row">
+<div class="row clear-fix">
+<section class="col-md-4">
+<h2 class="corner-radius">Hızlı Bağlantılar</h2>
+<a class="linkler" href="/duyuru-listesi"> Üniversite Duyuruları </a>
+<a class="linkler" href="/haber-listesi">Üniversite Haberleri</a>
+<a class="linkler" href="/dahili-numaralar">Dahili Numaralar</a>
+<a class="linkler" href="http://mbs.toros.edu.tr">Mezun Bilgi Sistemi</a>
+<a class="linkler" href="http://tormed.toros.edu.tr">Tormed </a>
+<a class="linkler" href="http://torsim.toros.edu.tr">Torsim </a>
+<a class="linkler" href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">Kütüphane</a>
+<a class="linkler" href="/abis"> Abis </a>
+<a class="linkler" href="/icerik/toros-sports-center">Toros Sports Center </a>
+<a class="linkler" href="http://webmail.toros.edu.tr">Toros Web Mail</a>
+<a class="linkler" href="/panel"> Panel Girişi </a>
+<a class="linkler" href="http://ebys.toros.edu.tr">Toros EBYS Sistemi</a>
+</section>
+<section class="col-md-4 col-xs-4 text-center">
+<h2 class="corner-radius">Mevzuat</h2>
+<a class="linkler" href="/icerik/toros-universitesi-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-yonetmelikler">YÖNETMELİKLER</a>
+<a class="linkler" href="/icerik/toros-universitesi-stratejik-planlar">STRATEJİK PLANLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-kurum-ic-degerlendirme-raporlari">KURUM İÇ DEĞERLENDİRME RAPORLARI</a>
+</section>
+<section class="col-md-4 text-center">
+<h2 class="corner-radius">Sosyal Bağlantılar</h2>
+<div class="col-md-3 col-md-push-3 text-center">
+<a href="https://www.cimer.gov.tr/"> <img src="https://dosyahastane.saglik.gov.tr/Resim/10909,cimerpng.png?0" height="44" width="44" class=" social-icon img-responsive"></a>
+</div>
+<div class="col-md-2 col-md-push-2 text-center">  </div>
+<a href="/dilek-sikayet-formu" class="social-icon fa fa-user"> </a>
+<a href="https://www.facebook.com/TorosUniversity/" class="social-icon fa fa-facebook"></a>
+<a href="https://www.linkedin.com/in/toros-universitesi-31b80153" class="social-icon fa fa-linkedin"></a>
+<a href="https://www.youtube.com/channel/UCjbGEjnE-zoWaKJjPKF0Kqw" class="social-icon fa fa-youtube"></a>
+</section>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+</div>
+</div>
+</footer> <div class="icon-menu" id="iconn">
+
+
+<a class="icon " style="background:#1f1f1f; padding-top: 1%;" href="https://oibs.toros.edu.tr">
+<i class="fa fa-graduation-cap"></i><p>Öğrenci Bilgi Sistemi</p></a>
+<a class="icon " style="background:#355d9f" href="https://hazirlik.toros.edu.tr/login.php">
+<i class="fa fa-language"></i><p>Hazırlık Bilgi Sistemi</p></a>
+<a class="icon " style="background:#004747; " href="http://erasmus.toros.edu.tr">
+<i class="fa fa-globe"></i><p>Dış İlişkiler</p></a>
+<a class="icon " style="background:#d7d618" href="http://bologna.toros.edu.tr/">
+<i class="fa fa-bold"></i><p>Bologna Süreci</p></a>
+<a class="icon " style="background:#18d0d7" href="http://mbs.toros.edu.tr">
+<i class="fa fa-database"></i><p>Mezun Bilgi Sistemi</p></a>
+<a class="icon " style="background:#0b137e" href="/icerik/kalite-koordinatorlugu">
+<i class="fa fa-users"></i><p>Kalite Güvence Sistemi</p></a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/moment.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/fullcalendar.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/lang-all.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src='/front/js/jquery.validate.min.js'></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.form.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/slick.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/TweenMax.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/main.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/owl.carousel.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery-ui.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.tweet.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript">
+    $(document).ready(function() {
+        $('#main-carousel').find('.item').first().addClass('active');
+        $('.carousel').carousel({
+            interval: 7000
+        });
+                $("#iconn").owlCarousel({
+            items:6,
+            itemsMobile:[476,5],
+            itemsTablet:[768,6],
+            autoPlay:false
+        });
+            });
+    function dropdown() {
+        document.getElementById("myDropdown").classList.toggle("show");
+    }
+
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+<script type="bcc8ccb971a1b34f874adc39-text/javascript">
+        $(function() {
+           var data = $('iframe');
+           var src  = data.attr('src');
+           var videoParam = src.replace('https://www.youtube.com/embed/','');
+           var videoId = videoParam.substr(0,11);
+           var param = '?autoplay=0&loop=1&showinfo=0&playlist='+videoId;
+           var videoSrc = 'https://www.youtube.com/embed/'+videoId+param;
+           data.attr('src',videoSrc);
+        });
+    </script>"
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="bcc8ccb971a1b34f874adc39-|49" defer=""></script></body>
+</html>

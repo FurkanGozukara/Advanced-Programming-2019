@@ -1,0 +1,1334 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="ePGLoSfvwNLehJL5LuGph6MmhNG7saf4A7jvDvBk" />
+<meta name="author" content="MESUT AKSAK , TOROS YAZILIM BİRİMİ ">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+<link rel="stylesheet" href="/front/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.foundation.min.css">
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+        .dataTables_filter > div, label, input, select, textarea, button{
+            display: inline;
+        }
+        .dataTables_filter label> input {
+            border: 1px solid !important;
+        }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="fa66c039c76559bc0f33764f-text/javascript"></script>
+<script type="fa66c039c76559bc0f33764f-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="fa66c039c76559bc0f33764f-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+<a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#7c15121a133c08130e130f5219180952080e" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="92fbfcf4fdd2e6fde0fde1bcf7f6e7bce6e0">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="http://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="http://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+<ul class="clear-fix">
+<li><a>TOROS HAKKINDA</a><ul> <li><a href="/icerik/toros-hakkinda-yonetim">YÖNETİM</a></li><li><a href="/icerik/toros-hakkinda-kurucu-vakif">KURUCU VAKIF</a></li><li><a href="/icerik/toros-hakkinda-mutevelli-heyeti">MÜTEVELLİ HEYETİ</a></li><li><a href="/icerik/rektorluk">REKTÖRLÜK</a></li><li><a href="/icerik/toros-hakkinda-misyon-vizyon-ve-temel-degerler">MİSYON, VİZYON VE TEMEL DEĞERLER</a></li><li><a href="/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">TOROS OKULLARI VE TOROS TOPLULUĞU</a></li></ul></li>
+<li class="megamenu">
+<a>AKADEMİK</a>
+<ul class="clear-fix">
+<li><div class="header-megamenu">FAKÜLTELER</div>
+<ul>
+<li><a href="/anasayfa/guzel-sanatlar-fakultesi">GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</a></li><li><a href="/anasayfa/iktisadi-idari-ve-sosyal-bilimler-fakultesi">İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</a></li><li><a href="/anasayfa/muhendislik-fakultesi">MÜHENDİSLİK FAKÜLTESİ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">YÜKSEKOKULLAR</div>
+<ul>
+<li><a href="/anasayfa/meslek-yuksekokulu">MESLEK YÜKSEKOKULU</a></li><li><a href="/anasayfa/saglik-bilimleri-yuksekokulu">SAĞLIK BİLİMLERİ YÜKSEKOKULU</a></li><li><a href="/anasayfa/yabanci-diller-yuksekokulu">YABANCI DİLLER YÜKSEKOKULU</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">ENSTİTÜLER</div>
+<ul>
+<li><a href="/anasayfa/fen-bilimleri-enstitusu">FEN BİLİMLERİ ENSTİTÜSÜ</a></li><li><a href="/anasayfa/sosyal-bilimler-enstitusu">SOSYAL BİLİMLER ENSTİTÜSÜ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">ARAŞTIRMA MERKEZLERİ</div>
+<ul>
+<li><a href="/icerik/alevilik-bektasilik-uygulama-ve-arastirma-merkezi">ALEVİLİK - BEKTAŞİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/kentlesme-ve-yerel-yonetimler-uygulama-ve-arastima-merkezi">KENTLEŞME VE YEREL YÖNETİMLER UYGULAMA VE ARAŞTIMA MERKEZİ </a></li><li><a href="/icerik/surekli-egitim-uygulama-ve-arastirma-merkezi">SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/yenilenebilir-enerji-teknolojileri-egitimi-uygulama-ve-arastirma-merkezi">YENİLENEBİLİR ENERJİ TEKNOLOJİLERİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a>İDARİ BİRİMLER</a>
+<ul>
+<li>
+<a href="/icerik/genel-sekreterlik">GENEL SEKRETERLİK</a>
+</li>
+<li>
+<a href="/icerik/bilgi-islem-daire-baskanligi">BİLGİ İŞLEM DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/idari-ve-mali-isler-daire-baskanligi">İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/insan-kaynaklari-daire-baskanligi">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/kurumsal-iletisim-ve-tanitim-mudurlugu">KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</a>
+</li>
+<li>
+<a href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/ogrenci-isleri-daire-baskanligi">ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</a></li>
+<li>
+<a href="/icerik/saglik-kultur-ve-spor-daire-baskanligi">SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI</a>
+</li> <li><a href="/icerik/bilimsel-arastirma-projeleri-birimi-komisyonu/"> BİLİMSEL ARAŞTIRMA PROJELERİ BİRİMi</a></li>
+</ul>
+</li>
+<li><a>ÖĞRENCİ</a>
+<ul>
+<li><a href="/icerik/ogrenci-ucretler">ÜCRETLER</a></li>
+<li><a href="/icerik/ogrenci-burslar">BURSLAR</a></li>
+<li><a href="/icerik/ogrenci-lisans-on-lisans-akademik-takvim">LİSANS-ÖN LİSANS AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-hazirlik-okulu-akademik-takvim">HAZIRLIK OKULU AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-lisansustu-akademik-takvim">LİSANSÜSTÜ AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a></li>
+<li><a href="/icerik/ogrenci-yonetmelikler">YÖNETMELİKLER</a></li>
+<li><a href="/anasayfa/ogrenci-topluluklari">ÖĞRENCİ TOPLULUKLARI</a></li>
+</ul>
+</li> <li>
+<a href="/khk" rel="external">667 KHK ÖĞRENCİLER</a>
+</li>
+
+<li class="animated infinite pulse" style="background-color: #d9534f;">
+<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-fa66c039c76559bc0f33764f-="">ADAY ÖĞRENCİLER</a>
+<li>
+<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-fa66c039c76559bc0f33764f-="">İLETİŞİM</a>
+</li>
+
+</ul>
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class=" clear-fix">
+<div class="col-md-8 col-md-offset-2">
+<table id="example" class="table table-bordered ">
+<thead>
+<tr>
+<th class="text-center">BİRİM</th>
+<th class="text-center">KİŞİ</th>
+<th class="text-center">DAHİLİ NO</th>
+<th class="text-center">KAMPÜS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ADALET</td>
+<td>ERTAN CEM GÜL</td>
+<td>124</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ADALET</td>
+<td>SİBEL BOZKAYA</td>
+<td>186</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ADALET</td>
+<td>MEHMET ENES SALKIN</td>
+<td>182</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ADALET</td>
+<td>HAVİN ÖNER GÖREN</td>
+<td>122</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>AMELİYATHANE HİZMETLERİ</td>
+<td>AYNUR ÇELİK</td>
+<td>188</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ANESTEZİ</td>
+<td>FÜSUN BOZKIRLI</td>
+<td>174</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>AŞÇILIK</td>
+<td>MEHMET FATİH KAYRAN</td>
+<td>188</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>AYNİYAT BİRİMİ</td>
+<td>ŞEFİK TAMER</td>
+<td>127-4580</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>MESUT AKSAK</td>
+<td>4445</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>BURAK AKKURT</td>
+<td>190</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>GİZEN MUTLU</td>
+<td>4449</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>BUĞRA ŞAHİN</td>
+<td>4440</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>HASAN HÜSEYİN ERDEN</td>
+<td>4450</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>ÖZER TANRIVERDİ</td>
+<td>4446</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİ İŞLEM DAİRE BAŞKANLIĞI</td>
+<td>EKREM ERDOĞAN</td>
+<td>4444</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>MARYAM ESKANDARİ</td>
+<td>218</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>OMİD SHARIFI</td>
+<td>218</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>VOLKAN KADİR GÜNGÖR</td>
+<td>267</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+ <td>BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>ÇAĞDAŞ ALLAHVERDİ</td>
+<td>264</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>MEHMET ALİ AKTAŞ</td>
+<td>214</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÇAY OCAĞI</td>
+<td>ÇAY OCAĞI</td>
+<td>271</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÇOCUK GELİŞİMİ</td>
+<td>MERVE KOYUNCU</td>
+<td>173</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÇOCUK GELİŞİMİ</td>
+<td>MÜNİR YALÇIN ORTAKALE</td>
+<td>260</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÇOCUK GELİŞİMİ</td>
+<td>GÜZİN ÖZÇELİK</td>
+<td>173</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>DIŞ İLİŞKİLER</td>
+<td>NURTEN WAKAMATSU</td>
+<td>270</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>DİYALİZ</td>
+<td>CEM YALAZA</td>
+<td>164</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>DİYALİZ</td>
+<td>ZEHRA GÜL KOÇAKLI</td>
+<td>183</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>CEMİL CENGİZ ARCASOY</td>
+<td>211</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>TUĞÇE SENA AVŞAR</td>
+<td>269</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>SAADET YILDIRIMCAN</td>
+<td>210</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>ALİ KEMAL HAVARE</td>
+<td>215</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>CEVHER AK</td>
+<td>264</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>ZİYA GÖKALP ALTUN</td>
+<td>267</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>SELMA ERAT</td>
+<td>210</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>YUSUF ZEREN</td>
+<td>233</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>FİKRİ EGE</td>
+<td>213</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>EMİNE BOZOKLAR</td>
+<td>269</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>SELİN SARAÇ</td>
+<td>269</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>TÜRKER ERTEM</td>
+<td>217</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+ <tr>
+<td>ERASMUS-DIŞ İLİŞKİLER </td>
+<td>KAMURAN ÖZTOP</td>
+<td>271</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>FEN BİLİMLERİ ENSTİTÜSÜ</td>
+<td>NAZMİYE GÖKÇEL</td>
+<td>4503-4504</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>GRAFİK TASARIMI</td>
+<td>HÜLYA GÜNDOĞDU</td>
+<td>174</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>GÜVENLİK</td>
+<td>GÜVENLİK</td>
+<td>199</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>GÜVENLİK </td>
+<td>GÜVENLİK </td>
+<td>4581</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+ <td>GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</td>
+<td>HAVVA KEKLİK</td>
+<td>5001</td>
+<td>URAY KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</td>
+<td>NEHİR ÇIPLAK</td>
+<td>250</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ SEKRETERİ</td>
+<td>NİZAMETTİN TAŞ</td>
+<td>5000</td>
+<td>URAY KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</td>
+<td>BEHİRE SANÇAR</td>
+<td>115</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</td>
+<td>NAZİFE AKAN</td>
+<td>153</td>
+ <td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</td>
+<td>DERYA DENİZ KANAN</td>
+<td>184</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</td>
+<td>FATMA REZAN HATUNGİL</td>
+<td>187</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</td>
+<td>FÜGEN ÖZCANARSLAN</td>
+<td>205-187-4510</td>
+<td>45 EVLER KAMPÜSÜ - BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İÇ MİMARLIK BÖLÜMÜ</td>
+<td>AYŞEN CEVRİYE BENLİ</td>
+<td>238</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+ <tr>
+<td>İÇ MİMARLIK BÖLÜMÜ</td>
+<td>NERİME CİMCOZ</td>
+<td>238</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İÇ MİMARLIK BÖLÜMÜ</td>
+<td>TUĞÇE KEMER</td>
+<td>221</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İDARİ İŞLER VE SATIN ALMA ŞUBE MÜDÜRLÜĞÜ</td>
+<td>FESİH ŞEN</td>
+<td>125</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İİSBF DEKANLIĞI</td>
+<td>SÜLEYMAN TÜRKEL</td>
+<td>206</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İİSBF-MÜHENDİSLİK FAKÜLTESİ SEKRETERİ</td>
+<td>DURMUŞ ALİ ÇITAK</td>
+<td>276</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</td>
+<td>DEKAN</td>
+<td>206</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</td>
+<td>NİMET KENDİR</td>
+<td>272</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</td>
+<td>KERİM ERTURAN</td>
+<td>272</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</td>
+<td>DEMET BUYURGAN YAMAÇ</td>
+<td>261</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSAT BÖLÜMÜ</td>
+<td>ASLIHAN YAVUZALP MARANGOZ</td>
+<td>242</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSAT BÖLÜMÜ</td>
+<td>ÖZLEM BULUT</td>
+<td>224</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSAT BÖLÜMÜ</td>
+<td>ALİ KOTAN</td>
+<td>238</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İKTİSAT BÖLÜMÜ</td>
+<td>İBRAHİM BOZ</td>
+<td>263</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İLK VE ACİL YARDIM</td>
+<td>SERVET ÖZGÜR</td>
+<td>156-3410</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>DAMLA ÇETİNER</td>
+<td>256</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>PINAR KIVILCIM</td>
+<td>256</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>ERKAN TUNÇ</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>KEREM BEREKETOĞLU</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>BERNA TORLAKLI</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>DİLEK BATUR SEÇER</td>
+<td>203</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>AYŞE AYKAL</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>ALPER KALYONCU</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>CANSU KALKAN</td>
+<td>268</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>OYA ÖZVEREN GENÇ</td>
+<td>230</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>PINAR KAYA</td>
+<td>212</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>ÖZGÜR SANDAL</td>
+<td>229</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>ŞEYDA ASLAN TUNÇ</td>
+<td>222-223</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>SİMAY AVSEVEN</td>
+<td>266</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>GÖKÇE TEZCAN</td>
+<td>241</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>SENA TEKELİ</td>
+<td>222-223</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>SİMAY ÖZER YEŞİL</td>
+<td>222-223</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNGİLİZCE HAZIRLIK PROGRAMI</td>
+<td>EBRU GÜVENÇ</td>
+<td>222-223</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</td>
+<td>BİLGE ERDOĞAN</td>
+<td>119</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</td>
+<td>BİLGEN KURTULMUŞ</td>
+<td>119</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>AZİZ ERTUNÇ</td>
+<td>265</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>ORHAN AKSOĞAN</td>
+<td>252</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>MEHMET SALİH KIRKGÖZ</td>
+<td>252</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>HATİCE MERVE ÇETİN</td>
+ <td>269</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>KAZIM TÜLÜCÜ</td>
+<td>264</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</td>
+<td>MEHMET ÇAKIROĞLU</td>
+<td>249</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT TEKNOLOJİSİ</td>
+<td>HÜSEYİN TURGAY ATINÇ</td>
+<td>173</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İNŞAAT TEKNOLOJİSİ</td>
+<td>İSMAİL TEKİN</td>
+<td>216</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞ SAĞLIĞI VE GÜVENLİĞİ</td>
+<td>EMRE ÜNAL</td>
+<td>173</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞ SAĞLIĞI VE GÜVENLİĞİ</td>
+<td>SABRİ KALKAN</td>
+<td>186</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞ SAĞLIĞI VE GÜVENLİĞİ</td>
+<td>MURAT KILINÇ</td>
+<td>154</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞLETME BÖLÜMÜ</td>
+<td>MUSTAFA PEKMEZCİ</td>
+<td>231</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞLETME BÖLÜMÜ</td>
+<td>HALUK KORKMAZYÜREK</td>
+<td>204</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>İŞLETME BÖLÜMÜ</td>
+<td>MERT AKTAŞ</td>
+<td>262</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KENTSEL TASARIM VE PEYZAJ MİMARİSİ</td>
+<td>HÜSNİYE GAMZE AKDOĞAN</td>
+<td>224</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KENTSEL TASARIM VE PEYZAJ MİMARİSİ</td>
+<td>ERDOĞAN GÜLTEKİN</td>
+<td>221</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KENTSEL TASARIM VE PEYZAJ MİMARİSİ</td>
+<td>ONUR BOYACIGİL GÜNGÖR</td>
+<td>221</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</td>
+<td>SALİH ŞAHİN</td>
+<td>112</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</td>
+<td>İBRAHİM ÖZGÜR KUTLAY</td>
+<td>112</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</td>
+<td>EMİNE GİZEM HAYIRLIOĞLU</td>
+<td>112</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KÜTÜPHANE VE DÖKÜMANTASYON DAİRE BAŞKANLIĞI</td>
+<td>SELMAN YILMAZ</td>
+<td>259</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KÜTÜPHANE VE DÖKÜMANTASYON DAİRE BAŞKANLIĞI</td>
+<td>İLKAY GİZEM ÖZCAN</td>
+<td>259-4511</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KÜTÜPHANE VE DÖKÜMANTASYON DAİRE BAŞKANLIĞI</td>
+<td>DİLER YETER</td>
+<td>259</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>KÜTÜPHANE VE DÖKÜMANTASYON DAİRE BAŞKANLIĞI</td>
+<td>HASAN CEMİL ŞENSEVER</td>
+<td>259</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>LOJİSTİK</td>
+<td>SEDA TURNACIGİL</td>
+<td>239</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>LOJİSTİK</td>
+<td>AYŞE GÜNGÖR</td>
+<td>122</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</td>
+<td>SEDEF UYANIK</td>
+<td>178</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</td>
+<td>BÜLENT BALÇİN</td>
+<td>178</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</td>
+<td>HANDAN KARACA</td>
+<td>178-3200</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</td>
+<td>GÜNAY YALÇIN</td>
+<td>178</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</td>
+<td>İZZETTİN DAĞDELENGİL</td>
+<td>102</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MESLEK YÜKSEKOKULU</td>
+<td>PINAR FIRAT YENER</td>
+<td>151</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MESLEK YÜKSEKOKULU</td>
+<td>DİLARA TARHAN</td>
+<td>183</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MESLEK YÜKSEKOKULU</td>
+<td>NEVZAT EROL</td>
+<td>124</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MESLEK YÜSKEKOKULU</td>
+<td>HÜSEYİN DURAN</td>
+<td>189-3412</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MF DEKANLIĞI</td>
+<td>ELA YILDIRIM GÖK</td>
+<td>243</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MİMARLIK BÖLÜMÜ</td>
+<td>NECATİ ŞEN</td>
+<td>236</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+ <tr>
+<td>MİMARLIK BÖLÜMÜ</td>
+<td>GÜNGÖR UZUN</td>
+<td>221</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MÜHENDİSLİK</td>
+<td>ZAİNA MUSTAFA MAHMOUD HAMAD</td>
+<td>221</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MÜHENDİSLİK FAKÜLTESİ</td>
+<td>MEHMET ZİL</td>
+<td>251</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MÜHENDİSLİK FAKÜLTESİ</td>
+<td>ZÜLEYHA TAMER</td>
+<td>4557</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MÜTEVELLİ HEYET BAŞKAN VEKİLİ</td>
+<td>NİL AŞKIN</td>
+<td>201</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>MÜTEVELLİ HEYET BAŞKANI</td>
+<td>ALİ ÖZVEREN</td>
+<td>201</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>OPTİSYENLİK</td>
+<td>BİRSEN KESİK ZEYREK</td>
+<td>183</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</td>
+<td>ERGİN ÇABUK</td>
+<td>157-160</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</td>
+<td>ÖKKEŞ ÇAM</td>
+<td>175</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</td>
+<td>MEHMET KORAY UMAY</td>
+<td>157-160</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+ </tr>
+<tr>
+<td>ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</td>
+<td>DUYGU MELEMENCİ</td>
+<td>157-160</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</td>
+<td>IŞIL ERDOĞAN</td>
+<td>157-160</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRETİM GÖREVLİSİ</td>
+<td>SEÇİL BİBER</td>
+<td>224</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ÖĞRETİM GÖREVLİSİ</td>
+<td>YUSUF GÜL</td>
+<td>264</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PROTOKOL VE İÇ HİZMETLER</td>
+<td>UMUT ÇAĞLAR</td>
+<td>127</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>FATMA SEMA GÜRKAN</td>
+<td>261</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>KAMURAN ELBEYOĞLU</td>
+<td>245</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>YAĞMUR AYDIN</td>
+<td>239</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>YALÇIN ORTAKALE</td>
+<td>260</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>SEMA BENGİ GÜRKAN</td>
+<td>261</td>
+ <td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>BANU İNANÇ</td>
+<td>248</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>HÜSAMETTİN YAZAR</td>
+<td>239</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>PSİKOLOJİ BÖLÜMÜ</td>
+<td>MEHMET BİLGİN</td>
+<td>248</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>REKTÖRLÜK</td>
+<td>CANSU AÇIKGÖZ</td>
+<td>120-3366</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK BİLİMLERİ YÜKSEKOKULU</td>
+<td>E. ÖZLEM KÖROĞLU</td>
+<td>115</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK KURUMLARI YÖNETİMİ BÖLÜMÜ</td>
+<td>BİLAL AK</td>
+<td>162-3350</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK KURUMLARI YÖNETİMİ BÖLÜMÜ</td>
+<td>ABDULLAH ÇALIŞKAN</td>
+<td>162</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK KURUMLARI YÖNETİMİ BÖLÜMÜ</td>
+<td>BESİME AHU KAYNAK</td>
+<td>121</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI</td>
+<td>MURAT KİRAZ</td>
+<td>224</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SAĞLIK YÖNETİMİ BÖLÜMÜ</td>
+<td>ADNAN MAZMANOĞLU</td>
+<td>250</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SBYO Sekreteri</td>
+<td>SEVİM FIRAT</td>
+<td>161</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SOSYAL BİLİMLER ENSTİTÜSÜ</td>
+<td>ENSTİTÜ MÜDÜRÜ</td>
+<td>204</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SOSYAL BİLİMLER ENSTİTÜSÜ</td>
+<td>KEMAL GÜNER</td>
+<td>4509</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>SOSYAL BİLİMLER ENSTİTÜSÜ</td>
+<td>KEREM CANGERT</td>
+<td>4509</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+ <td>TIBBİ GÖRÜNTÜLEME TEKNİKLERİ</td>
+<td>HARİKA TOPAL ÖNAL</td>
+<td>186</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TIBBİ LABORATUVAR TEKNİKLERİ</td>
+<td>MELTEM GÜNGÖR</td>
+<td>155</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TIBBİ LABORATUVAR TEKNİKLERİ</td>
+<td>FATMA YILDIZ</td>
+<td>182</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TIBBİ LABORATUVAR TEKNİKLERİ</td>
+<td>DENİZ YALÇINKAYA</td>
+<td>182</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TOROS ÜNİVERSİTESİ</td>
+<td>AHMET ÖZER</td>
+<td>257</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+ <tr>
+<td>TOROS ÜNİVERSİTESİ</td>
+<td>YASEMİN TEZCAN</td>
+<td>188</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TOROS ÜNİVERSİTESİ</td>
+<td>SEVİL ÖZEN</td>
+<td>4505</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>TOROS ÜNİVERSİTESİ</td>
+<td>EDA KILIÇKAYA</td>
+<td>4507</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ</td>
+<td>MURAT KÖYLÜ</td>
+<td>232</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ</td>
+<td>TUNAY KÖKSAL</td>
+<td>264</td>
+<td>45 EVLER KAMPÜSÜ</td>
+ </tr>
+<tr>
+<td>ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ</td>
+<td>DİDEM DEMİR</td>
+<td>246</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ</td>
+<td>AYHAN DEMİRCİ</td>
+<td>232</td>
+<td>45 EVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>YAZI İŞLERİ MÜDÜRLÜĞÜ</td>
+<td>ÇAĞLAR ALTINEL</td>
+<td>103</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+<tr>
+<td>YAZI İŞLERİ MÜDÜRLÜĞÜ</td>
+<td>BİHTER AĞLAMIŞ</td>
+<td>103</td>
+<td>BAHÇELİEVLER KAMPÜSÜ</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="grid-row">
+<div class="row clear-fix">
+<section class="col-md-4">
+<h2 class="corner-radius">Hızlı Bağlantılar</h2>
+<a class="linkler" href="/duyuru-listesi"> Üniversite Duyuruları </a>
+<a class="linkler" href="/haber-listesi">Üniversite Haberleri</a>
+<a class="linkler" href="/dahili-numaralar">Dahili Numaralar</a>
+<a class="linkler" href="http://mbs.toros.edu.tr">Mezun Bilgi Sistemi</a>
+<a class="linkler" href="http://tormed.toros.edu.tr">Tormed </a>
+<a class="linkler" href="http://torsim.toros.edu.tr">Torsim </a>
+<a class="linkler" href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">Kütüphane</a>
+<a class="linkler" href="/abis"> Abis </a>
+<a class="linkler" href="/icerik/toros-sports-center">Toros Sports Center </a>
+<a class="linkler" href="http://webmail.toros.edu.tr">Toros Web Mail</a>
+<a class="linkler" href="/panel"> Panel Girişi </a>
+<a class="linkler" href="http://ebys.toros.edu.tr">Toros EBYS Sistemi</a>
+</section>
+<section class="col-md-4 col-xs-4 text-center">
+<h2 class="corner-radius">Mevzuat</h2>
+<a class="linkler" href="/icerik/toros-universitesi-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-yonetmelikler">YÖNETMELİKLER</a>
+<a class="linkler" href="/icerik/toros-universitesi-stratejik-planlar">STRATEJİK PLANLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-kurum-ic-degerlendirme-raporlari">KURUM İÇ DEĞERLENDİRME RAPORLARI</a>
+</section>
+<section class="col-md-4 text-center">
+<h2 class="corner-radius">Sosyal Bağlantılar</h2>
+<div class="col-md-3 col-md-push-3 text-center">
+<a href="https://www.cimer.gov.tr/"> <img src="https://dosyahastane.saglik.gov.tr/Resim/10909,cimerpng.png?0" height="44" width="44" class=" social-icon img-responsive"></a>
+</div>
+<div class="col-md-2 col-md-push-2 text-center">  </div>
+<a href="/dilek-sikayet-formu" class="social-icon fa fa-user"> </a>
+<a href="https://www.facebook.com/TorosUniversity/" class="social-icon fa fa-facebook"></a>
+<a href="https://www.linkedin.com/in/toros-universitesi-31b80153" class="social-icon fa fa-linkedin"></a>
+<a href="https://www.youtube.com/channel/UCjbGEjnE-zoWaKJjPKF0Kqw" class="social-icon fa fa-youtube"></a>
+</section>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+</div>
+</div>
+</footer> <div class="icon-menu" id="iconn">
+
+
+<a class="icon " style="background:#1f1f1f; padding-top: 1%;" href="https://oibs.toros.edu.tr">
+<i class="fa fa-graduation-cap"></i><p>Öğrenci Bilgi Sistemi</p></a>
+<a class="icon " style="background:#355d9f" href="https://hazirlik.toros.edu.tr/login.php">
+<i class="fa fa-language"></i><p>Hazırlık Bilgi Sistemi</p></a>
+<a class="icon " style="background:#004747; " href="http://erasmus.toros.edu.tr">
+<i class="fa fa-globe"></i><p>Dış İlişkiler</p></a>
+<a class="icon " style="background:#d7d618" href="http://bologna.toros.edu.tr/">
+<i class="fa fa-bold"></i><p>Bologna Süreci</p></a>
+<a class="icon " style="background:#18d0d7" href="http://mbs.toros.edu.tr">
+<i class="fa fa-database"></i><p>Mezun Bilgi Sistemi</p></a>
+<a class="icon " style="background:#0b137e" href="/icerik/kalite-koordinatorlugu">
+<i class="fa fa-users"></i><p>Kalite Güvence Sistemi</p></a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="fa66c039c76559bc0f33764f-text/javascript" src="/front/js/jquery.min.js"></script>
+<script src="/front/js/jquery.dataTables.min.js" type="fa66c039c76559bc0f33764f-text/javascript"></script>
+<script type="fa66c039c76559bc0f33764f-text/javascript" src="/front/js/owl.carousel.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous" type="fa66c039c76559bc0f33764f-text/javascript"></script>
+<script type="fa66c039c76559bc0f33764f-text/javascript">
+    $(document).ready(function() {
+        $('#example').DataTable( {
+            "ordering": false,
+            "displayLength": 50,
+            "language": {
+                "lengthMenu": "Sayfada _MENU_ kayıt göster",
+                "zeroRecords": "Kayıt bulunamadı!",
+                "info": "_PAGE_. sayfayı görüntülemektesiniz",
+                "infoEmpty": "Uygun kayıt bulunamadı",
+                "infoFiltered": "(_MAX_ kayıt arasından bulunanlar)",
+                "loadingRecords": "Yükleniyor...",
+                "processing":     "İşlem yapılıyor...",
+                "search":         "Arama:",
+                "paginate": {
+                    "first":      "İlk",
+                    "last":       "Son",
+                    "next":       "İleri",
+                    "previous":   "Geri"
+                }
+            }
+        } );
+        $('th').css("width","");
+        $("#iconn").owlCarousel({
+            items:8,
+            itemsMobile:[476,5],
+            itemsTablet:[768,6],
+            autoPlay:true
+        });
+    });
+    function dropdown() {
+        document.getElementById("myDropdown").classList.toggle("show");    }
+
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="fa66c039c76559bc0f33764f-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="tr">
+<head>
+
+<meta charset="utf-8" />
+<title>Toros Üniversitesi Hazırlık Bilgi Sistemi</title>
+<link rel="stylesheet" href="_files/jquery-ui-1.9.2.custom.min.css" />
+<script src="_files/jquery-1.8.3.js" type="f24db43c2e7e32749b7df843-text/javascript"></script>
+<script src="_files/jquery-ui-1.9.2.custom.min.js" type="f24db43c2e7e32749b7df843-text/javascript"></script>
+<script src="_files/common.js" type="f24db43c2e7e32749b7df843-text/javascript"></script>
+<link rel="stylesheet" href="_files/style.css" />
+ <script type="f24db43c2e7e32749b7df843-text/javascript">
+    $(function() {
+    	$("button:first").button({
+            icons: {
+                primary: "ui-icon-locked"
+            },
+            text: "Giriş Yap"
+        });
+    });
+function login(){
+	var error = $('#error').hide();
+	var user = $('#user').val();
+	var pass = $('#pass').val();
+	
+	if(user == ''){
+		$('#msg').text('Kullanıcı adını giriniz!');
+		error.fadeIn();
+		return;
+	} 
+		if(pass == ''){
+			$('#msg').text('Parolanızı giriniz!');
+			error.fadeIn();
+			return;
+		}
+	
+	$.post("login.php?action=login", "user="+user+"&pass="+pass, function(data) {
+        if(data == 1) { 
+            window.location = 'index.php';
+           } else {
+      			$('#msg').text(data);
+           		error.fadeIn();
+           }
+      })
+      .error(function() { $('#msg').text('Http 500 İç sunucu Hatası'); $('#error').fadeIn(); });
+	
+}
+</script>
+<style>
+ #login-form { width: 300px; margin: 100px auto ; background: url("_files/FormBack.gif"); border: 1px solid #99BBE8; padding: 10px;} 
+ #login-form label { font-size: 0.8em; }
+</style>
+</head>
+<body>
+
+<div id="container">
+
+<div id="container-header">
+<div id="logo" class="left"></div>
+<div id="text" class="left middle">T.C. TOROS Üniversitesi Hazırlık Bilgi Sistemi 2018-2019</div>
+<div id="right" class="right middle">29.04.2019</div>
+<div class="ln"></div>
+</div>
+
+
+<div id="page">
+<div id="login-form">
+<form id="form" name="form">
+<table width="100%">
+<tr> <td colspan="2" align="center" style="padding: 5px; font-size: 1.2em; color: maroon; border-bottom: solid 1px gray;"><span class="c14">Sistem Girişi</span></td> </tr>
+<tr><td> </td></tr>
+<tr>
+<td><label>Kullanıcı Adı</label></td>
+<td><input id="user" name="user" type="text" /> </td>
+</tr>
+<tr>
+<td><label>Şifre</label></td>
+<td><input id="pass" name="pass" type="password" /> </td>
+</tr>
+<tr>
+<td></td>
+<td><button type="button" onclick="if (!window.__cfRLUnblockHandlers) return false; login()" data-cf-modified-f24db43c2e7e32749b7df843-="">Sisteme Gir</button> </td>
+</tr>
+</table>
+</form>
+<div id="error" class="ui-widget msg" style="display: none;">
+<div class="ui-state-error ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+<p>
+<span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
+<strong id="msg">Öğrenci Kaydı Yapılamadı!</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="container-forter">
+<div class="left">Copyright 2011 Hazırlık Bilgi Sistemi v.1.0 - Sistem En iyi 1280 X 1024 Çözünürlükte Çalışır</div>
+<div class="right">172.69.118.79</div>
+<div class="ln"></div>
+</div>
+
+</div>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="f24db43c2e7e32749b7df843-|49" defer=""></script></body>
+</html>

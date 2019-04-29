@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="icon" href="favicon.ico" />
+<title>Toros Üniversitesi Öğrenci İşleri Bilgi Sistemi'ne Hoşgeldiniz...</title>
+<link rel="stylesheet" type="text/css" href="ext/css/ext-all.css?v=3411" />
+<link rel="stylesheet" type="text/css" href="ext/css/ux-all.css?v=3411" />
+<link rel="stylesheet" type="text/css" href="ext/css/xtheme-gray.css?v=3411" />
+<style>
+.extFon			{ background-color: #eaeaea !important; }
+.extFon__		{ background-color: #eaeaea }
+</style>
+<link rel="stylesheet" type="text/css" href="css/simgeler.css?v=20140101" />
+<link rel="stylesheet" type="text/css" href="css/oibs.css?v=20180101" />
+<link rel="stylesheet" type="text/css" href="css/eklentiler.css?v=20170901" />
+<link rel="stylesheet" type="text/css" href="css/codemirror.css" />
+</head>
+<body>
+<div id="ana-yukleme-gostergesi"><img src="ext/images/default/shared/loading-balls.gif">
+<br />Lütfen Bekleyin<br />Yükleniyor	</div>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="ext/ext-base.js?v=3411"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="ext/ext-all.js?v=3411"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="ext/ux-all.js?v=3411"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/codemirror-compressed.js"></script><style>.CodeMirror { border : 1px solid #eee; height: 100%; }</style>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/xlsx.full.min.js"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/raphael.js"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/epati.js?v=20130101"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/eklentiler.js?v=20161227"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/ext-lang-tr.js?v=20160307"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript"><!--
+var ___P = {"uygulamaURL":"?","kurumAdi":"Toros Üniversitesi","uygulamaAdi":"Öğrenci İşleri Bilgi Sistemi"};
+___P.arayuz_dil = '';
+// --></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript"><!--
+var
+	 win_karsilamaUi, onBellek_parametreUi, onBellek_parametre_YOKSIS_askerlik_azamiSureAsmaNedeniUi, onBellek_parametre_YOKSIS_askerlik_durumUi, onBellek_parametre_YOKSIS_askerlik_erteleme_durumUi, onBellek_parametre_YOKSIS_askerlik_erteleme_iptalNedeniUi, onBellek_parametre_YOKSIS_askerlik_erteleme_redNedeniUi, onBellek_parametre_YOKSIS_askerlik_erteleme_talepNedeniUi, onBellek_parametre_YOKSIS_ayrilmaNedeniUi, onBellek_parametre_YOKSIS_girisTuruUi, onBellek_parametre_YOKSIS_ogrencilikStatusuUi, onBellek_parametre_aylarUi, onBellek_parametre_ayrilmaSekilleriUi, onBellek_parametre_belgeTuruUi, onBellek_parametre_belgeler_ogrenciKartiUi, onBellek_parametre_birimGrupUi, onBellek_parametre_birimTuruUi, onBellek_parametre_birim_donemSayisiUi, onBellek_parametre_birim_egitimSuresiUi, onBellek_parametre_birim_hazirlikDurumUi, onBellek_parametre_birimlerUi, onBellek_parametre_bologna_programCikti_turuUi, onBellek_parametre_cinsiyetUi, onBellek_parametre_degisimProgramlariUi, onBellek_parametre_dereceUi, onBellek_parametre_dersTuruUi, onBellek_parametre_dilUi, onBellek_parametre_disiplinCezaUi, onBellek_parametre_disiplinSucUi, onBellek_parametre_engelTuruUi, onBellek_parametre_evetHayirUi, onBellek_parametre_gunlerUi, onBellek_parametre_haftalarUi, onBellek_parametre_hazirlikDurum_meslekiUi, onBellek_parametre_hazirlikDurum_turkceUi, onBellek_parametre_hazirlikDurum_yabanciDilUi, onBellek_parametre_hazirlikSonucUi, onBellek_parametre_hazirlikSonuc_turkceUi, onBellek_parametre_hazirlik_donemlerUi, onBellek_parametre_hazirlik_gecmeNotuUi, onBellek_parametre_hazirlik_notSistemiUi, onBellek_parametre_ilUi, onBellek_parametre_il_ilceUi, onBellek_parametre_ilceUi, onBellek_parametre_kayitSekilleriUi, onBellek_parametre_kaynakUi, onBellek_parametre_krediTuruUi, onBellek_parametre_odemeTuruUi, onBellek_parametre_ogrenci_ozelDurumlarUi, onBellek_parametre_ogretimModeliUi, onBellek_parametre_ogretimModeli_kisaUi, onBellek_parametre_personelUi, onBellek_parametre_rakam_0_9Ui, onBellek_parametre_sinavTuruUi, onBellek_parametre_siniflarUi, onBellek_parametre_sorguBasari_durumUi, onBellek_parametre_tekCiftUi, onBellek_parametre_telefonTuruUi, onBellek_parametre_tezliUi, onBellek_parametre_tum_yariYillarUi, onBellek_parametre_ulkeUi, onBellek_parametre_ulke_enUi, onBellek_parametre_ulke_il_ilce_TRUi, onBellek_parametre_unvanUi, onBellek_parametre_unvan_gorevUi, onBellek_parametre_varYokUi, onBellek_parametre_varYok2Ui, onBellek_parametre_yerleskeUi, onBellek_parametre_yonetmelikUi, onBellek_parametre_yonetmelik_disiplinUi, onBellek_parametre_yonetmelik_notSistemiUi	// Class
+	,win_karsilama, onBellek_parametre, onBellek_parametre_YOKSIS_askerlik_azamiSureAsmaNedeni, onBellek_parametre_YOKSIS_askerlik_durum, onBellek_parametre_YOKSIS_askerlik_erteleme_durum, onBellek_parametre_YOKSIS_askerlik_erteleme_iptalNedeni, onBellek_parametre_YOKSIS_askerlik_erteleme_redNedeni, onBellek_parametre_YOKSIS_askerlik_erteleme_talepNedeni, onBellek_parametre_YOKSIS_ayrilmaNedeni, onBellek_parametre_YOKSIS_girisTuru, onBellek_parametre_YOKSIS_ogrencilikStatusu, onBellek_parametre_aylar, onBellek_parametre_ayrilmaSekilleri, onBellek_parametre_belgeTuru, onBellek_parametre_belgeler_ogrenciKarti, onBellek_parametre_birimGrup, onBellek_parametre_birimTuru, onBellek_parametre_birim_donemSayisi, onBellek_parametre_birim_egitimSuresi, onBellek_parametre_birim_hazirlikDurum, onBellek_parametre_birimler, onBellek_parametre_bologna_programCikti_turu, onBellek_parametre_cinsiyet, onBellek_parametre_degisimProgramlari, onBellek_parametre_derece, onBellek_parametre_dersTuru, onBellek_parametre_dil, onBellek_parametre_disiplinCeza, onBellek_parametre_disiplinSuc, onBellek_parametre_engelTuru, onBellek_parametre_evetHayir, onBellek_parametre_gunler, onBellek_parametre_haftalar, onBellek_parametre_hazirlikDurum_mesleki, onBellek_parametre_hazirlikDurum_turkce, onBellek_parametre_hazirlikDurum_yabanciDil, onBellek_parametre_hazirlikSonuc, onBellek_parametre_hazirlikSonuc_turkce, onBellek_parametre_hazirlik_donemler, onBellek_parametre_hazirlik_gecmeNotu, onBellek_parametre_hazirlik_notSistemi, onBellek_parametre_il, onBellek_parametre_il_ilce, onBellek_parametre_ilce, onBellek_parametre_kayitSekilleri, onBellek_parametre_kaynak, onBellek_parametre_krediTuru, onBellek_parametre_odemeTuru, onBellek_parametre_ogrenci_ozelDurumlar, onBellek_parametre_ogretimModeli, onBellek_parametre_ogretimModeli_kisa, onBellek_parametre_personel, onBellek_parametre_rakam_0_9, onBellek_parametre_sinavTuru, onBellek_parametre_siniflar, onBellek_parametre_sorguBasari_durum, onBellek_parametre_tekCift, onBellek_parametre_telefonTuru, onBellek_parametre_tezli, onBellek_parametre_tum_yariYillar, onBellek_parametre_ulke, onBellek_parametre_ulke_en, onBellek_parametre_ulke_il_ilce_TR, onBellek_parametre_unvan, onBellek_parametre_unvan_gorev, onBellek_parametre_varYok, onBellek_parametre_varYok2, onBellek_parametre_yerleske, onBellek_parametre_yonetmelik, onBellek_parametre_yonetmelik_disiplin, onBellek_parametre_yonetmelik_notSistemi		// Instance
+;
+// --></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript" src="js/arayuz-derlem-c.401c4c2a5378659fe170aa31e8fc4586.js?v=1556175091"></script>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript"><!--
+function arayuzGoster() {
+	if ( ___P.birimler_ic && ___P.birimler_dis ) {
+		___P.birimler_tum = Ext.decode( Ext.encode( ___P.birimler_dis ) );
+		___P.birimler_tum.children.unshift( Ext.decode( Ext.encode( ___P.birimler_ic.children[0] ) ) );
+		___P.birimler_tum.text = 'Tüm Birimler';
+		___P.birimler_tum.adi = 'Tüm Birimler';
+	}
+	
+	window.basitMenu_panelAc = function( modul, e, tabPanel, goster ) {
+		if ( !tabPanel ) tabPanel = vp_ekran.tp_anaPanel;
+		if ( goster === undefined ) goster = true;
+		if ( !modul.panel_id && !modul.komut ) return false;
+		
+		if ( !modul.panel_id ) {
+			if ( typeof( modul.komutFn ) != 'function' ) modul.komutFn = new Function( modul.komut );
+			if ( typeof( modul.komutFn ) == 'function' ) modul.komutFn();
+			return;
+		}
+		
+		var panel = window[ modul.panel_id ];
+		if ( !panel ) window[ modul.panel_id ] = Ext.getCmp( modul.panel_id );
+		if ( !panel ) {
+			try {
+				panel = window[ modul.panel_id ] = eval( 'new ' + modul.sinif + 'Ui( { id : \'' + modul.panel_id + '\' } );' );
+			} catch ( e ) {
+				__hataGoster( e );
+				return false;
+			}
+		}
+		if ( panel ) {
+			panel.modul = modul;
+			if ( panel.isXType( 'window' ) ) {
+				//
+			} else if ( tabPanel == vp_ekran.tp_anaPanel ) {
+				vp_ekran.tabEkle( panel );
+			} else {
+				tabPanel.add( panel );
+				tabPanel.setActiveTab( modul.panel_id );
+			}
+			if ( goster ) panel.show();
+		}
+		return panel;
+	};
+	
+	window.elemanOlustur = function( id, ornekOlustur, goster, parametreler ){
+		if ( window[ id + 'Ui' ] && typeof( window[ id + 'Ui' ].prototype ) !== 'undefined' ) window[ id + 'Ui' ].prototype.___P = parametreler || {};
+		
+		if ( ornekOlustur ) {
+			window[ id  ] = new window[ id + 'Ui' ]( ornekOlustur );
+			if ( goster ) window[ id ].show();
+		}
+	}
+	
+elemanOlustur( 'win_karsilama', { renderTo: Ext.getBody() }, true, {"kayitAcik":0,"misafirOgrenci_kayit_acik":0,"sifreHatirlat_acik":0,"oNo_sorgula_acik":1,"logo_kucuk":"toros_logo_64.png","dil":"tr"} );
+elemanOlustur( 'onBellek_parametre', {}, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_azamiSureAsmaNedeni', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_durum', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_erteleme_durum', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_erteleme_iptalNedeni', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_erteleme_redNedeni', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_askerlik_erteleme_talepNedeni', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_ayrilmaNedeni', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_girisTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_YOKSIS_ogrencilikStatusu', false, false, false );
+elemanOlustur( 'onBellek_parametre_aylar', false, false, false );
+elemanOlustur( 'onBellek_parametre_ayrilmaSekilleri', false, false, false );
+elemanOlustur( 'onBellek_parametre_belgeTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_belgeler_ogrenciKarti', false, false, false );
+elemanOlustur( 'onBellek_parametre_birimGrup', false, false, false );
+elemanOlustur( 'onBellek_parametre_birimTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_birim_donemSayisi', false, false, false );
+elemanOlustur( 'onBellek_parametre_birim_egitimSuresi', false, false, false );
+elemanOlustur( 'onBellek_parametre_birim_hazirlikDurum', false, false, false );
+elemanOlustur( 'onBellek_parametre_birimler', false, false, false );
+elemanOlustur( 'onBellek_parametre_bologna_programCikti_turu', false, false, false );
+elemanOlustur( 'onBellek_parametre_cinsiyet', false, false, false );
+elemanOlustur( 'onBellek_parametre_degisimProgramlari', false, false, false );
+elemanOlustur( 'onBellek_parametre_derece', false, false, false );
+elemanOlustur( 'onBellek_parametre_dersTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_dil', false, false, false );
+elemanOlustur( 'onBellek_parametre_disiplinCeza', false, false, false );
+elemanOlustur( 'onBellek_parametre_disiplinSuc', false, false, false );
+elemanOlustur( 'onBellek_parametre_engelTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_evetHayir', false, false, false );
+elemanOlustur( 'onBellek_parametre_gunler', false, false, false );
+elemanOlustur( 'onBellek_parametre_haftalar', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlikDurum_mesleki', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlikDurum_turkce', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlikDurum_yabanciDil', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlikSonuc', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlikSonuc_turkce', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlik_donemler', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlik_gecmeNotu', false, false, false );
+elemanOlustur( 'onBellek_parametre_hazirlik_notSistemi', false, false, false );
+elemanOlustur( 'onBellek_parametre_il', false, false, false );
+elemanOlustur( 'onBellek_parametre_il_ilce', false, false, false );
+elemanOlustur( 'onBellek_parametre_ilce', false, false, false );
+elemanOlustur( 'onBellek_parametre_kayitSekilleri', false, false, false );
+elemanOlustur( 'onBellek_parametre_kaynak', false, false, false );
+elemanOlustur( 'onBellek_parametre_krediTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_odemeTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_ogrenci_ozelDurumlar', false, false, false );
+elemanOlustur( 'onBellek_parametre_ogretimModeli', false, false, false );
+elemanOlustur( 'onBellek_parametre_ogretimModeli_kisa', false, false, false );
+elemanOlustur( 'onBellek_parametre_personel', false, false, false );
+elemanOlustur( 'onBellek_parametre_rakam_0_9', false, false, false );
+elemanOlustur( 'onBellek_parametre_sinavTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_siniflar', false, false, false );
+elemanOlustur( 'onBellek_parametre_sorguBasari_durum', false, false, false );
+elemanOlustur( 'onBellek_parametre_tekCift', false, false, false );
+elemanOlustur( 'onBellek_parametre_telefonTuru', false, false, false );
+elemanOlustur( 'onBellek_parametre_tezli', false, false, false );
+elemanOlustur( 'onBellek_parametre_tum_yariYillar', false, false, false );
+elemanOlustur( 'onBellek_parametre_ulke', false, false, false );
+elemanOlustur( 'onBellek_parametre_ulke_en', false, false, false );
+elemanOlustur( 'onBellek_parametre_ulke_il_ilce_TR', false, false, false );
+elemanOlustur( 'onBellek_parametre_unvan', false, false, false );
+elemanOlustur( 'onBellek_parametre_unvan_gorev', false, false, false );
+elemanOlustur( 'onBellek_parametre_varYok', false, false, false );
+elemanOlustur( 'onBellek_parametre_varYok2', false, false, false );
+elemanOlustur( 'onBellek_parametre_yerleske', false, false, false );
+elemanOlustur( 'onBellek_parametre_yonetmelik', false, false, false );
+elemanOlustur( 'onBellek_parametre_yonetmelik_disiplin', false, false, false );
+elemanOlustur( 'onBellek_parametre_yonetmelik_notSistemi', false, false, false );
+}
+// --></script>
+<div id="gizliFrame_yeri" style="display:none;"></div>
+<script type="2b0c6e0cc384b4850a54585a-text/javascript"><!--
+var gosterge, tetikleyiciler = [], gizliFrame_yeri = document.getElementById( 'gizliFrame_yeri' ), _mesaj;
+
+function hazirla() {
+	gosterge = Ext.get( 'ana-yukleme-gostergesi' );
+	if ( typeof( arayuzGoster ) == 'function' ) {
+		arayuzGoster();
+		
+		Ext.each( tetikleyiciler, function(){
+			if ( Ext.isArray( this ) ) {
+				this[ 0 ].apply( this[ 1 ] );
+			} else {
+				this();
+			}
+		} );
+		gosterge.remove();
+	} else {
+		Ext.Msg.show( {
+			 title		: 'Beklenmeyen Hata!'
+			,msg		: 'Sistem Yüklenirken Bir Hata Oluştu<br />Lütfen daha sonra tekrar deneyin...'
+			,buttons	: Ext.Msg.OK
+			,fn			: function(){ document.location.href = 'http://oibs.toros.edu.tr/'; }
+			,animEl		: gosterge
+			,icon		: Ext.MessageBox.ERROR
+		} );
+	}
+	
+	if ( ___P.uygulamaURL.substr( -1, 1 ) != '?' ) ___P.uygulamaURL += '?';
+}
+
+Ext.BLANK_IMAGE_URL = 'ext/images/default/s.gif';
+
+Ext.onReady( function() {
+	Ext.QuickTips.init();
+	setTimeout( hazirla, 250 );
+} );
+
+hazirla.is = [ '1556540159.6232', '1556540159.645' ];
+//--></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="2b0c6e0cc384b4850a54585a-|49" defer=""></script></body>
+</html>

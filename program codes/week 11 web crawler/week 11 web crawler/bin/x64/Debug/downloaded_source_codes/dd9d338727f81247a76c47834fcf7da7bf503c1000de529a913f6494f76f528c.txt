@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Mahmut ARSLAN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="MESUT AKSAK">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Profil" />
+<link rel="shortcut icon" href="">
+<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+ <link rel="stylesheet" href="/personal/css/bootstrap.css">
+<link rel="stylesheet" href="/personal/css/font-awesome.min.css">
+<link rel="stylesheet" href="/personal/css/perfect-scrollbar-0.4.5.min.css">
+<link rel="stylesheet" href="/personal/css/magnific-popup.css">
+<link rel="stylesheet" href="/personal/css/style.css">
+<link id="theme-style" rel="stylesheet" href="/personal/css/styles/1.css">
+
+
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery-1.10.2.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/TweenMax.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery.touchSwipe.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/modernizr.custom.63321.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery.dropdownit.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery.stellar.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/ScrollToPlugin.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/bootstrap.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/jquery.mixitup.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/masonry.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/magnific-popup.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+<a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+<div id="sidebar">
+<div id="main-nav">
+<div id="nav-container">
+<div id="profile" class="clearfix">
+<img class="portrate hidden-xs" src="/dosya/25/resim/2017-07-26-rsz_1fotograf.jpg">
+<div class="title">
+<h2>Mahmut ARSLAN</h2>
+</div>
+</div>
+<ul id="navigation">
+<li>
+<a href="#biography">
+<div class="icon icon-user"></div>
+<div class="text">Özgeçmiş</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+
+<div id="biography" class="page home" data-pos="home">
+<div class="pageheader">
+<div class="headercontent">
+<div class="section-container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h3 class="title">Özgeçmiş</h3>
+ <p>Toros Üniversitesi Mütevelli Heyetindeki görevine 21/06/2017 tarihinde başlayan Mahmut ARSLAN; ilk, orta ve lise tahsilini Mersin’de tamamlamıştır. Boğaziçi Üniversitesi Makine Mühendisliği Bölümü’nden 1979 yılında mezun olmuştur. 1980 yılında şuanda Yönetim Kurulu Başkanlığı görevini yürüttüğü ARBEL A.Ş. firmasını kurmuştur. Mersin’de ihracata yönelik birçok yatırımı gerçekleştirmiş, yüksek oranda iş istihdamı sağlamıştır. Mahmur ARSLAN’ a ait firmalar, her yıl konusunda en fazla ihracatı yapan ve en yüksek vergi veren kuruluşlar olma özelliklerini korumaktadırlar.</p>
+<p>Son 16 yıldır Mersin Ticaret Odası Yönetim Kurulu ve Meclisi Üyelikleri, Mersin Ticaret Borsası Yönetim Kurulu ve Meclis Üyelikleri, Akdeniz İhracatçı Birliği Yönetim Kurlu Üyeliği ve Başkanlığı, İhracatı Geliştirme Merkezi (İGEME) Yönetim Kurulu Üyeliği, Türkiye Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği Yönetim Kurulu Başkanlığı görevlerini yürütmüştür. Halen merkezi Paris’te bulunan Dünya Bakliyat Konfederasyonu Yönetim Kurlu Başkan Vekilliği, İhracat Birlikleri Tohum Araştırma A.Ş. (İTAŞ) Yönetim Kurulu Başkanlığı, TİM İcra Kurulu üyeliği görevlerini yürütmektedir. Mahmut Arslan evli ve 3 çocuk babasıdır. Çok iyi derecede İngilizce bilmektedir.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay"></div>
+</div>
+</div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="2c7e9fee3d8ed02c5c2055ab-|49" defer=""></script></body>
+<script type="2c7e9fee3d8ed02c5c2055ab-text/javascript" src="/personal/js/custom.js"></script>
+</html>

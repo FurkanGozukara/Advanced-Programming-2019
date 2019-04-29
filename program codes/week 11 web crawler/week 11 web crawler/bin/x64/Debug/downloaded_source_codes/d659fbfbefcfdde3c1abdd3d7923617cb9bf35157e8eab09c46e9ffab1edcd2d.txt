@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="csrf-token" content="LaZ0yOA1VezYq4kUMFjaxPX5DrR3ZZXXgyCpTn1W">
+<title>TORMED</title>
+
+<link href="/css/app.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+        .navbar{
+            height: 100px;
+        }
+        .navbar-right{
+            padding-top: 20px ;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+<nav class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#app-navbar-collapse">
+<span class="sr-only">Toggle Navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<a class="navbar-brand" href="http://tormed.toros.edu.tr">
+<img class="" style="height: 70px" src="/img/logod.png" />
+</a>
+</div>
+<div class="collapse navbar-collapse" id="app-navbar-collapse">
+
+<ul class="nav navbar-nav">
+ 
+</ul>
+
+<ul class="nav navbar-nav navbar-right">
+
+<li><a href="http://tormed.toros.edu.tr/register">Kayıt Ol</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-offset-2">
+<div class="panel panel-default">
+<div class="panel-heading">Oturum Aç</div>
+<div class="panel-body">
+<form class="form-horizontal" role="form" method="POST" action="http://tormed.toros.edu.tr/login">
+<input type="hidden" name="_token" value="LaZ0yOA1VezYq4kUMFjaxPX5DrR3ZZXXgyCpTn1W">
+<div class="form-group">
+<label for="email" class="col-md-3 control-label">E-Mail Adresi</label>
+<div class="col-md-6">
+<input id="email" type="email" class="form-control" name="email" value="" required autofocus>
+</div>
+</div>
+<div class="form-group">
+<label for="password" class="col-md-3 control-label">Şifre</label>
+<div class="col-md-6">
+<input id="password" type="password" class="form-control" name="password" required>
+</div>
+</div>
+<div class="form-group">
+<div class="col-md-6 col-md-offset-3">
+<div class="checkbox">
+<label>
+<input type="checkbox" name="remember"> Beni Hatırla
+</label>
+</div>
+</div>
+</div>
+<div class="form-group">
+<div class="col-md-6 col-md-offset-3">
+<button type="submit" class="btn btn-primary btn-block">
+Giriş
+</button>
+</div>
+</div>
+<div class="form-group">
+<div class="text-center">
+<a class="btn btn-link" href="http://tormed.toros.edu.tr/password/reset">
+Şifrenizi mi unuttunuz ?
+</a>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script src="/js/app.js" type="02ffc73f6c42a941c10797bb-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="02ffc73f6c42a941c10797bb-|49" defer=""></script></body>
+</html>

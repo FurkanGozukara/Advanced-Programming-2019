@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Toros Üniversitesi Mezunlar Derneği</title>
+<link rel="shortcut icon" href="/img/favicon.png" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="/arena/css/swiper.min.css">
+<link rel="stylesheet" href="/arena/css/ion.tabs.css">
+<link rel="stylesheet" href="/arena/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="/arena/css/font-awesome.min.css">
+<link rel="stylesheet" href="/arena/css/elegant-icons.css">
+<link rel="stylesheet" href="/arena/css/stroke-gap-icons.css">
+
+<link rel="stylesheet" href="/arena/style-B.css">
+<script type="6919543fd193adc553e314cc-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-101011072-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+
+<div class="page-preloader-wrapper">
+<div class="page-preloader"><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span></div>
+</div>
+
+
+<header class="page-header">
+
+<div class="logo page-header__logo"><a class="logo__link" href="/"><img src="/img/logo.png" style="height: 75px;width: auto"></a></div>
+
+
+<nav class="page-header__navigation">
+
+<ul class="list-top-menu">
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/">Tanıtım</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/yonetim">Yönetim Kurulu</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/tuzuk">Tüzük</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/register">Yeni Üye</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/iletisim">İletişim</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/login">Üye Girişi</a></li>
+</ul>
+
+
+<ul class="list-side-nav">
+<li class="list-side-nav__item"><a class="list-side-nav__burger" id="js-mobile-menu-button" href="#"></a></li>
+</ul>
+
+</nav>
+
+</header>
+
+
+<section class="page-section page-section_intro-inner _background-image-1 _overlay-black js-jarallax_type_1">
+</section>
+
+
+<section class="page-section page-section_services _background-color-light">
+<header class="page-section__header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="page-section__heading">Tüzük</h2>
+</div>
+</div>
+</div>
+</header>
+<div class="page-section__content">
+<div class="container">
+<div class="row">
+<p style='text-align:center;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong><span style='font-size:19px;font-family:"Times New Roman",serif;color:#181717;'>TOROS ÜNİVERSİTESİ</span></strong></p>
+<p style='text-align:center;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong><span style='font-size:19px;font-family:"Times New Roman",serif;color:#181717;'>MEZUNLAR DERNEĞİ TÜZÜĞÜ</span></strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong><span style='font-size:19px;font-family:"Times New Roman",serif;color:#181717;'>I.BÖLÜM – KURULUŞ HÜKÜMLERİ</span></strong></p>
+<p style='text-align:left;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong><span style='font-size:19px;font-family:"Times New Roman",serif;color:#181717;'>KURULUŞ</span></strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 1 – Derneğin adı: Toros Üniversitesi Mezunlar Derneği. Derneğin kısa adı ‘TORMED’ dir. MADDE 2 – Derneğin merkezi Mersin ilindedir. Şubesi açılmayacaktır. Gerekli hallerde temsilcilikler açılması Yönetim Kurulunun yetkisindedir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>DERNEĞİN AMACI</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 3 – Dernek yasalar ile bu tüzük hükümleri uyarınca yönetilmek, amaç ve hizmet konuları doğrultusunda sosyal alanda çalışmalar yapmak üzere kurulmuştur. Derneğin amacı Toros Üniversitesinin ulusal ve uluslararası düzeyde gelişmesine, Toros Üniversitesi öğrencileri ile üyelerinin sosyal, kültürel, sportif, mesleki ve bilimsel düzeylerine katkıda bulunmak, üyeler arasında dayanışmayı arttırmak, mezunların sosyal, kültürel ve mesleki alanlarda gelişmelerine yardımcı olmak, mezunların sorunlarıyla ilgilenmek ve bu amaçlar doğrultusunda faaliyetlerde bulunmaktır. Çalışma konuları aşağıda belirtilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3.1 –Derneğe gelir sağlamak amacıyla her türlü iktisadi işletme kurup işletmek ve amaç ve çalışma konularını gerçekleştirecek kaynakları sağlamak üzere ekonomik girişimlerde bulunmak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3.2 – İstihdam geliştirecek yönde kariyer planlaması yapmak, mezunlar arasında iş ilişkilerini geliştirmek, girişimcilik konularında eğitim faaliyetlerinde bulunmak, kurslar açmak ve bunlara öncülük etmek, kariyer ve mesleki gelişime destek olmak üzere özel istihdam konularında çalışmak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<h1 style="text-align:justify;"><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3.3 – Kamu kurum ve kuruluşları ile uluslararası kurum ve kuruluşlardan destek almak, iş birliği yapmak veya kuruluşlara üye olmak.</span></h1>
+<h1 style="text-align:justify;"><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3.4 – Üyeler arasında, dostluk, arkadaşlık karşılıklı sevgi ve saygıyı etkinleştirici ve güçlendirici faaliyetlerde bulunmak, Toros Üniversitesinin etik kurallarına saygı gösterilmesini sağlamak,</span></h1>
+<h1 style="text-align:justify;"><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3.5 –Mezunların Toros Üniversitesi ve öğrencileri ile ilişkilerini artırmak ve geliştirmek, üniversitede okuyan öğrencilere burs vermek, kariyerlerinin oluşum ve gelişimine katkıda bulunup, staj olanakları sağlamak ve iş bulmada destek olmak.</span></h1>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3. 6 -<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Toros Üniversitesinin içte ve dışta etkililiğini ve saygınlığını artırıcı çalışmalar yapmak. Bu amaca uygun olarak üniversite yönetimleri ile ortak projeler geliştirmek.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3. 7 – Toros Üniversitesi öğrencilerine burs vermek, üniversitenin ihtiyaç duyduğu durumlardamali destek sağlamak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>DERNEĞİN ÇALIŞMA BİÇİMİ VE YÖNTEMLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 4 – Derneğin çalışma biçimi ve yöntemleri aşağıda belirtilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yeni üyelerin katılımını özendirir ve yasalar ile tüzük hükümleri uyarınca üye kaydeder.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Mezunlara ve topluma yararlı olacak projeler geliştirir ve uygular.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.3 – Amaç ve çalışma konularını gerçekleştirecek mali kaynakları sağlar; oluşturulacak her türlü hizmet projeleri ile çalışmaları uygular, bu amaçla spor kulüpleri, ortaklıklar, iktisadi işletmeler ve vakıf kurar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.4 – İlgili kurum ve kuruluşların izni ile konferans, sempozyum, panel, açık oturum, forum ile fuar, sergi, kermes, konser ve spor yarışmaları düzenler. Milli Eğitim Bakanlığı izni ile meslek kursları düzenleyip, sertifika verir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.5 – Dernek içinde oluşturulacak çalışma grupları ya da uzman ve danışmanlar aracılığıyla amaç ve çalışma konularında incelemeler ve araştırmalar yapar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.6 – Yerleşim yeri ile amaç ve çalışma konuları için gerekli arsa, bina, kamp, kulüp, lokal, sosyal tesisler gibi taşınmaz malları satın alır, kiralar, kiraya verir, bu amaçla her türlü inşaatı yaptırır; taşınır mallar, menkul değerler ve haklar alır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.7 – Broşür, katalog, bülten, dergi, gazete ve kitaplar yayınlar; internet, radyo ve televizyon gibi iletişim imkânlarını kullanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.8<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yurt içi ve yurt dışına her türlü geziyi düzenler.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.9 – Hediyelik, tanıtıcı ve eğitici her tür eşya yaptırır, dağıtır ve Derneğe gelir sağlamak amacıyla gerekli izinler alındıktan sonra kermesler yoluyla bu eşyaları satar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.10 – Yardım toplama kanunu ile tüzük hükümlerine uygun olarak bağış ve yardım kabul eder; bağış ve yardımda bulunur, burs verir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.11 – Amaç ve çalışmalarını gerçekleştirmek için yasalarda ön görülen diğer çalışmaları yapar, yönetmelikleri hazırlar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.12 – Derneğin amacı ile ilgisi bulunan konularda, diğer derneklerle veya vakıf, sendika vb. sivil toplum kuruluşlarıyla ortak bir amacı gerçekleştirmek için platformlar ve/veya birliktelikler oluşturur, oluşturulanlara katılabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.13 – Üyeleri arasında beşeri münasebetlerin geliştirilmesi ve devam ettirilmesi için yemekli toplantılar, konser, balo, tiyatro, sergi, spor gezi ve eğlenceli etkinlikler vb. düzenlemek veya üyelerinin bu tür etkinliklerden yararlanmalarını sağlamak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.14 – Uluslararası faaliyette bulunmak, yurt dışındaki dernek veya kuruluşlara üye olmak ve bu kuruluşlarla proje bazında ortak çalışmalar yapmak veya yardımlaşmak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.15 – Gerekli görülen yerlerde dernek faaliyetlerini yürütmek amacıyla temsilcilikler açmak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.16 – Dernek olarak, sanayimizde ara eleman eksikliğini gidermek için çalışmalarda bulunmak, istihdama yönelik eğitim ve öğretim yapılması için kuruluşlarla işbirliği yapmak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.17 – Bankalarla gerekli anlaşmaları yaparak Toros Üniversitesi öğrenci, mezun ve mensuplarına özel kredi kartı çıkartmak ve benzeri uygulamalar ile derneğe ek gelir sağlamak.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4.18 – Amacın gerçekleştirilmesi için gerek görülmesi halinde, 5072 sayılı Dernek ve Vakıflar Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri saklı kalmak üzere, kamu kurum ve kuruluşları ile görev alanlarına giren konularda ortak projeler yürütmek.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>DERNEK AMBLEMİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 5 – Lacivert kare içerisine beyaz damla formu eklenerek, alt tarafında lacivert renkte ‘’TORMED TOROS ÜNİVERSİTESİ MEZUNLAR DERNEĞİ’’ yazısı bulunan amblemdir.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>II. BÖLÜM – ÜYELİK HÜKÜMLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Üyelik Koşulları</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 6 –Derneğe üye olabilmenin koşulları aşağıda gösterilmiştir. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.1 –<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Toros Üniversitesinin herhangi bir bölümünden (ön lisans, lisans, yüksek lisans veya doktora) mezun olmak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>–  Medeni hakları kullanma ehliyetine sahip olmak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.3<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Kamu haklarından yasaklanmış bulunmamak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.4 – Yüz kızartıcı suçlardan veya Dernekler Kanunu’nun kurulmasını yasakladığı dernekleri kurmak ve yönetmek suçlarından birinden kesin hüküm giymemiş olmak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.5<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yönetim Kurulunun tespit ettiği giriş ödeneği ve Genel Kurulca belirlenen yıllık üyelik aidat ödeneği ile Dernek Tüzüğüne uymayı kabul etmek. </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Üyelik Yönetim Kurulunun kararı ile kesinleşir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6.6 – Tormed’e üye olup yeni tüzüğe göre üyelik şartları uygun olmayanların, üyelik hakları saklı kalmak kaydı ile üyelikleri devam edecektir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>ÜYELİK TÜRLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 7 – Derneğin 3 (üç) tür üyeliği vardır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>7.1 – Asil üyelik: Kuruluşundan bu yana Toros Üniversitesinin herhangi bir bölümünden (ön lisans, lisans, yüksek lisans veya doktora) mezun olanlar ile Toros Üniversitesi çalışanları derneğin asil üyesi olabilirler. Dernek üyeliğinin gerektirdiği her türlü yükümlülükleri üstlenmiş ve üyelik sorumluluğu ile haklardan yararlanan üyelerdir. Üyelerin hakları, gereken koşulları içermek kaydı ile her türlü göreve aday olmak ve oy kullanmayı; yükümlülükleri ise özel ve genel kurul toplantılarına katılmayı, aidat ve katılma paylarını zamanında ödemeyi, amaç ve çalışma koşullarına bağlı olarak çaba harcamayı ve derneğin toplum içindeki olumlu görüntüsünü sürdürme ilkelerini kapsar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>7.2 – Fahri üyelik: Toros Üniversitesi mezunu olmak şartı aranmaksızın, Türkiye Cumhuriyeti vatandaşı olan herkes üye olabilir. Fahri üyeler, organlara seçilme ve seçme haklarına sahip olmayıp, kendilerinden giriş ve yıllık üyelik aidatı alınmaz.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>7.3 – Onursal üyelik: Ülkeye, topluma, dernek amaç ve çalışma konularına belirli ve önemli hizmetleri ya da katkıları olan kişilerle, üye topluluğu arasında bulunmasında yarar görülenler Yönetim Kurulunun önerisi ve Genel Kurulun onayı ile Onursal Üye seçilebilirler. Onursal Üyeler, organlara seçilme ve seçme haklarına sahip olmayıp kendilerinden giriş ve yıllık üyelik aidatı alınmaz.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>ÜYELİK İŞLEMLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 8 – Dernek üyeliği için gereken işlemler aşağıda belirtilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>8.1 – Adayın Üyelik Formunu doldurup imzalaması ve ekleri ile birlikte Yönetim Kurulu Başkanlığına sunması,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>8.2 – Üyelik Formunun Yönetim Kurulu Başkanlığınca alındığı tarihi izleyen en geç otuz (30) gün içinde gerekli araştırma ve incelemenin yapılarak isteğin kabul ya da reddedildiğine ilişkin cevabın verilmesi, üyeliğe kabulü bildiren yazı ile on beş (15) gün içinde üyelik yükümlülüklerinin yerine getirilmesinin istenmesi,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>8.3 – Adayın dernek üyeliğine kabul edilmesi üzerine kayıt işlemleri yapılır. Giriş aidatının tamamı ile yıllık aidatın tamamı alınır. Bu işlemler yapılmadıkça Dernek üyeliği kazanılamaz.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>ÜYELİKTEN AYRILMA</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 9 – Üyelik, ölüm veya üyelikten ayrılma talebiyle sona erer. Her üye dilediği anda Yönetim Kurulu Başkanlığına yazılı olarak ayrılma isteğini bildirmekle üyelikten ayrılmış sayılır. Ancak bu üyelerin mali sorumlulukları, yasal nedenlerle ayrılanların, yasal nedenin oluşum tarihinde, diğerlerinin ise ayrılma talebinin yapıldığı hesap döneminin sonunda biter ve kendilerinden o dönemin ödenti ve yararlanma payları tam olarak alınır. Üyenin tüm aidat ve katılma payı borçları ödenmediği takdirde Yönetim Kurulu yasal yollara başvurabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>ÜYELİKTEN ÇIKARILMA, ÇIKARILMAYA İLİŞKİN İŞLEMLER VE İTİRAZ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 10 – Aşağıda belirtilen durumlardan birinin saptanması halinde asil, fahri veya onursal üyelikten çıkarılma kararı Yönetim Kurulunca alınır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.1 –Yönetim Kurulunca kendilerine yapılan iki yazılı uyarıya rağmen bir sebep göstermeksizin iki yıllık aidatını ödememek</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul ve Yönetim Kurulu Kararlarına uymamak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.3<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek amaçlarının gerçekleştirilmesini ve çalışmalarının yürütülmesini zorlaştırmak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.4<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yetkisi olmaksızın Derneği sorumluluk altına sokmak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.5<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek yönetmeliklerine aykırı davranmak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>10.6<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Türkiye Cumhuriyeti mahkemelerinde yüz kızartıcı suçlarla ilgili adli kaydı bulunmak. </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 11 – Üyelikten çıkarılmaya ilişkin işlemler aşağıda belirtilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>11.1 –Yönetim Kurulu, kuracağı bir Disiplin Komisyonu aracılığı ile üye hakkında gereken araştırma ve incelemeyi yaptırıp üyenin de savunmasını aldırdıktan sonra, Yönetim Kurulunca üçte iki (2/3) çoğunluk oyu ile hakkında üyelikten süresiz çıkarma kararı alır ve sonucu üyeye yazılı olarak bildirir.<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>11.2 – Çıkarılan üye, kendisine bildirilen karara karşı bildirim tarihinden başlamak üzere on beş (15) gün içinde Yönetim Kurulu aracılığı ile Genel Kurula itiraz edebilir. İtiraz ilk Genel Kurul toplantısında görüşülür ve karara bağlanır. İtirazın karara bağlanmasına kadar, üyenin hak ve sorumlulukları devam eder. Üyenin süresinde itiraz etmemesi ya da itirazın Genel Kurulda kabul edilmesi durumunda Yönetim Kurulu üyenin kaydını siler ve kaydı silinen üye,Dernek malvarlığından hak iddia edemez. Ölen üyenin dışında çıkarılan üyenin tüm aidat ve katılma payı borçları ödenmediği takdirde Yönetim Kurulu yasal yollara başvurabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>III. BÖLÜM – YÖNETİM HÜKÜMLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>DERNEĞİN ORGAN VE GÖREVLERİ</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 12 – Derneğin organları aşağıda gösterilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>12.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>12.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yönetim Kurulu</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>12.3<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Denetim Kurulu</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Genel Kurul</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 13 –<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Genel Kurul üç (3) yılda bir olağan olarak Mayıs ayının ilk haftasında toplanır ve asil üyelerin yarıdan bir fazlasının katılması ile Dernek merkezinin bulunduğu yerde çalışmalarına başlar.  </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Genel Kurul Çalışma Yöntemleri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 14 –<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Genel Kurulun toplantıya çağırılmasında aşağıda gösterilen yöntemler uygulanır.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>14.1 –Yönetim Kurulu, Dernek Asil Üyeleri Çizelgesini saptar ve tüm aidat borçlarının ödenmesi için borçlu üyelere uyarıda bulunur. Borçları bulunan üyeler, toplantı günü dâhil borçlarını ödemedikleri takdirde Genel Kurul toplantısına katılamazlar, seçme ve seçilme hakkına sahip olamazlar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>14.2 – Genel Kurula katılacak asil üyelere, en az on beş (15) gün önceden yapılacak toplantının ve bu toplantıda yeterli çoğunluk sağlanamadığı takdirde düzenlenecek ikinci toplantının tarihi, saati, yeri ve gündemi bir gazetede ilan edilerek, yazılı ya da elektronik posta yolu ile bildirilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>14.3 – İkinci toplantı yeterli çoğunluk aranmaksızın katılan üyelerle açılır ve Genel Kurul çalışmalarına başlar. Ancak katılan asil üye sayısıYönetim ve Denetim Kurulları üye sayısı toplamının iki katından aşağı olamaz. İki toplantı tarihi arasındaki süre yedi günden az, altmış günden fazla olamaz.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>14.4 – Toplantının çoğunluk sağlanamaması dışında başka bir nedenle ertelenmesi halinde, ertelenme sebebi de belirtilmek suretiyle ilk toplantı için yapılan çağrı usulüne uygun olarak üyelere duyurulur. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Ertelenen toplantının, ertelenme tarihinden itibaren en geç altı ay içinde yapılması zorunludur.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>14.5<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul toplantısı bir defadan fazla ertelenemez.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Genel Kurul Toplantı İlkeleri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 15 – Genel Kurul toplantılarında aşağıda gösterilen ilkeler uygulanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>15.1 – Genel Kurula katılacak üyeler, Yönetim Kurulunca düzenlenen “Genel Kurul Üye Çizelgesi”ndeki adları karşısına imza atmak suretiyle toplantıya girebilirler.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>15.2 – Genel Kurul, Sekreterin çoğunluğun sağlandığını belirten tutanağı okumasından sonra Dernek Başkanı ya da Başkan Yardımcısı tarafından açılır ve Genel Kurulu yönetmek üzere oluşturulacak Divana bir başkan, bir başkan yardımcısı, iki yazman oy çokluğuyla ve açık oyla seçilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>15.3 – Genel Kurul olağan toplantısında gündemi Yönetim Kurulu tespit eder. Mevcut üyelerin en az onda birinin Genel Kurul Başkanlığına yazılı isteği üzerine gündeme madde eklenir. Genel Kurul olağan toplantısında gündemdeki sıraya uyulur. Ancak, Genel Kurul salt çoğunlukla gündem maddelerinin sırasında değişiklik yapabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>15.4<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Her üyenin Genel Kurulda bir oy hakkı olup, oyunu kendisi kullanmak zorundadır.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>15.5 – Genel Kurulda karar yeter sayısı Genel Kurula katılanların yarıdan bir fazlasıdır. Ancak tüzük değişikliği ile tasfiyeye ilişkin kararlarda ilgili maddelerdeki yeter sayılar aranır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Olağanüstü Genel Kurul</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 16 – Olağanüstü Genel Kurul, olağan Genel Kurul toplantısına kadar beklenilmesinin zarar doğuracak ya da bir an önce görüşülmesinde yarar sağlayacak önemli ve zorunlu konularda, aşağıda gösterilen başvuru ve kararlar uyarınca Yönetim Kurulu tarafından en geç bir ay içinde toplantıya çağırılır. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>16.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek üye sayısının beşte birinin belirtilmiş aynı konu için yapacakları yazılı ve imzalı başvuru,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>16.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Yönetim Kurulunun, gerek gördüğü konularda üçte iki oy çoğunluğu ile alacağı karar,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>16.3<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Denetleme Kurulunun Dernek hesap ve işlemleri ile bütçe konusunda oybirliğiyle alacağı karar,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Olağanüstü Genel Kurul toplantısı olağan Genel Kurul toplantısındaki yöntem ve ilkelere göre yapılır ve Olağanüstü Genel Kurul toplantısında yalnız gündemde yer alan maddeler görüşülür. Ancak toplantıda hazır bulunan üyelerin en az onda biri tarafından görüşülmesi yazılı olarak istenen konuların gündeme alınması zorunludur.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Genel Kurulun Görev ve Yetkileri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 17 – Genel Kurul, Derneğin en yetkili karar organı olup, görev ve yetkileri aşağıda belirtilmiştir;</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek Tüzüğü hükümleri doğrultusunda gerekli kararları almak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.2 – Çalışma Dönemi, Çalışma Programı ile Yıllık Bütçe Yönetmeliği, Gelir ve Gider Çizelgelerini görüşüp onaylamak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.3 – Çalışma Dönemi Yönetim ve Denetleme Kurulu asil ve yedek üyelerini gizli oyla liste esasına göre seçmek,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.4 – Geçen Çalışma Dönemine İlişkin Yönetim Kurulu Çalışma Raporu ile Bilanço ve Gelir – Gider Çizelgelerini; Denetleme Kurulunun Denetim Raporunu görüşüp onaylamak ve Yönetim Kurulu üyelerini aklamak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.5<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek Tüzüğünün değiştirilmesine ilişkin Yönetim Kurulu tasarısını görüşüp karara bağlamak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.6<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>–Yönetim Kurulunun onaya sunduğu yönetmelikler hakkında karar almak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.7 – Dernek üyeliğinden çıkarılanların, Yönetim Kurulu kararlarına karşı sürelerinde yapılan itirazlarını karara bağlamak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.8<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Derneğe taşınmaz mal alınması ya da satılması konularında Yönetim Kuruluna yetki vermek, </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.9 – Derneğin uluslararası çalışmalar yapması, yurt dışındaki kuruluşlara katılması ya da bunlarla işbirliğinde bulunması için Yönetim Kurulunun yaptığı öneriler hakkında kararlar almak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.10<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Derneğin dağılmasına ve malvarlığının dağıtılmasına karar vermek, </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.11<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>–Dernek temsilciliklerinin açılmasına veya kapanmasına karar vermek,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>17.12<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>–Gerekli diğer konularda karar vermek.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Yönetim Kurulu</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 18 – Derneğin yetkili yönetim organı olan Yönetim Kurulunun oluşum biçimi aşağıda belirtilmiştir:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>18.1-<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Yönetim Kurulu, üç (3) yıllık süre için seçilmiş yedi asil ve yedi yedek üyeden oluşur.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>18.2- Yedek üyeler, boşalan asil üyeliklerin yerlerini alırlar. Yönetim Kurulu üye sayısı, boşalmalar nedeniyle yedeklerin de getirilmesinden sonra, üye tamsayısının yarısından aşağı düşerse yeniden seçim için Genel Kurul bir ay içinde olağanüstü toplantıya çağırılır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Yönetim Kurulunun Çalışma İlkeleri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 19 –Yönetim Kurulunun çalışma ilkeleri aşağıda belirtilmiştir:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>19.1 –Yönetim Kurulu seçimini izleyen altı gün içinde düzenleyeceği ilk toplantısında bir Başkan, bir Başkan Yardımcısı, bir Genel Sekreter ve bir Genel Sayman seçerek görev paylaşımı yapar.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>19.2 –Yönetim Kurulu her ay olağan olarak toplanır. Bütün üyelerin haberdar edilmesi şartıyla her zaman toplantıya çağrılabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>19.3 – Yönetim Kurulunun toplantı yeter sayısı, üye tam sayısının yarıdan bir fazlası ve karar sayısı katılanların salt çoğunluğudur.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Yönetim Kurulunun Görev ve Yetkileri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 20 –Yönetim Kurulunun görev ve yetkileri aşağıda belirtilmiştir:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul kararlarını uygulamak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Derneği, Dernek Başkanı aracılığı ile temsil etmek ya da gerektiğinde diğer üyelere yetki vermek, </p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.3 – Çalışma Dönemi Çalışma Programı ile Bütçe Yönetmeliği, Gelir-Gider Çizelgelerini hazırlamak ve uygulamak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.4<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Gerçekleştirilen Çalışma Dönemi Raporu ile Bilanço ve Gelir-Gider Çizelgelerini hazırlamak, 20.5 – Dernek Başkanının önerisi ve oluşturulacak Disiplin Komisyonunun araştırma raporu üzerine, üyelik nitelik ve koşullarını yitiren, amaç ve çalışma konularından uzaklaşan, Tüzük Hükümleri ve Genel Kurul kararlarına aykırı hareket eden üyelerin çıkarılmasına; aykırı söz ve eylemlerinden ötürü üyelerin Disiplin Yönetmeliği hükümlerine göre cezalandırılmalarına karar vermek,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.6<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul toplantılarının tarihini, saatini, yerini ve gündemini saptamak, üyelere duyurmak, 21.7 – Yönetim ile çalışma konuları doğrultusunda görev yapacak komisyonlar kurmak ve raporları hakkında karar almak,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.8 – Derneğin yönetsel ve mali işlerini yönetecek personeli ile danışmanları atamak ve gerektiğinde işlerine son vermek,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.9 – Dernek Tüzüğünün değiştirilmesi ile yönetmeliklerin hazırlanması ve değiştirilmesine ilişkin çalışmalar yapıp gereken tasarıları Genel Kurulun onayına sunmak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.10 – Genel Kurulun karar vermesi halinde temsilcilik açmak ile ortaklık, iktisadi işletme, kooperatif, sandık ve vakıf kurmak ya da kurulmuş ya da kurulacaklarla ilgili yasal işlemleri yapmak,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.11<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurul toplantılarında alınan kararları üyelere ve ilgili yerlere bildirmek,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>20.12 – Önceki Yönetim Kurulundan, görevi ve bilanço gereği malvarlığını teslim almak ve sonraki Yönetim Kuruluna teslim etmek.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Denetleme Kurulu ve İç Denetim</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 21 – Denetleme Kurulu, Dernek içi denetim görevini yerine getirmekle sorumludur. Bu maksatla kurulacak Denetleme Kurulunun oluşumu ve çalışma ilkeleri ile ilgili hükümler aşağıdadır:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Denetleme Kurulu,</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>21.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Genel Kurulda gizli oyla üç (3) yıl için seçilen üç asil ve üç yedek üyeden oluşur.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>21.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Seçimi izleyen altı gün içinde yapacağı ilk toplantıda bir Başkan ve bir Sözcü seçer.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>21.3<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Bir yılı geçmeyen aralıklarla toplanır. Toplantı ve karar yeter sayısı ikidir.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>21.4 – Dernekte iç denetim esastır. Genel Kurul, Yönetim Kurulu veya Denetim Kurulu tarafından iç denetim yapılabileceği gibi, bağımsız denetim kuruluşlarına da denetim yaptırılabilir. Genel Kurul, Yönetim Kurulu veya bağımsız denetim kuruluşlarınca denetim yapılmış olması, Denetim Kurulunun yükümlülüğünü ortadan kaldırmaz.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>21.5 –<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>Derneğin tüzüğünde gösterilen amaç ve amacın gerçekleştirilmesi için sürdürüleceği belirtilen çalışma konuları doğrultusunda faaliyet gösterip göstermediğini, defter, hesap ve kayıtların mevzuata ve dernek tüzüğüne uygun olarak tutulup tutulmadığını, dernek tüzüğünde tespit edilen esas ve usullere göre bir yılı geçmeyen aralıklarla denetler ve denetim sonuçlarını bir rapor  halinde Yönetim Kuruluna ve toplandığında Genel Kurula sunar. Denetim Kurulu üyelerinin istemi üzerine, her türlü bilgi, belge ve kayıtların, dernek yetkilileri tarafından gösterilmesi veya verilmesi, yönetim yerleri, müesseseler ve eklentilerine girme isteğinin yerine getirilmesi zorunludur.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Ortak Hükümler</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 22 –Yönetim ve Denetleme Kurulu üyeleri, bir yıl içerisinde düzenlenen toplantıların yarısından fazlasına katılmadıkları takdirde kurul üyelikleri sona erer. Herhangi bir nedenle Kurulundan ayrılan üyenin yerine, ilk sırada bulunan yedek üye, bir hafta içinde asil üyeliğe çağırılır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>IV. BÖLÜM – MALİ HÜKÜMLER</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Çalışma Dönemi ve Bütçe Uygulaması</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 23 – Derneğin bütçesi, Yıllık bütçe yönetmeliği ile Gelir-Gider çizelgelerinden oluşur. Bütçenin yürürlüğe girdiği 1 Ocak tarihi ile onaylandığı Genel Kurul tarihi arasındaki süre içinde yapılacak gider ve harcamalar bir önceki bütçenin giderler çizelgesindeki aynı süreye ilişkin giderler tutarını aşamaz. Yıllık bütçe yönetmeliğinde, harcama yetkileri ve yetkilileri, gelirlerin alınma biçimleri, gider ve harcanmaya ilişkin belgeler kasada kalacak para tutarı bölüm ve maddelere aktarma yetkileri gibi konular gösterilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Derneğin gelir kaynakları, giriş ve yıllık üyelik aidatların belirlenme şekli ve derneğin borçlanma usulleri </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 24 – Derneğin gelirleri aşağıda gösterilmiştir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Her yıl Yönetim Kurulunca belirlenecek giriş aidatı ve yıllık aidat,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.2 – Her çalışma dönemi bütçesinde belirtilen, üyelere ve diğer kişilere sunulacak hizmetler karşılığı alınacak yararlanma payı,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.3 – Dernek taşınır ve taşınmaz malları ile haklarının işletilmesinden ya da kiraya verilmesinden sağlanan gelirler ile taşınır değer gelirleri,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.4 – Her türlü yayın ve piyango satışları ile toplantı, temsil, festival, yarış, gösteri ve benzeri düzenlemelerde elde edilen gelirler,</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.5<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Her türlü bağış, vasiyet ve yardımlar,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.6<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Ortaklıklar, şirketler, kooperatifler, sandıklar, lokaller ve iktisadi işletmelerden sağlanacak gelirler,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.7<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Dernek malvarlığından elde edilecek gelirler,</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>24.8<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Diğer gelirler.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 25 – Derneğin Borçlanma Usulleri</span></p>
+<h1 style="text-align:justify;"><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>25.1 – Dernek, kişi veya kurumlara borçlanabilir. Ancak, ne amaçla, ne kadar borçlanılacağı ve geri ödeme koşullarının nasıl olacağı vb. konuların Genel Kurulda görüşülerek kabul edilmesi ve Yönetim Kuruluna yetki verilmesi gereklidir.</span></h1>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Gelir-Gider Uygulamalarında Yöntemler</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 26 – Derneğin gelir-gider uygulamalarında aşağıda gösterilen yöntemler uygulanır:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>26.1 – Giriş aidatının tamamı üyelik işlemleri sırasında; yıllık aidat, yıllık bütçede belirtilen yöntem ve zamanlarda tahsil edilir. Üyelerden giriş aidatı olarak 10 TL (On Türk Lirası), yıllık aidat olarak da 60 TL ( Altmış Türk Lirası) alınır. Bu miktarYönetim Kurulunca arttırılıp azaltılabilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>26.2 – Giriş aidatı, yıllık aidat ve yararlanma payı ödenmesindeki gecikmeler için yasal faiz ya da kademeli artış uygulamasına Yönetim Kurulu yetkilidir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>26.3 – Dernek gelirleri alındı belgesi ile toplanır ve giderler harcama belgesi ile yapılır. Dernek gelirlerinin bankalar aracılığı ile toplanması halinde banka tarafından düzenlenen dekont veya hesap özeti gibi belgeler alındı belgesi yerine geçer. Alındı belgeleri ve harcama belgelerinin saklama süresi beş yıldır. Dernek gelirlerinin toplanmasında kullanılacak alındı belgeleri yönetim kurulu kararı ile bastırılır. Dernek gelirlerini toplayacak kişiler Yönetim Kurulu kararıyla belirlenir ve bunlar adına yetki belgesi düzenlenir. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>26.4 – Giderlere ilişkin harcamalarda fatura, makbuz veya gider pusulası alınır. Belirtilen belgelerin sağlanamadığı ödemelerde Harcama Belgesi düzenlenir ve ödemeyi yapan tarafından imzalanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>26.5 – Alındı Belgesi ile fatura, makbuz, gider pusulası ve harcama belgelerinin saklanma süresi, beş yıldır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>V.BÖLÜM – GENEL HÜKÜMLER</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Tüzük Değişikliği</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 27 – Dernek tüzüğü Genel Kurul kararı ile değiştirilebilir. İlk toplantıda tüzük değişikliği yapılabilmesi için üyelerin üçte ikisinin katılımı ve kabulü şarttır. İkinci toplantıda bu çoğunluk aranmaz; ancak toplantıya katılanlar Yönetim ve Denetim Kurulu’nun iki katından az olamaz. Ayrıca tüzüğün değiştirilme ve Yönetmeliğin onaylanmasına ilişkin Genel Kurul kararları, toplantıya katılanların üçte iki çoğunluğu ile alınır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Derneğin Feshi ve Tasfiye İşlemleri</strong></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 28 – Genel Kurul, her zaman derneğin feshine karar verebilir. Genel Kurulda fesih konusunun görüşülebilmesi için Genel Kurula katılma ve oy kullanma hakkı bulunan üyelerin üçte iki çoğunluğu aranır. Çoğunluğun sağlanamaması sebebiyle toplantının ertelenmesi durumunda ikinci toplantıda çoğunluk aranmaz. Ancak, bu toplantıya katılan üye sayısı, yönetim ve denetim kurulları üye tam sayısının iki katından az olamaz. Fesih hakkındaki kararlar, hazır bulunan üyelerin üçte iki çoğunluğu ile alınır. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Derneğin para, mal ve haklarının tasfiyesi aşağıda belirtilen esaslara göre yapılır:</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>28.1<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>– Tasfiyenin dernek tüzüğünde gösterilen esaslara göre yapılması:</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Derneğin para, mal ve haklarının devri, son Yönetim Kurulu üyelerinden oluşan Tasfiye Kurulunca yapılır. Bu işlemlere, feshe ilişkin Genel Kurul kararının alındığı veya kendiliğinden sona erme halinin kesinleştiği tarihten itibaren başlanır. Tasfiye süresi içinde bütün işlemlerde dernek adında ” Tasfiye Halinde Toros Üniversitesi Mezunlar Derneği” ibaresi kullanılır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Tasfiye Kurulu, önce derneğin hesaplarını inceler. İnceleme esnasında Derneğe ait defterler, alındı belgeleri, harcama belgeleri, tapu ve banka kayıtları ile diğer belgelerinin tespiti yapılarak varlık ve yükümlülükleri bir tutanağa bağlanır. Tasfiye işlemleri sırasında varsa Derneğin alacaklılarına çağrıda bulunulur ve varsa malları paraya çevrilerek alacaklılara ödenir. Derneğinalacaklı olması durumunda borçlulardan alacaklar tahsil edilir. Alacakların tahsil edilmesi ve borçların ödenmesinden sonra kalan para ve mallar hazineye devredilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Derneğin para, mal ve haklarının tasfiye ve intikal işlemlerinin tamamlanmasını müteakip Tasfiye Kurulu tarafından durumun yedi gün içinde bir yazı ile Dernek merkezinin bulunduğu yerin mülki idare amirliğine bildirilmesi ve bu yazıya tasfiye tutanağının da eklenmesi zorunludur.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Tasfiyeye ilişkin tüm işlemler tasfiye tutanağında gösterilir ve tasfiye işlemleri, mülki idare amirliklerince haklı bir nedene dayanılarak verilen ek süreler hariç üç ay içinde tamamlanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Derneğin defter ve belgelerini Tasfiye Kurulu sıfatıyla son Yönetim Kurulu üyeleri saklamakla görevlidir. Bu görev, bir yönetim kurulu üyesine de verilebilir. Bu defter ve belgelerin saklanma süresi beş yıldır. </span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>28.2<span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>  </span>–  Tasfiyenin mahkeme kararı ile yapılması:</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Tüzükte tasfiyenin ne şekilde yapılacağının Genel Kurul kararına bırakıldığı hallerde, genel kurul tarafından bir karar alınmamış veya Genel Kurul toplanamamış veya son Yönetim Kuruluna yapılan tebligata rağmen tasfiye işlemleri yapılmamışsa yahut Dernek mahkeme kararı ile feshedilmişse, derneğin bütün para, mal ve hakları Toros Üniversitesi’ne devredilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Bu durumda derneğin para, mal ve haklarının tasfiyesi mahkeme kararında belirtilen esaslara göre yapılır ve tasfiyenin tamamlanmasını müteakip, durum ilgili mülki idare amirliğine bildirilir.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Hüküm Eksikliği</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 29 – Bu tüzükte belirtilmemiş hususlarda Dernek Kanunu, Türk Medeni Kanunu ve bu kanunlara atfen çıkarılmış olan Dernekler Yönetmeliği ve ilgili diğer mevzuatın dernekler hakkındaki hükümleri uygulanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Yönetmelikler</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>MADDE 30 – Dernek tüzüğü hükümleri,Yönetim Kurulu’nun hazırlayacağı ve uygulamaya sokacağı yönetmelik hükümleri ile birlikte uygulanır.</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><strong>Geçici Madde1-</strong>İlk genel kurulda dernek organları oluşturana kadar derneği temsil edecek ve dernekle ilgili iş ve işlemleri yürütecek olan geçici yönetim kurulu üyeleri aşağıda belirtilmiştir.</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>Geçici Yönetim Kurulu Üyelerinin;</span></p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>
+<br>
+</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>1-</span>ORHAN KARAKAPLAN                          BAŞKAN</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>2-</span>İBRAHİM ÖZGÜR KUTLAY                   BAŞKAN YARDIMCISI</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>3-</span>ERGİN ÇABUK                                         SAYMAN</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>4-</span>HAYRİ CAN BARÇIN                              SEKRETER</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>5-</span>OZAN KAPLAN                                        ÜYE</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>6-</span>BERKCAN GÜCER                                   ÜYE</p>
+<p style='text-align:justify;font-size:16px;font-family:"Times New Roman",serif;color:#181717;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:#181717;'>7-</span>KEMAL AKGÜL                                        ÜYE</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer class="page-footer">
+<a class="button-to-top" id="js-button-to-top" href="#"></a>
+
+
+<div class="page-footer__content">
+
+</div>
+
+
+<div class="page-footer__copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><small class="copyright-text">©2019 Toros Üniversitesi Mezunlar Derneği<span></span> Tüm Hakları Saklıdır</small></div>
+</div>
+</div>
+</div>
+
+</footer>
+
+
+<script src="/arena/js/modernizr.custom.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/imagesloaded.pkgd.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.waypoints.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.counterup.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.easing.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.easeScroll.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/swiper.jquery.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/masonry.pkgd.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/isotope.pkgd.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jarallax.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/jquery.equalheights.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/ion.tabs.min.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/maplace.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3gFKhVywUkygSxQEBdGVrI5-ZRrdjueA" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="/arena/js/common.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+
+<script src="/arena/js/scripts-B.js" type="6919543fd193adc553e314cc-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="6919543fd193adc553e314cc-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,855 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<title>Anasayfa</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,600&subset=latin-ext" rel="stylesheet">
+<link href="/Content/Arayuz/font/1/stylesheet.css" rel="stylesheet" />
+<link href="/Content/Arayuz/plugin/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="/Content/Arayuz/plugin/bootstrap-3.3.7/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/Content/Arayuz/css/layout.css" rel="stylesheet" />
+<link href="/Content/Arayuz/plugin/PgwSlider-master/pgwslider.css" rel="stylesheet" />
+<link href="/Content/Arayuz/css/cms.css" rel="stylesheet" />
+<link href="/Content/Arayuz/css/mapy.css" rel="stylesheet" />
+<link href="/Content/Arayuz/css/responsive.css" rel="stylesheet" />
+<link rel="shortcut icon" href="/Content/Arayuz/favicon.ico">
+<link href="/Content/Sistem/OwlCarousel2-2.2.1 (1)/OwlCarousel2-2.2.1/dist/assets/owl.carousel.min.css" rel="stylesheet" />
+<link href="/Content/Sistem/OwlCarousel2-2.2.1 (1)/OwlCarousel2-2.2.1/dist/assets/owl.theme.default.min.css" rel="stylesheet" />
+<style>
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black;
+        }
+
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 120px;
+                background-color: black;
+                color: #fff;
+                text-align: center;
+                border-radius: 6px;
+                padding: 5px 0;
+                position: absolute;
+                z-index: 1;
+                top: -5px;
+                left: 110%;
+            }
+
+                .tooltip .tooltiptext::after {
+                    content: "";
+                    position: absolute;
+                    top: 50%;
+                    right: 100%;
+                    margin-top: -5px;
+                    border-width: 5px;
+                    border-style: solid;
+                    border-color: transparent black transparent transparent;
+                }
+
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+            }
+
+        #u185:hover + #c1 {
+            transition: 1s;
+            display: block;
+        }
+
+        #c1 {
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 35%;
+        }
+
+        #u316:hover + #c2 {
+            transition: 1s;
+            display: block !important;
+        }
+
+        #c2 {
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 35%;
+        }
+
+        #u433:hover + #c3 {
+            transition: 1s;
+            display: block !important;
+        }
+
+        #c3 {
+            top: 28%;
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 35%;
+        }
+
+        #u355:hover + #c4 {
+            transition: 1s;
+            display: block !important;
+        }
+
+        #c4 {
+            top: 33%;
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 37%;
+        }
+
+        #u455:hover + #c5 {
+            transition: 1s;
+            display: block !important;
+        }
+
+        #c5 {
+            top: 60%;
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 35%;
+        }
+
+        #u565:hover + #c6 {
+            transition: 1s;
+            display: block !important;
+        }
+
+        #c6 {
+            top: 65%;
+            transition: 1s;
+            display: none;
+            width: 25%;
+            position: absolute;
+            left: 36%;
+        }
+
+        .block {
+            cursor: pointer;
+        }
+
+        .cube {
+            margin: 30px auto;
+            position: relative;
+            height: 300px;
+            text-shadow: 1px 1px 1px #383737;
+            color: #FFF;
+            text-align: center;
+        }
+
+            .cube h1 {
+                font-size: 30px;
+                font-weight: bold;
+                line-height: 98px;
+                margin: 0;
+                padding: 0;
+            }
+
+            .cube h2 {
+                font-size: 21px;
+                font-weight: bold;
+                margin: 0;
+                padding: 16px 0 2px;
+            }
+
+            .cube p {
+                font-size: 13px;
+                padding: 5px 10px;
+                margin: 0;
+            }
+
+        .default-state, .active-state {
+            height: 300px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            transition: transform 0.4s ease;
+            transform-origin: center center -50px;
+            -webkit-transform-origin: center center -50px;
+            width: 100%;
+        }
+
+        .default-state {
+            padding-top: 33%;
+            background-color: #bc9c62;
+            transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+        }
+
+        .active-state {
+            display: table;
+            height: 100%;
+            background: #092644;
+            transform: rotateX(-90deg) rotateY(0deg) rotateZ(0deg);
+        }
+
+            .active-state p {
+                display: table-cell;
+                height: 100%;
+                vertical-align: middle;
+                text-align: center;
+            }
+
+        .cube:hover .default-state {
+            transform: rotateX(90deg) rotateY(0) rotateZ(0deg);
+        }
+
+        .cube:hover .active-state {
+            z-index: 99999;
+            transform: rotateX(0deg) rotateY(0deg) rotateZ(0);
+        }
+
+        #kolon ul {
+            list-style-type: none;
+            -webkit-padding-start: 0;
+        }
+    </style>
+<style>
+        .dropdown-submenu {
+            position: relative;
+        }
+
+            .dropdown-submenu > .dropdown-menu {
+                top: 0;
+                left: 100%;
+                margin-top: -1px;
+                margin-left: -1px;
+                -webkit-border-radius: 0 6px 6px 6px;
+                -moz-border-radius: 0 6px 6px;
+                border-radius: 0 6px 6px 6px;
+            }
+
+            .dropdown-submenu:hover > .dropdown-menu {
+                display: block;
+            }
+
+            .dropdown-submenu > a:after {
+                display: block;
+                content: " ";
+                float: right;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #ccc;
+                margin-top: 5px;
+                margin-right: -10px;
+            }
+
+            .dropdown-submenu:hover > a:after {
+                border-left-color: #fff;
+            }
+
+            .dropdown-submenu.pull-left {
+                float: none;
+            }
+
+                .dropdown-submenu.pull-left > .dropdown-menu {
+                    left: -100%;
+                    margin-left: 10px;
+                    -webkit-border-radius: 6px 0 6px 6px;
+                    -moz-border-radius: 6px 0 6px 6px;
+                    border-radius: 6px 0 6px 6px;
+                }
+
+        .dropdown:hover .a {
+            display: block;
+            transition: 1s;
+        }
+    </style>
+</head>
+<body>
+<section class="header">
+<div class="container-fluid" id="ust1">
+<div class="row">
+<div class="container">
+<div class="col-md-6">
+<ul class="list-inline pull-left" style="margin-top:1%;"></ul>
+</div>
+<div class="col-md-6">
+<ul class="list-inline pull-right" style="    padding-top: 4px;">
+<li>
+<i class="fa fa-phone">
+</i>0(324) 325 33 00
+</li>
+<li>
+<i class="fa  fa-envelope-o">
+</i>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="12767b617b7e7b61797b7e776052667d607d613c7776673c6660">[email protected]</a>
+</li>
+<li><a href="/Language/Change/1"><img class="langicon" src="/Content/Sistem/language/tr-TR.png" alt="Türkçe" /></a></li>
+<li><a href="/Language/Change/2"><img class="langicon" src="/Content/Sistem/language/en-US.png" alt="English" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="ust2">
+<div class="col-md-4">
+<div class="row">
+<a href="/">
+<div class="col-md-3">
+<img src="/Content/Arayuz/img/toros-logo.png" />
+</div>
+<div class="col-md-9">
+<h3 id="logo-yazi">
+TOROS ÜNİVERSİTESİ<br />
+<span style="font-size:20px;">
+DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ
+</span>
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-8" id="ust-menu">
+<ul class="list-inline">
+<li><a href="http://www.toros.edu.tr/">TOROS HAKKINDA </a></li>
+<li><a href="http://www.toros.edu.tr/">AKADEMİK</a></li>
+<li><a href="http://www.toros.edu.tr/">İDARİ BİRİMLER</a></li>
+<li><a href="http://www.toros.edu.tr/">ÖĞRENCİ</a></li>
+<li><a href="http://www.toros.edu.tr/">667 KHK ÖĞRENCİLER</a></li>
+<li><a href="http://www.toros.edu.tr/">İLETİŞİM</a></li>
+</ul>
+</div>
+</div>
+<div class="container-fluid" id="ana-menu-bg">
+<div class="row">
+<div class="container" id="ana-menu">
+<nav class="navbar navbar-inverse">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+<li class="active"><a href="/">ANASAYFA</a></li>
+<li class="dropdown as">
+<a class=" dropdown-toggle" data-toggle="dropdown" href="#">
+HAKKIMIZDA
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu a">
+<li class=""><a href="/makale/erasmus-yonergesi-1076">Erasmus Yönergesi</a></li>
+<li class=""><a href="/makale/bolum-koordinatorler-listesi-1077">Bölüm Koordinatöler Listesi</a></li>
+<li class=""><a href="/ikilianlasma">İkili Anlaşmalar</a></li>
+<li class=""><a href="/makale/toros-universitesi-1">Toros Üniversitesi</a></li>
+<li class=""><a href="/makale/vizyon-misyon-1061">Vizyon & Misyon</a></li>
+</ul>
+</li>
+<li class="dropdown as">
+<a class=" dropdown-toggle" data-toggle="dropdown" href="#">
+Erasmus +
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu a">
+<li class=""><a href="/makale/erasmus-nedir-55">Erasmus Nedir ?</a></li>
+<li class=""><a href="/makale/sikca-sorulan-sorular-3093">Sıkça Sorulan Sorular</a></li>
+<li class=""><a href="/makale/erasmus-charter-54">Erasmus Charter</a></li>
+<li class=""><a href="/makale/erasmus-policy-statements-20">Erasmus Policy Statements</a></li>
+<li class=""><a href="/makale/erasmus-genel-yapi-21">Erasmus+ Genel Yapı</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">Ana Eylemler </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/ana-eylem-1-22">Main Action 1</a></li>
+<li class=""><a href="/makale/ana-eylem-2-23">ANA EYLEM 2</a></li>
+<li class=""><a href="/makale/ana-eylem-3-24">ANA EYLEM 3	</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">Özel Eylemler </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/ozel-eylem-1-25">ÖZEL EYLEM 1</a></li>
+<li class=""><a href="/makale/ozel-eylem-2-26">ÖZEL EYLEM 2</a></li>
+</ul>
+</li>
+<li class=""><a href="/makale/kimler-yararlanabilir-27">Kimler Yararlanabilir?</a></li>
+<li class=""><a href="/makale/hangi-ulkeler-yer-aliyor-28">Hangi Ülkeler Yer Alıyor?</a></li>
+</ul>
+</li>
+<li class="dropdown as">
+<a class=" dropdown-toggle" data-toggle="dropdown" href="#">
+Erasmus Öğrenci Hareketlilikleri
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu a">
+<li class=""><a href="/makale/erasmus-hareketlilikleri-1062">Erasmus Hareketlilikleri</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">ÖĞRENİM HAREKETLİLİĞİ </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/genel-bilgi-29">Genel Bilgi</a></li>
+<li class=""><a href="/makale/is-akisi-1059">İş Akışı </a></li>
+<li class=""><a href="/basvuruform">Başvuru</a></li>
+<li class=""><a href="/makale/cevrimici-dil-destegiols-30">Çevrimiçi Dil Desteği(OLS)</a></li>
+<li class=""><a href="/makale/belgeler-ve-formlar-35">Belgeler ve Formlar</a></li>
+<li class=""><a href="/makale/at-11-belgesi-1063">AT 11 Belgesi</a></li>
+<li class=""><a href="/makale/hibe-miktari-1064">Hibe Miktarı</a></li>
+<li class=""><a href="/makale/cv-hazirlama-1065">CV Hazırlama</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">Staj Hareketliliği </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/genel-bilgi-43">Genel Bilgi	</a></li>
+<li class=""><a href="/makale/staj-is-akisi-1060">İş Akışı</a></li>
+<li class=""><a href="/makale/cevrimici-dil-destegiols-44">Çevrimiçi Dil Desteği(OLS)</a></li>
+<li class=""><a href="/makale/belgeler-ve-formlar-46">Belgeler ve Formlar</a></li>
+<li class=""><a href="/makale/yol-haritasi-48">Yol Haritası	</a></li>
+<li class=""><a href="/basvuruform">Başvuru</a></li>
+<li class=""><a href="/makale/at-11-belgesi-1066">AT 11 Belgesi</a></li>
+<li class=""><a href="/makale/hibe-miktari-1064">Hibe Miktarı</a></li>
+<li class=""><a href="/makale/cv-hazirlama-1068">CV Hazırlama</a></li>
+<li class=""><a href="/makale/staj-ilanlari-1069">Staj İlanları</a></li>
+</ul>
+</li>
+<li class=""><a href="/makale/erasmus-giden-ogrenci-56">Erasmus Giden Öğrenci</a></li>
+<li class=""><a href="/makale/erasmus-donen-ogrenci-57">ERASMUS DÖNEN ÖĞRENCİ </a></li>
+</ul>
+</li>
+<li class="dropdown as">
+<a class=" dropdown-toggle" data-toggle="dropdown" href="#">
+Personel Hareketliliği
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu a">
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">Eğitim Alma </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/ders-alma-genel-bilgi-1072">Genel Bilgi</a></li>
+<li class=""><a href="/makale/belgeler-ve-formlar-1073">Belgeler ve Formlar</a></li>
+<li class=""><a href="http://www.ua.gov.tr/programlar/erasmus-program%C4%B1/y%C3%BCksek%C3%B6%C4%9Fretim-program%C4%B1/erasmus-%C3%B6zel-ihtiya%C3%A7-deste%C4%9Fi">Özel İhtiyaç Listesi </a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="#">Ders Verme </a>
+<ul class="dropdown-menu">
+<li class=""><a href="/makale/belgeler-ve-formlar-1071">Belgeler ve Formlar</a></li>
+<li class=""><a href="http://www.ua.gov.tr/programlar/erasmus-program%C4%B1/y%C3%BCksek%C3%B6%C4%9Fretim-program%C4%B1/erasmus-%C3%B6zel-ihtiya%C3%A7-deste%C4%9Fi">Özel İhtiyaç Listesi </a></li>
+<li class=""><a href="/makale/ders-verme-genel-bilgi-1070"> Genel Bilgi</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class=""><a href="/makale/gelen-ogrenciincoming-student-1078">Gelen Öğrenci</a></li>
+<li class=""><a href="/makale/faydali-linkler-8">Faydalı Linkler</a></li>
+<li class=""><a href="/makale/genel-bilgi-9">KONSORSİYUM</a></li>
+<li class=""><a href="/iletisim">İletişim</a></li>
+<li class="dropdown as">
+<a class=" dropdown-toggle" data-toggle="dropdown" href="#">
+KALİTE DOKÜMANLARI
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu a">
+<li class=""><a href="/makale/dism-os-01-dis-iliskiler-sube-mudurlugu-organizasyon-semasi-5153">ORGANİZASYON ŞEMASI</a></li>
+<li class=""><a href="/makale/prosesler-5159">PROSESLER</a></li>
+<li class=""><a href="/makale/is-akisi-5160">İŞ AKIŞI</a></li>
+<li class=""><a href="/makale/dis-dokumanlar-5162">DIŞ DOKÜMANLAR</a></li>
+<li class=""><a href="/makale/formlar-5163">FORMLAR</a></li>
+<li class=""><a href="/makale/gorev-tanimlari-5164">GÖREV TANIMLARI</a></li>
+<li class=""><a href="/makale/kalite-hedefleri-5172">KALİTE HEDEFLERİ</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</section>
+<div>
+<section class="slider">
+<div class="container">
+<ul class="pgwSlider">
+<li><img src="/Content/Images/Default/Big/img_0340-f3c717a6-e925-40ff-9f5f-52ab4b5aa6da.JPG" alt="Dış İlişkiler Şube Müdürlüğü"></li>
+<li><img src="/Content/Images/Default/Big/img_0375-e889c6c2-7ba0-4d21-993b-bb792007e56d.JPG" alt="Dış İlişkiler Şube Müdürlüğü"></li>
+<li><img src="/Content/Images/Default/Big/img_0396-b4bc52dc-4ce1-4e1b-b49d-f406fc8104d0.JPG" alt="Dış İlişkiler Şube Müdürlüğü"></li>
+</ul>
+</div>
+</section>
+<section class="ana-content">
+<div class="container">
+<div class="row">
+<div class="col-md-5" id="haber-x">
+<div class="row">
+<ul id="haber-list">
+<li id="haber-baslik">HABERLER VE DUYURULAR </li>
+<li><a href="/haber/2018-2019-akademik-yili-yaz-stajina-gidecek-ogrenciler-icin-oryantasyon-5170">2018-2019 AKADEMİK YILI YAZ STAJINA GİDECEK ÖĞRENCİLER İÇİN ORYANTASYON </a> </li>
+<li><a href="/haber/dis-iliskiler-birimi-fuarda-yabanci-uyruklu-ogrenciler-ile-bir-araya-geldi-5167">DIŞ İLİŞKİLER BİRİMİ FUAR’DA YABANCI UYRUKLU ÖĞRENCİLER İLE BİR ARAYA GELDİ</a> </li>
+<li><a href="/haber/toros-universitesi-dis-iliskiler-sube-mudurlugu-4-avrasya-yuksekogretim-zirvesine-katildi-5166">Toros Üniversitesi Dış İlişkiler Şube Müdürlüğü, 4. Avrasya Yükseköğretim Zirvesi'ne Katıldı</a> </li>
+<li><a href="/haber/2018-19-akademik-yili-bahar-donemi-erasmus-hibesiz-asil-yedek-listesi-degerlendirme-sonuclari-5165">2018-19 AKADEMİK YILI BAHAR DÖNEMİ ERASMUS HİBESİZ ASİL YEDEK LİSTESİ DEĞERLENDİRME SONUÇLARI</a> </li>
+<li><a href="/haber/2018-19-akademik-yili-bahar-donemi-erasmus-asil-yedek-listesi-degerlendirme-sonuclari-5150">2018-19 AKADEMİK YILI BAHAR DÖNEMİ ERASMUS ASİL YEDEK LİSTESİ DEĞERLENDİRME SONUÇLARI</a> </li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<ul id="hizli-erisim-list">
+<li id="erisim-baslik">TANITIM VİDEOLARIMIZ </li>
+<li>
+<div class="owl-carousel owl-theme">
+<div class="item-video" data-merge="2"><a class="owl-video" href="https://www.youtube.com/watch?v=3fNkHmiG69k&t=101s"></a></div>
+<div class="item-video" data-merge="2"><a class="owl-video" href="https://www.youtube.com/watch?v=7HClrt320P0"></a></div>
+<div class="item-video" data-merge="2"><a class="owl-video" href="https://www.youtube.com/watch?v=SfCdFFCZu8s"></a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul id="etkinlik-list">
+<li id="etkinlik-baslik">ETKİNLİK TAKVİMİ </li>
+<li>
+<div class="col-md-3  col-xs-3"> <span id="gun">18 <br />NİSAN</span></div> <div class="col-md-9  col-xs-9">
+<a href="/etkinlik/2018-2019-akademik-yili-yaz-stajina-giden-ogrenciler-icin-oryantasyon-5171">2018-2019 AKADEMİK YILI YAZ STAJINA GİDEN ÖĞRENCİLER İÇİN ORYANTASYON</a>
+</div>
+</li>
+<li>
+<div class="col-md-3  col-xs-3"> <span id="gun">18 <br />OCAK</span></div> <div class="col-md-9  col-xs-9">
+<a href="/etkinlik/erasmusa-giden-ogrenciler-icin-oryantasyon-yemegi-5144">ERASMUSA GİDEN ÖĞRENCİLER İÇİN ORYANTASYON YEMEĞİ</a>
+</div>
+</li>
+<li>
+<div class="col-md-3  col-xs-3"> <span id="gun">14 <br />KASIM</span></div> <div class="col-md-9  col-xs-9">
+<a href="/etkinlik/cukurovamed-erasmus-staj-konsorsiyum-toplantisi-5135">ÇUKUROVAMED ERASMUS+ STAJ KONSORSİYUM TOPLANTISI</a>
+</div>
+</li>
+<li>
+<div class="col-md-3  col-xs-3"> <span id="gun">23 <br />MAYIS</span></div> <div class="col-md-9  col-xs-9">
+<a href="/etkinlik/erasmus-ogrencilerine-oryantasyon-yemegi-3120">ERASMUS ÖĞRENCİLERİNE '' ORYANTASYON YEMEĞİ''</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="erasmus-haritasi">
+<div class="container">
+<div class="row">
+<div class="col-md-12" id="yol-baslik">
+<center><h3> ERASMUS YOL HARİTASI </h3></center>
+</div>
+<a href="/basvuruform" target="_blank">
+<div class="col-md-2 col-sm-6 " id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/2.png" />
+<h3>
+Basvuru
+ </h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Seçim ilanında belirtilen tarihlerde online başvuru yapılır.
+<br />
+Başvuru formu ve transkript Erasmus Kurum Koordinatörlüğüne teslim edilir. Staj için niyet mektubu Erasmus Kurum Koordinatörlüğüne teslim edillir.
+</p>
+</div>
+</div>
+</div>
+</a>
+<div class="col-md-2 col-sm-6" id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/3.png" />
+<h3>
+Seçim
+</h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Başvuru süresinin bitiminde Yabancı Dil Sınavı yapılır.
+<br />
+Barajı geçen öğrenciler değerlendirmeye alınır.
+</p>
+</div>
+</div>
+</div>
+<div class="col-md-2 col-sm-6" id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/4.png" />
+<h3>
+Gitmeden Önce
+</h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Kazanan öğrencilerin gitmeden önce yapması gerekenler:<br />
+Gidilecek üniversiteye başvuru yapılır
+<br />
+Bölüm Erasmus Koordinatörüyle beraber Learning Agreement hazırlanır.
+<br />Pasaport ve vize işlemleri yapılır<br />
+Sigorta yaptırılır.<br />Hibe sözleşmesi yapılır.<br />
+Evraklar tamamlandıktan sonra %80 hibe ödemesi yapılır.
+</p>
+</div>
+</div>
+</div>
+<div class="col-md-2 col-sm-6" id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/5.png" />
+<h3>
+Hareketlilik Sırasında
+</h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Gittikten sonra Learning agreement’ta değişiklik yapılırsa, değişiklik sayfası bölüm koordinatörüne gönderilir.
+</p>
+</div>
+</div>
+</div>
+<div class="col-md-2 col-sm-6" id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/6.png" />
+<h3>
+ Faliyet Sonunda
+</h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Dönüş Evrakları:
+<br />
+Learning Agreementın son
+bölümü, transkript, nihai rapor
+ve pasaport fotokopisi.
+<br />
+Erasmus Kurum
+Koordinatörlüğüne teslim
+edilir
+<br />
+Transkript Erasmus Bölüm
+Koordinatörüne teslim edilir.
+<br />
+Evraklar tamamlandıktan sonra
+%20 hine hibe ödemesi yapılır.
+</p>
+</div>
+</div>
+</div>
+<div class="col-md-2 col-sm-6" id="boxs">
+<div class="cube">
+<div class="default-state" id="kolon">
+<center>
+<img src="/Content/Arayuz/img/icon/7.png" />
+<h3>
+Tanınma
+</h3>
+</center>
+</div>
+<div class="active-state" id="kolon">
+<p>
+Erasmus Bölüm Koordinatörü
+derslerin tanınması işlemini
+başlatır.
+<br />
+Tanınma için alınan yönetim
+Kurulu kararı kopyası Erasmus
+Kurum Koordinatörlüğüne
+gönderilir.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<footer>
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-5">
+<ul class="list-inline" id="footer-menu-list">
+<li><a href="/makale/vizyon-misyon-1061">HAKKIMIZDA</a></li>
+<li><a href="/makale/erasmus-nedir-55">ERASMUS+</a></li>
+<li><a href="/makale/erasmus-hareketlilikleri-1062">ERASMUS HAREKETLİLİKLERİ</a></li>
+<li><a href="/makale/personel-hareketliligi-1070">PERSONEL HAREKETLİLİĞİ </a></li>
+<li><a href="/sizden">SİZDEN</a></li>
+<li><a href="/iletisim"> İLETİŞİM</a></li>
+</ul>
+<hr id="cizgi" />
+<ul class="list-inline" id="lg">
+<li>
+<a id="lnkEducation" title="Hayatboyu Öğrenme Programı" class="egitim-ogretim" navigateurlen="/en/programmes/lifelong-learning-programme" texten="Lifelong Learning Programme" tooltipen="Lifelong Learning Programme" href="http://www.ua.gov.tr/programlar/erasmus-program%C4%B1">
+<img src="/Content/Arayuz/img/logo/logo-erasmus-plus.png" />
+</a>
+</li>
+<li>
+<a id="lnkEuroPass" title="europass" class="europass" navigateurlen="http://www.europass.gov.tr/" texten="europass" tooltipen="europass" href="http://www.ua.gov.tr/programlar/europass" target="_blank">
+<img src="/Content/Arayuz/img/logo/europass-block-logo.png" />
+</a>
+</li>
+<li>
+<a id="lnkStudyInTurkeyNew" class="studyInTurkeyNew" navigateurlen="http://studyinturkey.gov.tr/" href="http://studyinturkey.gov.tr/" target="_blank">
+<img src="/Content/Arayuz/img/logo/studyInTurkeyNew.png" />
+</a>
+</li>
+
+
+<li>
+<a id="lnkEpale" title="EPALE" class="epale" href="/yeni-bir-avrupa-yeti%c5%9fkin-e%c4%9fitimi-platformu-ba%c5%9fl%c4%b1yor" target="_blank">
+<img src="/Content/Arayuz/img/logo/epale.png" />
+</a>
+</li>
+<li>
+<a id="lnkEcvet" title="ecvet" class="ecvet" navigateurlen="http://www.ua.gov.tr/programlar/erasmus-program%C4%B1/leonardo-da-vinci-program%C4%B1/ecvet" texten="ecvet" tooltipen="ecvet" href="http://www.ua.gov.tr/programlar/erasmus-program%C4%B1/leonardo-da-vinci-program%C4%B1/ecvet" target="_blank">
+<img src="/Content/Arayuz/img/logo/ecvet.png" />
+</a>
+</li>
+<li>
+<a id="lnkPrjResults" title="Erasmus+ Proje Sonuçları" class="prj-results" navigateurlen="http://ec.europa.eu/programmes/erasmus-plus/projects/" texten="Erasmus+ Project Results" tooltipen="Erasmus+ Project Results" href="http://ec.europa.eu/programmes/erasmus-plus/projects/" target="_blank">
+<img src="/Content/Arayuz/img/logo/PrjResults.png" />
+</a>
+</li>
+<li>
+<a id="lnkBimer" title="BİMER" class="bimer" navigateurlen="http://www.bimer.gov.tr/" texten="BİMER" tooltipen="BİMER" href="http://www.bimer.gov.tr/" target="_blank">
+<img src="/Content/Arayuz/img/logo/Bimer_Logo.png" />
+</a>
+</li>
+</ul>
+</div>
+<div class="col-md-2">
+<a href="/"> <img src="/Content/Arayuz/img/toros-logo.png" id="footer-logo" /></a>
+</div>
+<div class="col-md-5">
+<ul class="list-inline" id="footer-yan-list">
+<li id="tft">
+TOROS ÜNİVERSİTESİ
+DIŞ İLİŞKİLER ŞUBESİ
+</li>
+</ul>
+<ul class="list-inline" id="footer-yan-list">
+<li>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6b0f0218020702180002070e192b1f04190418450e0f1e451f19">[email protected]</a>
+</li>
+<li>
+0324 325 33 00
+Dahili (6001)
+</li>
+<li>
+<ul class="list-inline" id="sosyal-medya">
+<li> <a style="color:white;" href="https://www.facebook.com/Toros-%C3%9Cniversitesi-D%C4%B1%C5%9F-%C4%B0li%C5%9Fkiler-Ofisi-1544930998855692/"><i class="fa fa-facebook"></i></a></li>
+<li> <a style="color:white;" href="https://www.instagram.com/internationaltoros/"><i class="fa fa-instagram"></i> </a></li>
+<li><a style="color:white;" href="https://www.youtube.com/channel/UCTL3ubnHuvMBgUzHRveiKvA"><i class="fa fa-youtube"></i> </a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<div class="container-fluid hidden-sm hidden-xs" id="ing-ft">
+<div class="row">
+<div class="col-md-3" id="ft1">
+<a href="http://toroserasmus.sdkhost.com/makale/erasmus-genel-yapi-21" target="_blank">
+<div class="row">
+<div class="col-md-2">
+<i class="fa fa-globe"></i>
+</div>
+<div class="col-md-10">
+<p>ERASMUS + </p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-3" id="ft2">
+<a href="http://toroserasmus.sdkhost.com/makale/erasmus-hareketlilikleri-1062" target="_blank">
+<div class="row">
+<div class="col-md-2">
+<i class="fa fa-plane"></i>
+</div>
+<div class="col-md-10">
+<p>
+ERASMUS HAREKETLİLİKLERİ
+</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-3" id="ft3">
+<a href="http://toroserasmus.sdkhost.com/makale/ders-verme-genel-bilgi-1070" target="_blank">
+<div class="row">
+<div class="col-md-2">
+<i class="fa fa-suitcase">
+</i>
+</div>
+<div class="col-md-10">
+<p> PERSONEL HAREKETLİLİĞİ</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-3" id="ft4">
+<a href="http://bologna.toros.edu.tr/" target="_blank">
+<div class="row">
+<div class="col-md-2">
+<i class="fa fa-bold"></i>
+</div>
+<div class="col-md-10">
+<p>BOLOGNA SÜRECİ</p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/Content/Arayuz/js/jquery.min.js" type="81100fc3bd2ee05e859da70b-text/javascript"></script>
+<script src="/Content/Arayuz/plugin/bootstrap-3.3.7/dist/js/bootstrap.min.js" type="81100fc3bd2ee05e859da70b-text/javascript"></script>
+<script src="/Content/Arayuz/plugin/PgwSlider-master/pgwslider.min.js" type="81100fc3bd2ee05e859da70b-text/javascript"></script>
+<script src="/Content/Sistem/OwlCarousel2-2.2.1 (1)/OwlCarousel2-2.2.1/dist/owl.carousel.js" type="81100fc3bd2ee05e859da70b-text/javascript"></script>
+<script type="81100fc3bd2ee05e859da70b-text/javascript">
+        $('.owl-carousel').owlCarousel({
+            items: 1,
+            videoWidth: 400, // Default false; Type: Boolean/Number
+            videoHeight: 300, // Default false; Type: Boolean/Number
+            merge: true,
+            loop: true,
+            margin: 10,
+            video: true,
+            lazyLoad: true,
+            center: true,
+            dots: false,
+            autoplay: true,
+
+
+        })
+
+
+    </script>
+<script type="81100fc3bd2ee05e859da70b-text/javascript">
+        $(".aktif").parents(".as").addClass("active");
+        $(".aktiff").parents(".as").addClass("active");
+
+
+    </script>
+<script type="81100fc3bd2ee05e859da70b-text/javascript">
+        $(document).ready(function () {
+            $('.pgwSlider').pgwSlider();
+        });
+    </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="81100fc3bd2ee05e859da70b-|49" defer=""></script></body>
+</html>

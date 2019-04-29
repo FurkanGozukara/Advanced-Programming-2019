@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+<meta charset="utf-8" />
+<title>TORSİM</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta content="TOROS ÜNİVERSİTESİ SANAYİ / SEKTÖR İŞBİRLİĞİ MERKEZİ" name="description" />
+<meta content="Hayri Can BARÇIN" name="author" />
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
+<link href="/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+<link href="/css/front.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="favicon.ico" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111389797-1" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script type="6309a223d422662980f8b80b-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-111389797-1');
+    </script>
+<style>
+        #particles-js{
+            position:absolute;
+            display: block;
+            top:0;
+            /*bottom: 0;*/
+            width:100%;
+            height:100%;
+        }
+        .half {
+            width: 50%
+        }
+        .nav-tabs > li > a{
+            font-size: large;
+            font-weight: bolder;
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            padding-top: 20px!important;
+            margin-right:0;
+        }
+        .nav-tabs > li{
+            background-color: #333;
+        }
+        .nav-tabs > li>a:hover{
+            background-color: #333;
+        }
+        .login-content{
+            margin-top: 25%!important;
+        }
+        .social-opts{
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+
+<body class=" login">
+
+<div class="user-login-5">
+<div class="row bs-reset">
+<div class="col-sm-6 bs-reset mt-login-5-bsfix">
+<div class="login-bg">
+</div>
+</div>
+<div class="col-sm-6 bs-reset mt-login-5-bsfix">
+<div class="login-container tab-content" style="min-height:0!important;height:100vh;">
+<ul class="nav nav-tabs">
+<li class="active half"><a data-toggle="tab" href="#company">Firma Girişi</a></li>
+<li class="half"><a data-toggle="tab" href="#ogrenci">Öğrenci Girişi</a></li>
+</ul>
+
+<div id="company" class="login-content tab-pane fade in active">
+<h2 class="headline">Firma Girişi</h2>
+<form class="login-form" method="POST" action="https://torsim.toros.edu.tr">
+<input type="hidden" name="_token" value="gH66bYssDkbSJd0FpX4DHb278sRsWQjXanxYl605">
+<div class="alert alert-danger display-hide">
+<button class="close" data-close="alert"></button>
+<span>Email adresi ve şifrenizi giriniz.</span>
+</div>
+<div class="row">
+<div class="col-xs-6">
+<input class="form-control form-control-solid placeholder-no-fix form-group" style="padding: 0" id="email" type="email" name="email" placeholder="Email Adresi" value="" required autofocus>
+</div>
+<div class="col-xs-6">
+<input class="form-control form-control-solid placeholder-no-fix form-group" style="padding: 0" type="password" autocomplete="off" placeholder="Şifre" name="password" required>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-4">
+<div class="rem-password">
+<label class="rememberme mt-checkbox mt-checkbox-outline">
+<input type="checkbox" name="remember" value="1" /> Beni Hatırla
+<span></span>
+</label>
+</div>
+</div>
+<div class="col-xs-8" style="text-align: right!important;">
+<div class="forgot-password">
+<a class="forget-password" id="forget-password">
+Şifremi Unuttum
+</a>
+</div>
+<button class="btn green" type="submit">Giriş</button>
+</div>
+</div>
+<div class="create-account">
+<p>
+Şirketiniz platforma kayıtlı değil mi ? Hemen <a href="javascript:;" class="btn btn-success" id="register-btn">Kayıt Ol</a>
+</p>
+</div>
+</form>
+
+
+<form class="forget-form" action="https://torsim.toros.edu.tr/password/email" method="POST">
+<input type="hidden" name="_token" value="gH66bYssDkbSJd0FpX4DHb278sRsWQjXanxYl605">
+<h3 class="font-green">Hesabınızı kurtarın</h3>
+<p> Şifrenizi sıfırlamak için e-mail adresinizi giriniz</p>
+<div class="form-group">
+<input class="form-control placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" name="email" value="" required autofocus /> </div>
+<div class="form-actions">
+<button type="button" id="back-btn" class="btn green btn-outline">Geri</button>
+<button type="submit" class="btn btn-success uppercase pull-right">Gönder</button>
+</div>
+</form>
+
+
+
+<form class="register-form" method="POST" action="https://torsim.toros.edu.tr/register">
+<input type="hidden" name="_token" value="gH66bYssDkbSJd0FpX4DHb278sRsWQjXanxYl605">
+<div class="form-group">
+<label class="control-label visible-ie8 visible-ie9">Firma</label>
+<input class="form-control placeholder-no-fix" type="text" placeholder="Firma" name="name" value="" required /> </div>
+<div class="form-group">
+<label class="control-label visible-ie8 visible-ie9">Email</label>
+<input class="form-control placeholder-no-fix" id="email" type="email" placeholder="Email" name="email" value="" required />
+</div>
+<div class="form-group">
+<label class="control-label visible-ie8 visible-ie9">Şifre</label>
+<input class="form-control placeholder-no-fix" type="password" autocomplete="off" id="register_password" placeholder="Şifre" name="password" required /> </div>
+<div class="form-group">
+<label class="control-label visible-ie8 visible-ie9">Şifre Tekrar</label>
+<input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Şifre Tekrar" name="password_confirmation" required /> </div>
+<div class="form-group margin-top-20 margin-bottom-20">
+<label class="mt-checkbox mt-checkbox-outline">
+<input type="checkbox" name="tnc" />
+<a href="javascript:;">Kullanım Şartları </a> &
+<a href="javascript:;">Gizlilik Sözleşmesini </a> okudum ve kabul ediyorum.
+<span></span>
+</label>
+<div id="register_tnc_error"> </div>
+</div>
+<div class="form-actions">
+<button type="button" id="register-back-btn" class="btn btn-default">Geri</button>
+<button type="submit" id="register-submit-btn" class="btn red uppercase pull-right">Kayıt Ol</button>
+</div>
+</form>
+
+</div>
+
+
+<div id="ogrenci" class="login-content tab-pane fade in">
+<h2 class="headline">Öğrenci Girişi</h2>
+<p class="text-center" style="font-size: large">
+Öğrenci girişleri Linkedin profilleri üzerinden yapılacaktır. Sisteme dahil olabilmek için Linkedin hesabı oluşturmanız gerekmektedir.
+</p>
+<div class="col-md-6 col-md-offset-3 social-opts">
+<a href="/login/linkedin" class="opt-linkedin-login">
+<i class="fa fa-linkedin"></i>
+<span>Oturum Aç</span>
+</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script src="/assets/global/plugins/respond.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/excanvas.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+
+<script src="/assets/global/plugins/jquery.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/js.cookie.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/jquery.blockui.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+
+
+<script src="/assets/global/plugins/jquery-validation/js/jquery.validate.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/jquery-validation/js/additional-methods.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/jquery-validation/js/localization/messages_tr.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+<script src="/assets/global/plugins/backstretch/jquery.backstretch.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+
+
+<script src="/assets/global/scripts/app.min.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+
+
+<script src="/assets/pages/scripts/login-5.js" type="6309a223d422662980f8b80b-text/javascript"></script>
+
+
+
+
+<script type="6309a223d422662980f8b80b-text/javascript">
+        $(".register-form input").keypress(function(r) {
+            return 13 == r.which ? ($(".register-form").validate().form() && $(".register-form").submit(), !1) : void 0
+        }), $("#register-form").click(function(){
+            $(".login-form").hide(),$(".register-form").show()
+        }), $("#register-back-btn").click(function() {
+            $(".login-form").show(), $(".register-form").hide()})
+    </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="6309a223d422662980f8b80b-|49" defer=""></script></body>
+<script type="6309a223d422662980f8b80b-text/javascript">
+    $(document).ready(function() {
+        $("form").validate({
+            language: 'tr'  // or whatever language option you have.
+        });
+    });
+</script>
+</html>

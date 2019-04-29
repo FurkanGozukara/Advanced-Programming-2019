@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Toros Üniversitesi Mezunlar Derneği</title>
+<link rel="shortcut icon" href="/img/favicon.png" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="/arena/css/swiper.min.css">
+<link rel="stylesheet" href="/arena/css/ion.tabs.css">
+<link rel="stylesheet" href="/arena/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="/arena/css/font-awesome.min.css">
+<link rel="stylesheet" href="/arena/css/elegant-icons.css">
+<link rel="stylesheet" href="/arena/css/stroke-gap-icons.css">
+
+<link rel="stylesheet" href="/arena/style-B.css">
+<script type="1b6a0f6482a8a77407cb6ed8-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-101011072-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+<style>
+        td {
+            width: 50%;
+            font-size: large;
+        }
+    </style>
+</head>
+<body>
+
+<div class="page-preloader-wrapper">
+<div class="page-preloader"><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span><span class="page-preloader__square"></span></div>
+</div>
+
+
+<header class="page-header">
+
+<div class="logo page-header__logo"><a class="logo__link" href="/"><img src="/img/logo.png" style="height: 75px;width: auto"></a></div>
+
+
+<nav class="page-header__navigation">
+
+<ul class="list-top-menu">
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/">Tanıtım</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/yonetim">Yönetim Kurulu</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/tuzuk">Tüzük</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/register">Yeni Üye</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/iletisim">İletişim</a></li>
+<li class="list-top-menu__item"><a class="list-top-menu__link" href="/login">Üye Girişi</a></li>
+</ul>
+
+
+<ul class="list-side-nav">
+<li class="list-side-nav__item"><a class="list-side-nav__burger" id="js-mobile-menu-button" href="#"></a></li>
+</ul>
+
+</nav>
+
+</header>
+
+
+<main class="page-main">
+
+<section class="page-section page-section_intro _background-image-4 _overlay-black js-jarallax_type_1">
+<div class="page-section_intro__wrapper">
+</div>
+</section>
+
+
+<section class="page-section page-section_services _background-color-light">
+<header class="page-section__header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="page-section__heading">Hakkımızda</h2>
+</div>
+</div>
+</div>
+</header>
+<div class="page-section__content">
+<div class="container">
+<div class="row">
+<p style="font-size: x-large">Toros Üniversitesinin Mezunlar Derneği, mezunlarının ulusal ve uluslararası düzeyde gelişmesine ve mezunlarımız arasında başta iş hayatında olmak üzere bir sinerji yaratmak, Toros Üniversitesi öğrencileri ile üyelerinin sosyal, kültürel, sportif, mesleki ve bilimsel düzeylerine katkıda bulunmak, üyeler arasında dayanışmayı arttırmak, mezunların sorunlarıyla ilgilenmek ve bu amaçlar doğrultusunda faaliyetlerde bulunmak amacıyla 2017 yılında kurulmuştur.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section page-section_services _background-color-light">
+<header class="page-section__header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="page-section__heading">Kurucu Üyeler</h2>
+</div>
+</div>
+</div>
+</header>
+<div class="page-section__content">
+<div class="container">
+<div class="table-responsive">
+<table class="table table-hover">
+<tr>
+<td>Orhan KARAKAPLAN</td>
+<td>Toros Üniversitesi Öğretim Görevlisi</td>
+</tr>
+<tr>
+<td>İbrahim Özgür KUTLAY</td>
+<td>Toros Üniversitesi Kurumsal İletişim ve Tanıtım Müdürlüğü</td>
+</tr>
+<tr>
+<td>Ergin ÇABUK</td>
+<td>Toros Üniversitesi Öğrenci İşleri Daire Başkanlığı</td>
+</tr>
+<tr>
+<td>Hayri Can BARÇIN</td>
+<td>Toros Üniversitesi Bilgi İşlem Daire Başkanlığı</td>
+</tr>
+<tr>
+<td>Ozan KAPLAN</td>
+<td>İç Mimar</td>
+</tr>
+<tr>
+<td>Berkcan GÜCER</td>
+<td>Elektrik Elektronik Mühendisi</td>
+</tr>
+<tr>
+<td>Kemal AKGÜL</td>
+<td>Yüksek Lisans Öğrencisi</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</section>
+
+
+ <aside class="page-aside page-aside_brands">
+<header class="page-section__header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="page-section__heading">Çözüm Ortaklarımız</h2>
+</div>
+</div>
+</div>
+</header>
+<div class="container">
+<div class="page-aside_brands__wrapper">
+
+<div class="page-aside_brands__brand">
+<div class="brand"><img class="brand__img" src="/arena/img/B/brands/torosbrand.png" alt=""></div>
+</div>
+
+</div>
+</div>
+</aside>
+
+</main>
+
+
+<footer class="page-footer">
+<a class="button-to-top" id="js-button-to-top" href="#"></a>
+
+
+<div class="page-footer__content">
+
+</div>
+
+
+<div class="page-footer__copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><small class="copyright-text">©2019 Toros Üniversitesi Mezunlar Derneği<span></span> Tüm Hakları Saklıdır</small></div>
+</div>
+</div>
+</div>
+
+</footer>
+
+
+<script src="/arena/js/modernizr.custom.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/imagesloaded.pkgd.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.waypoints.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.counterup.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.easing.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.easeScroll.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/swiper.jquery.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/masonry.pkgd.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/isotope.pkgd.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jarallax.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/jquery.equalheights.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/ion.tabs.min.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/maplace.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3gFKhVywUkygSxQEBdGVrI5-ZRrdjueA" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="/arena/js/common.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+
+<script src="/arena/js/scripts-B.js" type="1b6a0f6482a8a77407cb6ed8-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="1b6a0f6482a8a77407cb6ed8-|49" defer=""></script></body>
+</html>

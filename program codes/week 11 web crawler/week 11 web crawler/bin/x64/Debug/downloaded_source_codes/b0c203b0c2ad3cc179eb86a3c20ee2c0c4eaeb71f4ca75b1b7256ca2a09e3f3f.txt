@@ -1,0 +1,479 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>TOROS ÜNİVERSİTESİ</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="csrf-token" content="fcOmeDOo3q4g1jEgP3RIosSMtTyGLPSkkLGJgYbY" />
+<meta name="author" content="MESUT AKSAK , GİZEN MUTLU TOROS YAZILIM BİRİMİ ">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/admin/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/admin/bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="/admin/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/front/fi/flaticon.css">
+<link rel="stylesheet" type="text/css" href="/front/css/main.css">
+<link rel="stylesheet" type="text/css" href="/front/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/front/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="/front/css/animate.css">
+<link rel="stylesheet" type="text/css" href="/front/css/dropdown.css">
+<link rel="stylesheet" type="text/css" href="/front/css/mystyle.css">
+<style>
+        .tabs .tabs-keeper {
+            border: none;
+            padding: 20px;
+        }
+    </style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123593279-1" type="5e3ce4b01abb43be1c123c13-text/javascript"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123593279-1');
+        gtag('config', 'AW-795426294');
+    </script>
+
+<script type="5e3ce4b01abb43be1c123c13-text/javascript">
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', { 'send_to': 'AW-795426294/nXgVCPynu4YBEPb7pPsC', 'event_callback': callback });
+            return false;
+        }
+
+        function trackLink(url,event) {
+            event.preventDefault();
+            if (window.ga && ga.loaded) {
+                gtag_report_conversion(url);
+            } else {
+                document.location = url;
+            }
+        }
+
+    </script>
+<style>
+        .widget-search form .search-submit {
+            background-color: #18bb7c;
+            border: 2px solid #18bb7c;
+            box-sizing: border-box;
+            color: #ffffff;
+            cursor: pointer;
+            font-weight: 500;
+            height: 36px;
+            line-height: 32px;
+            position: absolute;
+            right: 0;
+            top: 0;
+            transition: all 0.3s ease 0s;
+            width: 60px;
+        }
+        .birim-bg{
+            padding: 2px;
+            background-color: #d9edf7;
+            border: 1px skyblue;
+            border-top-left-radius: 10px;
+            border-bottom-right-radius: 10px
+        }
+    </style>
+<link rel="stylesheet" type="text/css" href="/front/css/select2.css">
+</head>
+<body style="width: 100%">
+<header class="only-color">
+
+<div class="page-header-top gizle">
+<div class="grid-row clear-fix">
+<address>
+ <a href="tel:0(324) 325 33 00" class="phone-number"><i class="fa fa-phone"></i>0(324) 325 33 00</a>
+<a href="/cdn-cgi/l/email-protection#6e070008012e1a011c011d400b0a1b401a1c" class="email"><i class="fa fa-envelope-o"></i><span class="__cf_email__" data-cfemail="bcd5d2dad3fcc8d3ced3cf92d9d8c992c8ce">[email protected]</span></a>
+</address>
+<div class="header-top-panel">
+<a href="http://www.toros.edu.tr/lang/en"><img style="height: 100%" src="/flags/en.png" alt=""></a>
+<a href="http://www.toros.edu.tr/lang/tr"><img style="height: 100%" src="/flags/tr.png" alt=""></a>
+</div>
+</div>
+</div>
+
+
+<div class="sticky-wrapper">
+<div class="sticky-menu">
+<div class="grid-row1 clear-fix">
+
+<a href="/" class="logo">
+<img src="/front/img/logo.png">
+<h1>TOROS ÜNİVERSİTESİ</h1>
+</a>
+
+<nav class="main-nav">
+<ul class="clear-fix">
+<li><a>TOROS HAKKINDA</a><ul> <li><a href="/icerik/toros-hakkinda-yonetim">YÖNETİM</a></li><li><a href="/icerik/toros-hakkinda-kurucu-vakif">KURUCU VAKIF</a></li><li><a href="/icerik/toros-hakkinda-mutevelli-heyeti">MÜTEVELLİ HEYETİ</a></li><li><a href="/icerik/rektorluk">REKTÖRLÜK</a></li><li><a href="/icerik/toros-hakkinda-misyon-vizyon-ve-temel-degerler">MİSYON, VİZYON VE TEMEL DEĞERLER</a></li><li><a href="/icerik/toros-hakkinda-toros-okullari-ve-toros-toplulugu">TOROS OKULLARI VE TOROS TOPLULUĞU</a></li></ul></li>
+<li class="megamenu">
+<a>AKADEMİK</a>
+<ul class="clear-fix">
+<li><div class="header-megamenu">FAKÜLTELER</div>
+<ul>
+<li><a href="/anasayfa/guzel-sanatlar-fakultesi">GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</a></li><li><a href="/anasayfa/iktisadi-idari-ve-sosyal-bilimler-fakultesi">İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</a></li><li><a href="/anasayfa/muhendislik-fakultesi">MÜHENDİSLİK FAKÜLTESİ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">YÜKSEKOKULLAR</div>
+<ul>
+<li><a href="/anasayfa/meslek-yuksekokulu">MESLEK YÜKSEKOKULU</a></li><li><a href="/anasayfa/saglik-bilimleri-yuksekokulu">SAĞLIK BİLİMLERİ YÜKSEKOKULU</a></li><li><a href="/anasayfa/yabanci-diller-yuksekokulu">YABANCI DİLLER YÜKSEKOKULU</a></li>
+</ul>
+</li>
+ <li><div class="header-megamenu">ENSTİTÜLER</div>
+<ul>
+<li><a href="/anasayfa/fen-bilimleri-enstitusu">FEN BİLİMLERİ ENSTİTÜSÜ</a></li><li><a href="/anasayfa/sosyal-bilimler-enstitusu">SOSYAL BİLİMLER ENSTİTÜSÜ</a></li>
+</ul>
+</li>
+<li><div class="header-megamenu">ARAŞTIRMA MERKEZLERİ</div>
+<ul>
+<li><a href="/icerik/alevilik-bektasilik-uygulama-ve-arastirma-merkezi">ALEVİLİK - BEKTAŞİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/kentlesme-ve-yerel-yonetimler-uygulama-ve-arastima-merkezi">KENTLEŞME VE YEREL YÖNETİMLER UYGULAMA VE ARAŞTIMA MERKEZİ </a></li><li><a href="/icerik/surekli-egitim-uygulama-ve-arastirma-merkezi">SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li><li><a href="/icerik/yenilenebilir-enerji-teknolojileri-egitimi-uygulama-ve-arastirma-merkezi">YENİLENEBİLİR ENERJİ TEKNOLOJİLERİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a>İDARİ BİRİMLER</a>
+<ul>
+<li>
+<a href="/icerik/genel-sekreterlik">GENEL SEKRETERLİK</a>
+</li>
+<li>
+<a href="/icerik/bilgi-islem-daire-baskanligi">BİLGİ İŞLEM DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/idari-ve-mali-isler-daire-baskanligi">İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/insan-kaynaklari-daire-baskanligi">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/kurumsal-iletisim-ve-tanitim-mudurlugu">KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</a>
+</li>
+<li>
+<a href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI</a>
+</li>
+<li>
+<a href="/icerik/ogrenci-isleri-daire-baskanligi">ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</a></li>
+<li>
+<a href="/icerik/saglik-kultur-ve-spor-daire-baskanligi">SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI</a>
+</li> <li><a href="/icerik/bilimsel-arastirma-projeleri-birimi-komisyonu/"> BİLİMSEL ARAŞTIRMA PROJELERİ BİRİMi</a></li>
+</ul>
+</li>
+<li><a>ÖĞRENCİ</a>
+<ul>
+<li><a href="/icerik/ogrenci-ucretler">ÜCRETLER</a></li>
+<li><a href="/icerik/ogrenci-burslar">BURSLAR</a></li>
+<li><a href="/icerik/ogrenci-lisans-on-lisans-akademik-takvim">LİSANS-ÖN LİSANS AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-hazirlik-okulu-akademik-takvim">HAZIRLIK OKULU AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-lisansustu-akademik-takvim">LİSANSÜSTÜ AKADEMİK TAKVİM</a></li>
+<li><a href="/icerik/ogrenci-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a></li>
+<li><a href="/icerik/ogrenci-yonetmelikler">YÖNETMELİKLER</a></li>
+<li><a href="/anasayfa/ogrenci-topluluklari">ÖĞRENCİ TOPLULUKLARI</a></li>
+</ul>
+</li> <li>
+<a href="/khk" rel="external">667 KHK ÖĞRENCİLER</a>
+</li>
+
+<li class="animated infinite pulse" style="background-color: #d9534f;">
+<a style="color: black" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('/icerik/aday-ogrenciler-genel-bilgiler', event);" href="/icerik/aday-ogrenciler-genel-bilgiler" rel="external" data-cf-modified-5e3ce4b01abb43be1c123c13-="">ADAY ÖĞRENCİLER</a>
+<li>
+<a href="/iletisim" onclick="if (!window.__cfRLUnblockHandlers) return false; trackLink('https://www.toros.edu.tr/iletisim', event);" data-cf-modified-5e3ce4b01abb43be1c123c13-="">İLETİŞİM</a>
+</li>
+
+</ul>
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+<div class="page-content">
+<div class="container clear-fix">
+<div class="col-md-8">
+<aside class="widget-search">
+<form method="GET" action="https://www.toros.edu.tr/search" accept-charset="UTF-8" class="searchform">
+<input class="search-field" placeholder="Aramak istediğiniz kelimeyi giriniz..." name="search" type="text">
+<input class="search-submit" type="submit" value="Ara">
+<input type="hidden" name="_token" value="fcOmeDOo3q4g1jEgP3RIosSMtTyGLPSkkLGJgYbY">
+</form>
+</aside>
+ <h2>Tüm Duyurular</h2>
+<aside class="widget-event">
+<a href="/duyuru-oku/1652">
+<article class="clear-fix">
+<div class="date"><div class="day">29</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>ÖĞRETİM GÖREVLİSİ ÖN DEĞERLENDİRME SONUÇLARI (11 Nisan 2019 Tarihli ve 30742 Sayılı Resmî Gazete'de yayınlamış olan ilana istinaden) </b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1647">
+<article class="clear-fix">
+<div class="date"><div class="day">23</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>ARBİS]TÜBİTAK - Fransa Bosphorus Programı Çağrısı Açıldı</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1645">
+<article class="clear-fix">
+<div class="date"><div class="day">18</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>[ARBİS]2242 - Üniversite Öğrencileri Araştırma Proje Yarışmaları Başvuruları Devam Ediyor</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1644">
+<article class="clear-fix">
+<div class="date"><div class="day">17</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>23 NİSAN ÇOCUKLARINA EĞLENCELİ CUPCAKE ATÖLYESİ (TORSEM)</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1637">
+<article class="clear-fix">
+<div class="date"><div class="day">11</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>ÖĞRETİM GÖREVLİSİ İLANI (11 Nisan 2019 Tarihli ve 30742 Sayılı Resmî Gazete'de yayınlamıştır.)</b></p></div>
+ <div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1636">
+<article class="clear-fix">
+<div class="date"><div class="day">09</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>TÜBİTAK – NRF (Güney Kore) İkili İşbirliği Çağrısı Açıldı</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1634">
+<article class="clear-fix">
+<div class="date"><div class="day">03</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>MESLEK YÜKSEKOKULU ÖĞRETİM GÖREVLİSİ DEĞERLENDİRME SONUÇLARI (14 Mart 2018 Tarihli ve 30714 Sayılı Resmî Gazete'de yayınlanan ilana istinaden.)</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
+</article>
+</a>
+ <a href="/duyuru-oku/1633">
+<article class="clear-fix">
+<div class="date"><div class="day">02</div><div class="month">Nisan</div></div>
+<div class="event-description"><p><b>KÜÇÜK YAZARLARLA BÜYÜK YAZARIN BULUŞMASI ETKİNLİĞİ</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1631">
+<article class="clear-fix">
+<div class="date"><div class="day">29</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>MESLEK YÜKSEKOKULU ÖĞRETİM GÖREVLİSİ ÖN DEĞERLENDİRME SONUÇLARI (14 Mart 2018 Tarihli ve 30714 Sayılı Resmî Gazete'de yayınlanan ilana istinaden.)</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1630">
+<article class="clear-fix">
+<div class="date"><div class="day">26</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>Kalite Koordinatörlüğü "Karikatür ve Slogan Yarışması" Sonuçlanmıştır</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1623">
+<article class="clear-fix">
+<div class="date"><div class="day">26</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>Öğretim Yaklaşımları, Yöntem ve Teknikleri Eğitimi Yer Değişikliği Güncellemesi</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1629">
+<article class="clear-fix">
+<div class="date"><div class="day">24</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>2018-2019 AKADEMİK YILI BAHAR DÖNEMİ ERASMUS+ ÖĞRENİM/STAJ HAREKETLİLİĞİ DEĞERLENDİRME SONUÇLARI</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</p></div>
+</article>
+ </a>
+<a href="/duyuru-oku/1628">
+<article class="clear-fix">
+<div class="date"><div class="day">21</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>Kalite Koordinatörlüğü'nden Duyuru</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1527">
+<article class="clear-fix">
+<div class="date"><div class="day">19</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b> İŞARET DİLİ EĞİTİMİ PROGRAMI EĞİTİM İÇERİĞİ</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">TOROS ÜNİVERSİTESİ</p></div>
+</article>
+</a>
+<a href="/duyuru-oku/1619">
+<article class="clear-fix">
+<div class="date"><div class="day">14</div><div class="month">Mart</div></div>
+<div class="event-description"><p><b>SAĞLIK BİLİMLERİ YÜKSEKOKULU HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ ÖĞRETİM GÖREVLİSİ DEĞERLENDİRME SONUÇLARI (30690 SAYILI RESMİ GAZETE İLANINA İSTİNADEN)</b></p></div>
+<div style="float: right;margin-top: 15px;"><p class="birim-bg">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</p></div>
+</article>
+</a>
+<div class="text-center">
+<ul class="pagination"><li class="disabled"><span>«</span></li> <li class="active"><span>1</span></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=2">2</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=3">3</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=4">4</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=5">5</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=6">6</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=7">7</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=8">8</a></li><li class="disabled"><span>...</span></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=22">22</a></li><li><a href="http://www.toros.edu.tr/duyuru-listesi?page=23">23</a></li> <li><a href="http://www.toros.edu.tr/duyuru-listesi?page=2" rel="next">»</a></li></ul>
+</div>
+</aside>
+</div>
+<div class="col-md-4">
+<aside>
+<h2>Duyuru Filtresi</h2>
+<p class="form-row form-row-wide select-arrow">
+<select class="js-example-basic-single" id="birimid" required="required" name="birimid"><option value="48">ADALET</option><option value="588">ADAY ÖĞRENCİLER</option><option value="43">AĞIZ VE DİŞ SAĞLIĞI</option><option value="521">ALEVİLİK - BEKTAŞİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ</option><option value="583">ALTIN ELLER TOPLULUĞU</option><option value="71">AMELİYATHANE HİZMETLERİ</option><option value="599">AMERİKAN FUTBOLU TOPLULUĞU</option><option value="72">ANESTEZİ</option><option value="581">ARAŞTIRMA GELİŞTİRME VE KİŞİSEL GELİŞİM</option><option value="54">AŞÇILIK</option><option value="560">ATATÜRK'ÇÜ DÜŞÜNCE TOPLULUĞU</option><option value="571">ATÖLYE TOPLULUĞU</option><option value="594">AYNİYAT-TAŞINIR KAYIT VE KONTROL BİRİMİ</option><option value="596">BESLENME VE DİYETETİK BÖLÜMÜ</option><option value="512">BİLGİ İŞLEM DAİRE BAŞKANLIĞI</option><option value="564">BİLGİSAYAR BİLİMLERİ TOPLULUĞU</option><option value="103">BİLGİSAYAR VE YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ</option><option value="524">BİLİMSEL ARAŞTIRMA PROJELERİ BİRİMİ</option><option value="542">BİLİŞİM TEKNOLOJİLERİ (TEZSİZ)</option><option value="87">ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ</option><option value="88">ÇOCUK GELİŞİMİ</option><option value="557">ÇOCUK GELİŞİMİ TOPLULUĞU</option><option value="582">DAMLA TOPLULUĞU</option><option value="606">DANIŞMA KURULU</option><option value="574">DANS TOPLULUĞU</option><option value="50">DIŞ İLİŞKİLER ŞUBE MÜDÜRLÜĞÜ</option><option value="42">DİŞÇİLİK HİZMETLERİ BÖLÜMÜ</option><option value="73">DİYALİZ</option><option value="538">EĞİTİM-ÖĞRETİM KOORDİNATÖRLÜĞÜ</option><option value="109">ELEKTRİK - ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ</option><option value="570">ELEKTRİK-ELEKTRONİK MÜH. TOPLULUĞU</option><option value="565">ENDÜSTRİ MÜH. VE VERİMLİLİK TOPLULUĞU</option><option value="544">ENDÜSTRİ MÜHENDİSLİĞİ (TEZLİ)</option><option value="114">ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ</option><option value="597">ERASMUS KOORDİNATÖRLÜĞÜ</option><option value="607">FAKÜLTE DANIŞMA KURULU</option><option value="2">FEN BİLİMLERİ ENSTİTÜSÜ</option><option value="600">FENERBAHÇELİLER TOPLULUĞU</option><option value="212">FİZYOTERAPİ</option><option value="579">GENÇ GİRİŞİMCİLER TOPLULUĞU</option><option value="569">GENÇ MİMARLAR TOPLULUĞU</option><option value="504">GENEL SEKRETERLİK</option><option value="64">GRAFİK TASARIMI</option><option value="10">GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ</option><option value="572">HALK SAĞLIĞI TOPLULUĞU</option><option value="215">HEMŞİRELİK VE SAĞLIK HİZMETLERİ BÖLÜMÜ</option><option value="47">HUKUK BÖLÜMÜ</option><option value="27">İÇ MİMARLIK BÖLÜMÜ</option><option value="500">İDARİ BİRİMLER</option><option value="618">İDARİ İŞLER ŞUBE MÜDÜRLÜĞÜ</option><option value="501">İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI</option><option value="144">İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ</option><option value="79">İLK VE ACİL YARDIM</option><option value="143">İNGİLİZCE HAZIRLIK PROGRAMI</option><option value="568">İNGİLİZCE TOPLULUĞU</option><option value="506">İNSAN KAYNAKLARI DAİRE BAŞKANLIĞI</option><option value="92">İNŞAAT BÖLÜMÜ</option><option value="546">İNŞAAT MÜHENDİSLİĞİ (TEZLİ)</option><option value="125">İNŞAAT MÜHENDİSLİĞİ BÖLÜMÜ</option><option value="556">İNŞAAT MÜHENDİSLİĞİ ÖĞRENCİ TOPLULUĞU</option><option value="93">İNŞAAT TEKNOLOJİSİ</option><option value="592">İNTÖRN MÜHENDİSLİK VE UYGULAMALI EĞİTİM</option><option value="52">İŞ SAĞLIĞI VE GÜVENLİĞİ</option><option value="549">İŞLETME (DOKTORA)</option><option value="547">İŞLETME (TEZLİ)</option><option value="548">İŞLETME (TEZSİZ)</option><option value="164">İŞLETME BÖLÜMÜ</option><option value="614">İŞLETME BÖLÜMÜ DANIŞMA KURULU</option><option value="552">İŞLETME EKONOMİSİ (TEZSİZ)</option><option value="593">KALİTE KOORDİNATÖRLÜĞÜ</option><option value="537">KALİTE YÖNETİMİ VE BİLGİ SİSTEMLERİ KOORDİNATÖRLÜĞÜ</option><option value="535">KENTLEŞME VE YEREL YÖNETİMLER UYGULAMA VE ARAŞTIRMA MERKEZİ </option><option value="619">KENTSEL TASARIM VE PEYZAJ MİMARİSİ BÖLÜMÜ</option><option value="536">KOORDİNATÖRLÜKLER</option><option value="624">KORUMA VE GÜVENLİK ŞUBE MÜDÜRLÜĞÜ</option><option value="505">KURUMSAL İLETİŞİM VE TANITIM MÜDÜRLÜĞÜ</option><option value="503">KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI</option><option value="81">LOJİSTİK</option><option value="567">LÖSEV TOROS TOPLULUĞU</option><option value="531">MALİ İŞLER ŞUBE MÜDÜRLÜĞÜ</option><option value="32">MESLEK YÜKSEKOKULU</option><option value="545">MİMARLIK (TEZLİ)</option><option value="14">MİMARLIK BÖLÜMÜ</option><option value="97">MÜHENDİSLİK FAKÜLTESİ</option><option value="543">MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ (TEZSİZ)</option><option value="51">MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ</option><option value="623">MÜTERCİM TERCÜMANLIK (İNGİLİZCE) BÖLÜMÜ</option><option value="586">MÜZİK TOPLULUĞU</option><option value="185">OPTİSYENLİK</option><option value="53">OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ</option><option value="513">ÖĞRENCİ</option><option value="502">ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI</option><option value="584">ÖĞRENCİ KONSEYİ</option><option value="585">ÖĞRENCİ TOPLULUKLARI</option><option value="529">ÖZEL GÜVENLİK BİRİMİ</option><option value="527">ÖZEL KALEM</option><option value="595">PEARSON ASSURED AKREDİTASYONU</option><option value="553">PSİKOLOJİ (TEZLİ)</option><option value="145">PSİKOLOJİ BÖLÜMÜ</option><option value="577">PSİKOLOJİ TOPLULUĞU</option><option value="621">PSİKOLOJİK DANIŞMANLIK VE REHBERLİK MERKEZİ</option><option value="562">RADYO TOPLULUĞU</option><option value="130">REKTÖRLÜK</option><option value="131">SAĞLIK BİLİMLERİ YÜKSEKOKULU</option><option value="550">SAĞLIK KURUMLARI İŞLETMECİLİĞİ (TEZLİ)</option><option value="551">SAĞLIK KURUMLARI İŞLETMECİLİĞİ (TEZSİZ)</option><option value="514">SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI</option><option value="132">SAĞLIK YÖNETİMİ BÖLÜMÜ</option><option value="578">SAĞLIK YÖNETİMİ TOPLULUĞU</option><option value="563">SAĞLIKLI YAŞAM TOPLULUĞU</option><option value="530">SATIN ALMA ŞUBE MÜDÜRLÜĞÜ</option><option value="561">SATRANÇ TOPLULUĞU</option><option value="133">SOSYAL BİLİMLER ENSTİTÜSÜ</option><option value="539">SOSYAL İŞLER KOORDİNATÖRLÜĞÜ</option><option value="558">SOSYAL MEDYA VE FOTOĞRAFÇILIK TOPLULUĞU</option><option value="140">SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ</option><option value="587">ŞEHİR VE BÖLGE PLANLAMA BÖLÜMÜ</option><option value="540">TANITIM KOORDİNATÖRLÜĞÜ</option><option value="63">TASARIM BÖLÜMÜ</option><option value="68">TERAPİ VE REHABİLİTASYON BÖLÜMÜ</option><option value="77">TIBBİ GÖRÜNTÜLEME TEKNİKLERİ</option><option value="70">TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ</option><option value="78">TIBBİ LABORATUVAR TEKNİKLERİ</option><option value="559">TİYATRO TOPLULUĞU</option><option value="580">TOROS DOĞA SPORLARI TOPLULUĞU</option><option value="507">TOROS HAKKINDA</option><option value="603">TOROS INTERNATIONAL PLUS</option><option value="605">TOROS SPORTS CENTER</option><option value="1">TOROS ÜNİVERSİTESİ</option><option value="598">TÜRK HALK MÜZİĞİ TOPLULUĞU</option><option value="601">ULTRAASLAN ÜNİ TOROS TOPLULUĞU</option><option value="159">ULUSLARARASI FİNANS BÖLÜMÜ</option><option value="158">ULUSLARARASI İLİŞKİLER BÖLÜMÜ</option><option value="573">ULUSLARARASI TİC VE LOJİSTİK TOPLULUĞU</option><option value="554">ULUSLARARASI TİCARET VE LOJİSTİK (TEZLİ)</option><option value="555">ULUSLARARASI TİCARET VE LOJİSTİK (TEZSİZ)</option><option value="153">ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ</option><option value="608">UYGULAMALI EĞİTİM</option><option value="142">YABANCI DİLLER YÜKSEKOKULU</option><option value="620">YAPI İŞLERİ VE TEKNİK DAİRE BAŞKANLIĞI</option><option value="566">YARATICI ELLER TOPLULUĞU</option><option value="528">YAZI İŞLERİ MÜDÜRLÜĞÜ</option><option value="589">YENİLENEBİLİR ENERJİ TEKNOLOJİLERİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ</option><option value="576">YENİLER TOPLULUĞU</option><option value="575">YEŞİLAY TOPLULUĞU</option><option value="80">YÖNETİM VE ORGANİZASYON BÖLÜMÜ</option><option value="616">YURT MÜDÜRLÜĞÜ</option></select>
+</p>
+<p>
+<button class="cws-button btn-block border-radius alt small" type="submit" onclick="if (!window.__cfRLUnblockHandlers) return false; window.location='/duyuru-listesi/'+$('#birimid').val()" data-cf-modified-5e3ce4b01abb43be1c123c13-="">Filtrele</button>
+</p>
+</aside>
+ <aside class="widget-archives">
+<h2>Arşiv</h2>
+<hr class="divider-big">
+<ul>
+<li><a href="/duyuru-listesi/tarih/2019/04"><span> 2019 </span>Nisan <span class="badge">21</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2019/03"><span> 2019 </span>Mart <span class="badge">43</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2019/02"><span> 2019 </span>Şubat <span class="badge">43</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2019/01"><span> 2019 </span>Ocak <span class="badge">30</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/12"><span> 2018 </span>Aralık <span class="badge">34</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/11"><span> 2018 </span>Kasım <span class="badge">26</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/10"><span> 2018 </span>Ekim <span class="badge">22</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/09"><span> 2018 </span>Eylül <span class="badge">23</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/08"><span> 2018 </span>Ağustos <span class="badge">12</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/07"><span> 2018 </span>Temmuz <span class="badge">14</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/06"><span> 2018 </span>Haziran <span class="badge">37</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/05"><span> 2018 </span>Mayıs <span class="badge">24</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/04"><span> 2018 </span>Nisan <span class="badge">19</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/03"><span> 2018 </span>Mart <span class="badge">21</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/02"><span> 2018 </span>Şubat <span class="badge">35</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2018/01"><span> 2018 </span>Ocak <span class="badge">36</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/12"><span> 2017 </span>Aralık <span class="badge">31</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/11"><span> 2017 </span>Kasım <span class="badge">35</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/10"><span> 2017 </span>Ekim <span class="badge">24</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/09"><span> 2017 </span>Eylül <span class="badge">43</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/08"><span> 2017 </span>Ağustos <span class="badge">25</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/07"><span> 2017 </span>Temmuz <span class="badge">20</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/06"><span> 2017 </span>Haziran <span class="badge">23</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/05"><span> 2017 </span>Mayıs <span class="badge">18</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/04"><span> 2017 </span>Nisan <span class="badge">21</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/03"><span> 2017 </span>Mart <span class="badge">12</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/02"><span> 2017 </span>Şubat <span class="badge">25</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2017/01"><span> 2017 </span>Ocak <span class="badge">43</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2016/12"><span> 2016 </span>Aralık <span class="badge">18</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2016/11"><span> 2016 </span>Kasım <span class="badge">20</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2016/10"><span> 2016 </span>Ekim <span class="badge">2</span></a></li>
+<li><a href="/duyuru-listesi/tarih/2016/04"><span> 2016 </span>Nisan <span class="badge">186</span></a></li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<footer style="padding-bottom: 70px;">
+<div class="grid-row">
+<div class="row clear-fix">
+<section class="col-md-4">
+<h2 class="corner-radius">Hızlı Bağlantılar</h2>
+<a class="linkler" href="/duyuru-listesi"> Üniversite Duyuruları </a>
+<a class="linkler" href="/haber-listesi">Üniversite Haberleri</a>
+<a class="linkler" href="/dahili-numaralar">Dahili Numaralar</a>
+<a class="linkler" href="http://mbs.toros.edu.tr">Mezun Bilgi Sistemi</a>
+<a class="linkler" href="http://tormed.toros.edu.tr">Tormed </a>
+<a class="linkler" href="http://torsim.toros.edu.tr">Torsim </a>
+<a class="linkler" href="/icerik/kutuphane-ve-dokumantasyon-daire-baskanligi">Kütüphane</a>
+<a class="linkler" href="/abis"> Abis </a>
+<a class="linkler" href="/icerik/toros-sports-center">Toros Sports Center </a>
+<a class="linkler" href="http://webmail.toros.edu.tr">Toros Web Mail</a>
+<a class="linkler" href="/panel"> Panel Girişi </a>
+<a class="linkler" href="http://ebys.toros.edu.tr">Toros EBYS Sistemi</a>
+</section>
+<section class="col-md-4 col-xs-4 text-center">
+<h2 class="corner-radius">Mevzuat</h2>
+<a class="linkler" href="/icerik/toros-universitesi-yonergeler-ve-esaslar">YÖNERGELER VE ESASLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-yonetmelikler">YÖNETMELİKLER</a>
+<a class="linkler" href="/icerik/toros-universitesi-stratejik-planlar">STRATEJİK PLANLAR</a>
+<a class="linkler" href="/icerik/toros-universitesi-kurum-ic-degerlendirme-raporlari">KURUM İÇ DEĞERLENDİRME RAPORLARI</a>
+ </section>
+<section class="col-md-4 text-center">
+<h2 class="corner-radius">Sosyal Bağlantılar</h2>
+<div class="col-md-3 col-md-push-3 text-center">
+<a href="https://www.cimer.gov.tr/"> <img src="https://dosyahastane.saglik.gov.tr/Resim/10909,cimerpng.png?0" height="44" width="44" class=" social-icon img-responsive"></a>
+</div>
+<div class="col-md-2 col-md-push-2 text-center">  </div>
+<a href="/dilek-sikayet-formu" class="social-icon fa fa-user"> </a>
+<a href="https://www.facebook.com/TorosUniversity/" class="social-icon fa fa-facebook"></a>
+<a href="https://www.linkedin.com/in/toros-universitesi-31b80153" class="social-icon fa fa-linkedin"></a>
+<a href="https://www.youtube.com/channel/UCjbGEjnE-zoWaKJjPKF0Kqw" class="social-icon fa fa-youtube"></a>
+</section>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="grid-row clear-fix">
+<p style="text-align:center;line-height: 60px;font-size: 13px;">Toros Üniversitesi<span></span> 2009 - 2019 Tüm Hakları Saklıdır</p>
+ </div>
+</div>
+</footer> <div class="icon-menu" id="iconn">
+
+
+<a class="icon " style="background:#1f1f1f; padding-top: 1%;" href="https://oibs.toros.edu.tr">
+<i class="fa fa-graduation-cap"></i><p>Öğrenci Bilgi Sistemi</p></a>
+<a class="icon " style="background:#355d9f" href="https://hazirlik.toros.edu.tr/login.php">
+<i class="fa fa-language"></i><p>Hazırlık Bilgi Sistemi</p></a>
+<a class="icon " style="background:#004747; " href="http://erasmus.toros.edu.tr">
+<i class="fa fa-globe"></i><p>Dış İlişkiler</p></a>
+<a class="icon " style="background:#d7d618" href="http://bologna.toros.edu.tr/">
+<i class="fa fa-bold"></i><p>Bologna Süreci</p></a>
+<a class="icon " style="background:#18d0d7" href="http://mbs.toros.edu.tr">
+<i class="fa fa-database"></i><p>Mezun Bilgi Sistemi</p></a>
+<a class="icon " style="background:#0b137e" href="/icerik/kalite-koordinatorlugu">
+<i class="fa fa-users"></i><p>Kalite Güvence Sistemi</p></a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/moment.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/fullcalendar.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/lang-all.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src='/front/js/jquery.validate.min.js'></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.form.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/slick.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/TweenMax.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/main.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.isotope.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/owl.carousel.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery-ui.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jflickrfeed.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.tweet.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.fancybox.pack.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/jquery.fancybox-media.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/admin/bootstrap/js/bootstrap.min.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript">
+    $(document).ready(function() {
+        $('#main-carousel').find('.item').first().addClass('active');
+        $('.carousel').carousel({
+            interval: 7000
+        });
+                $("#iconn").owlCarousel({
+            items:6,
+            itemsMobile:[476,5],
+            itemsTablet:[768,6],
+            autoPlay:false
+        });
+            });
+    function dropdown() {
+        document.getElementById("myDropdown").classList.toggle("show");
+    }
+
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript" src="/front/js/select2.js"></script>
+<script type="5e3ce4b01abb43be1c123c13-text/javascript">
+        $(".js-example-basic-single").select2({
+            placeholder: "Birim Seçiniz",
+        });
+
+    </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="5e3ce4b01abb43be1c123c13-|49" defer=""></script></body>
+</html>

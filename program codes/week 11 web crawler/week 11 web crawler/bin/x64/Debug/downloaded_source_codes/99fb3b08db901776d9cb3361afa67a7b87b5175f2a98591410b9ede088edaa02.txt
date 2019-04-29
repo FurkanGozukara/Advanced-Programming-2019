@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sabri TEKLİ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="MESUT AKSAK">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Profil" />
+<link rel="shortcut icon" href="">
+<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link rel="stylesheet" href="/personal/css/bootstrap.css">
+<link rel="stylesheet" href="/personal/css/font-awesome.min.css">
+<link rel="stylesheet" href="/personal/css/perfect-scrollbar-0.4.5.min.css">
+<link rel="stylesheet" href="/personal/css/magnific-popup.css">
+<link rel="stylesheet" href="/personal/css/style.css">
+<link id="theme-style" rel="stylesheet" href="/personal/css/styles/1.css">
+
+
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery-1.10.2.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/TweenMax.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery.touchSwipe.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/modernizr.custom.63321.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery.dropdownit.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery.stellar.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/ScrollToPlugin.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/bootstrap.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/jquery.mixitup.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/masonry.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/magnific-popup.js"></script>
+
+</head>
+<body>
+<div id="wrapper">
+<a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+<div id="sidebar">
+<div id="main-nav">
+<div id="nav-container">
+<div id="profile" class="clearfix">
+<img class="portrate hidden-xs" src="/dosya/25/resim/2017-07-26-rsz_fotograf-sabri_tekli.jpg">
+<div class="title">
+<h2>Sabri TEKLİ</h2>
+</div>
+</div>
+<ul id="navigation">
+<li>
+<a href="#biography">
+<div class="icon icon-user"></div>
+<div class="text">Özgeçmiş</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+
+<div id="biography" class="page home" data-pos="home">
+<div class="pageheader">
+<div class="headercontent">
+<div class="section-container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h3 class="title">Özgeçmiş</h3>
+<p>Toros Üniversitesi Mütevelli Heyetindeki görevine 21/06/2017 tarihinde başlayan Sabri Tekli 1964 yılında Mersin'de doğmuştur. Özel Toros Koleji’nden mezun olduktan sonra 1980 yılında ağaç sektöründe iş hayatına başlamıştır. 1992 yılında Tekli Orman Ürünleri, 1996 yılında Ilgın Orman Ürünleri, 1999 yılında Yaren Orman Ürünleri ve 2000 yılında da Yalçın Orman Ürünleri fabrikalarını, 2002 yılında Ilgın Orman Ürünleri’nin Bursa Yenişehir'de ve 2004 yılında da Manisa Alaşehir'de Tekli Orman Ürünleri’nin şubelerini açarak sektöründe ayrı ayrı 6 işletmenin kuruculuğunu üstlenmiştir.</p>
+<p>2004 yılında Mersin Ahşap, Sandık ve Keresteciler Derneğini (MASKYD) kurarak 10 yıl başkanlığını yürütmüş ve şu an onursal başkan olarak dernekteki çalışmalarına devam etmektedir.</p>
+<p>37 yıllık meslek hayatını başarılı bir şekilde devam ettirmekte olan Sabri Tekli, 1999-2015 yılları arası Mersin Ticaret ve Sanayi Odasında Meclis Üyeliği, 2004-2009 yılları arasında ise Mersin Tarsus Organize Sanayi Bölgesinde Yönetim Kurulu Başkan Vekilliği yapmıştır. Haziran 2009'dan itibaren de Mersin Tarsus Organize Sanayi Bölgesi Yönetim Kurulu Başkanı olarak çalışmalarına devam etmekte olup, aynı zamanda Organize Sanayi Bölgeleri Üst Kuruluşunda (OSBÜK) Yönetim Kurulu Üyeliği ve Mersin İdman Yurdu Spor Kulübü, MersinGiad, MESİAD, Metik, İsgev, Morskud gibi sivil toplum örgütlerinde de üst düzey yönetici olarak görev yapmaktadır. Evli ve 3 çocuk babasıdır.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay"></div>
+</div>
+</div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="2f6ad5dc3affe37897ade721-|49" defer=""></script></body>
+<script type="2f6ad5dc3affe37897ade721-text/javascript" src="/personal/js/custom.js"></script>
+</html>
