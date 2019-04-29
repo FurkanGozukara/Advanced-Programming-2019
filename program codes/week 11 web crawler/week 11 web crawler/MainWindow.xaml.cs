@@ -41,10 +41,59 @@ namespace week_11_web_crawler
         {
             Directory.CreateDirectory(sourceFilesDirectory);
 
-            string srUrlHash = Cryptology.ComputeSha256HashFromString(txtRootUrl.Text);
+            if (File.Exists(srCrawledLinksPath))
+            {
+                foreach (var item in File.ReadLines(srCrawledLinksPath))
+                {
+                    hsCrawledLinks.Add(item);
+                }
+            }
+
+            if (File.Exists(srLinksDiscoveredPath))
+            {
+                foreach (var item in File.ReadLines(srLinksDiscoveredPath))
+                {
+                    if (hsCrawledLinks.Contains(item))
+                        continue;
+                    hsDiscoveredLinks.Add(item);
+                }
+            }
+
+            hsDiscoveredLinks.Add(txtRootUrl.Text);
+
+            while (true)
+            {
+                if (hsDiscoveredLinks.Count == 0)
+                    break;
+                string srNextUrl = "";
+                List<string> lstRemove = new List<string>();
+                foreach (var item in hsDiscoveredLinks)
+                {
+                    if (hsCrawledLinks.Contains(item))
+                        lstRemove.Add(item);
+                    else
+                    {
+                        srNextUrl = item;
+                        break;
+                    }
+                }
+                foreach (var item in lstRemove)
+                {
+                    hsDiscoveredLinks.Remove(item);
+                }
+                if (srNextUrl.Length == 0)
+                    break;
+
+                crawlGivenURL(srNextUrl);
+            }
+        }
+
+        private static void crawlGivenURL(string srCrawlURL)
+        {
+            string srUrlHash = Cryptology.ComputeSha256HashFromString(srCrawlURL);
             string srDownloadedFileSaveName = sourceFilesDirectory + "/" + srUrlHash + ".txt";
 
-            string srBaseUrl = txtRootUrl.Text;
+            string srBaseUrl = srCrawlURL;
 
             HTTPDownloader.WebPageDownloadResult myDownloadResult = new HTTPDownloader.WebPageDownloadResult();
 
@@ -56,6 +105,11 @@ namespace week_11_web_crawler
             {
                 myDownloadResult = HTTPDownloader.FuncCrawlGivenURL(srBaseUrl);
 
+                if(myDownloadResult.occuredException!=null)
+                    {
+                    File.AppendAllText("errors.txt",srBaseUrl + "\r\n" + myDownloadResult.occuredException.StackTrace+"\r\n\r\n\r\n");
+                }
+
                 if (myDownloadResult.httpStatusResult == System.Net.HttpStatusCode.OK)
                 {
                     hsCrawledLinks.Add(srBaseUrl);
@@ -64,6 +118,8 @@ namespace week_11_web_crawler
                 }
             }
 
+
+
             HtmlDocument hdDoc = new HtmlDocument();
             hdDoc.LoadHtml(myDownloadResult.srCrawledPageSource);
 
@@ -71,25 +127,23 @@ namespace week_11_web_crawler
 
             List<string> lstDiscoveredLinks = new List<string>();
 
-            foreach (var vrNode in links)
-            {
-                if (vrNode.Attributes["href"] != null)
+            if (links != null)
+                foreach (var vrNode in links)
                 {
-                    string srNewAbsLink = vrNode.Attributes["href"].Value.ToString();
-                    srNewAbsLink = HTTPDownloader.ReturnAbsUrl(srBaseUrl, srNewAbsLink);
-                    if (srNewAbsLink == null)
-                        continue;
-                    lstDiscoveredLinks.Add(srNewAbsLink);
-                    hsDiscoveredLinks.Add(srNewAbsLink);
-                    Debug.WriteLine(srNewAbsLink);
+                    if (vrNode.Attributes["href"] != null)
+                    {
+                        string srNewAbsLink = vrNode.Attributes["href"].Value.ToString();
+                        srNewAbsLink = HTTPDownloader.ReturnAbsUrl(srBaseUrl, srNewAbsLink, "toros.edu.tr");
+                        if (srNewAbsLink == null)
+                            continue;
+                        lstDiscoveredLinks.Add(srNewAbsLink);
+                        hsDiscoveredLinks.Add(srNewAbsLink);
+                        Debug.WriteLine(srNewAbsLink);
+                    }
                 }
-            }
 
             lstDiscoveredLinks = lstDiscoveredLinks.Distinct().ToList();
             File.AppendAllLines(srLinksDiscoveredPath, lstDiscoveredLinks);
-          
         }
-
-
     }
 }

@@ -46,11 +46,11 @@ namespace week_11_web_crawler
             return tempResult;
         }
 
-        public static string ReturnAbsUrl(string srBaseUrl, string relativeUrl)
+        public static string ReturnAbsUrl(string srBaseUrl, string relativeUrl, string srMustHave = "")
         {
             Uri newAbsUrl = null;
             Uri urlbase = new Uri(srBaseUrl);
-           
+
             Uri.TryCreate(urlbase, relativeUrl, out newAbsUrl);
 
             if (newAbsUrl == null)
@@ -63,7 +63,13 @@ namespace week_11_web_crawler
             if (result == false)
                 return null;
 
-            return newAbsUrl.ToString();
+            string srFinalUrl = newAbsUrl.ToString().Split('#').First();
+
+            if (srMustHave.Length > 0)
+                if (srFinalUrl.Contains(srMustHave) == false)
+                    return null;
+
+            return srFinalUrl;
         }
     }
 }
