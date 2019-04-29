@@ -30,6 +30,10 @@ namespace week_11_web_crawler
         private static HashSet<string> hsDiscoveredLinks = new HashSet<string>();
         private static HashSet<string> hsCrawledLinks = new HashSet<string>();
 
+        private static Dictionary<string, HTTPDownloader.csUrlFails> dicFailedUrls = 
+            new Dictionary<string, HTTPDownloader.csUrlFails>();
+
+
         public MainWindow()
         {
             InitializeComponent();
@@ -59,6 +63,8 @@ namespace week_11_web_crawler
                 }
             }
 
+            HTTPDownloader.readFailedUrls(ref dicFailedUrls);
+
             hsDiscoveredLinks.Add(txtRootUrl.Text);
 
             while (true)
@@ -69,6 +75,21 @@ namespace week_11_web_crawler
                 List<string> lstRemove = new List<string>();
                 foreach (var item in hsDiscoveredLinks)
                 {
+                    if (dicFailedUrls.ContainsKey(item.func_GenerateURLHash()))
+                    {
+                        if (dicFailedUrls[item.func_GenerateURLHash()].irFailCount >= 3)
+                        {
+                            if (dicFailedUrls[item.func_GenerateURLHash()].dtPause.AddHours(24) < DateTime.Now)
+                            {
+                                continue;
+                            }
+                            else
+                            {
+                                dicFailedUrls.Remove(item.func_GenerateURLHash());
+                            }
+                        }
+                    }
+
                     if (hsCrawledLinks.Contains(item))
                         lstRemove.Add(item);
                     else
@@ -88,9 +109,11 @@ namespace week_11_web_crawler
             }
         }
 
+
+
         private static void crawlGivenURL(string srCrawlURL)
         {
-            string srUrlHash = Cryptology.ComputeSha256HashFromString(srCrawlURL);
+            string srUrlHash = srCrawlURL.func_GenerateURLHash();
             string srDownloadedFileSaveName = sourceFilesDirectory + "/" + srUrlHash + ".txt";
 
             string srBaseUrl = srCrawlURL;
@@ -105,9 +128,21 @@ namespace week_11_web_crawler
             {
                 myDownloadResult = HTTPDownloader.FuncCrawlGivenURL(srBaseUrl);
 
-                if(myDownloadResult.occuredException!=null)
+                if (myDownloadResult.occuredException != null)
+                {
+                    File.AppendAllText("errors.txt", srBaseUrl + "\r\n" + myDownloadResult.occuredException.StackTrace + "\r\n\r\n\r\n");
+
+                    if(dicFailedUrls.ContainsKey(srBaseUrl.func_GenerateURLHash()))
                     {
-                    File.AppendAllText("errors.txt",srBaseUrl + "\r\n" + myDownloadResult.occuredException.StackTrace+"\r\n\r\n\r\n");
+                        dicFailedUrls[srBaseUrl.func_GenerateURLHash()].irFailCount++;
+                        dicFailedUrls[srBaseUrl.func_GenerateURLHash()].dtPause = DateTime.Now;
+                    }
+                    else
+                    {
+                        dicFailedUrls.Add(srBaseUrl.func_GenerateURLHash(), new HTTPDownloader.csUrlFails { dtPause = DateTime.Now, irFailCount = 1, srUrl = srBaseUrl });
+                    }
+
+                    HTTPDownloader.writeFailedUrlsToFile(dicFailedUrls);
                 }
 
                 if (myDownloadResult.httpStatusResult == System.Net.HttpStatusCode.OK)
@@ -117,8 +152,6 @@ namespace week_11_web_crawler
                     File.WriteAllText(srDownloadedFileSaveName, myDownloadResult.srCrawledPageSource);
                 }
             }
-
-
 
             HtmlDocument hdDoc = new HtmlDocument();
             hdDoc.LoadHtml(myDownloadResult.srCrawledPageSource);

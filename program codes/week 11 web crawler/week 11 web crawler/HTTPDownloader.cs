@@ -71,5 +71,32 @@ namespace week_11_web_crawler
 
             return srFinalUrl;
         }
+
+        public class csUrlFails
+        {
+            public string srUrl = "";
+            public int irFailCount = 0;
+            public DateTime dtPause = DateTime.UtcNow;
+        }
+
+        public static void writeFailedUrlsToFile(Dictionary<string, csUrlFails> dicFailedUrls)
+        {
+            var obj = Newtonsoft.Json.JsonConvert.SerializeObject(dicFailedUrls);
+
+            File.WriteAllText("failedUrls.txt", obj);
+        }
+
+        public static void readFailedUrls(ref Dictionary<string, csUrlFails> dicFailedUrls)
+        {
+            if (!File.Exists("failedUrls.txt"))
+                return;
+
+            dicFailedUrls = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, csUrlFails>>(File.ReadAllText("failedUrls.txt"));
+        }
+
+        public static string func_GenerateURLHash(this string srUrl)
+        {
+            return Cryptology.ComputeSha256HashFromString(srUrl);
+        }
     }
 }

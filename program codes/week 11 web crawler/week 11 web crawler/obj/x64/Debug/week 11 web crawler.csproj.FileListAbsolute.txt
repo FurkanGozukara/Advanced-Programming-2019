@@ -17,3 +17,5 @@ C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11
 C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\x64\Debug\HtmlAgilityPack.pdb
 C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\x64\Debug\HtmlAgilityPack.xml
 C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\obj\x64\Debug\week 11 web crawler.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Furkan Gözükara\Desktop\ileri programalama 2019\program codes\week 11 web crawler\week 11 web crawler\bin\x64\Debug\Newtonsoft.Json.xml
